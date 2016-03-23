@@ -1,6 +1,6 @@
 {
   "name": "ios-device-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Searchable collection of Apple devices",
   "main": "index.js",
   "engines": {
@@ -13,6 +13,18 @@
   },
   "author": "Peter Bakondy",
   "license": "MIT",
+  "keywords": [
+    "ios",
+    "iphone",
+    "ipad",
+    "ipod",
+    "watch",
+    "device",
+    "devices",
+    "model",
+    "fccid",
+    "list"
+  ],
   "devDependencies": {
     "ava": "^0.13.0",
     "eslint": "^2.4.0",
