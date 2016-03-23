@@ -1,0 +1,34 @@
+{
+  "name": "ios-device-list",
+  "version": "1.0.0",
+  "description": "Searchable collection of Apple devices",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava",
+    "lint": "eslint index.js saved/save.js",
+    "save": "node saved/save.js"
+  },
+  "author": "Peter Bakondy",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "eslint": "^2.4.0",
+    "jsdom": "^8.1.0"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.3.1",
+    "lodash.flatten": "^4.1.0",
+    "lodash.uniq": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbakondy/ios-device-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pbakondy/ios-device-list/issues"
+  },
+  "homepage": "https://github.com/pbakondy/ios-device-list#readme"
+}

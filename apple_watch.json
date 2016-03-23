@@ -1,0 +1,72 @@
+[
+  {
+    "Generation": "Apple Watch",
+    "ANumber": [ "A1553" ],
+    "Bootrom": "?",
+    "Variant": null,
+    "FCCID": "BCG-E2870",
+    "InternalName": "N27aAP",
+    "Identifier": "Watch1,1",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Storage": "8 GB",
+        "Model": [ "MJ2T2", "MJ2V2", "MJ2U2", "MJ2W2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Black",
+        "Storage": "8 GB",
+        "Model": [ "MJ2X2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Stainless Steel",
+        "Storage": "8 GB",
+        "Model": [ "MJ302", "MJ2Y2", "MJ312", "MJ322", "MJYK2", "MJ332", "MJ362", "MJ3A2", "MJ3E2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Storage": "8 GB",
+        "Model": [ "MJ3F2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch",
+    "ANumber": [ "A1554", "A1638" ],
+    "Bootrom": "?",
+    "Variant": null,
+    "FCCID": "BCG-E2871",
+    "InternalName": "N28aAP",
+    "Identifier": "Watch1,2",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Storage": "8 GB",
+        "Model": [ "MJ3N2", "MJ3Q2", "MJ3P2", "MJ3R2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Black",
+        "Storage": "8 GB",
+        "Model": [ "MJ3T2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Stainless Steel",
+        "Storage": "8 GB",
+        "Model": [ "MJ3V2", "MJ3U2", "MJ3X2", "MJ3Y2", "MJYN2", "MJ452", "MJ432", "MJ402", "MJ472" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Storage": "8 GB",
+        "Model": [ "MJ482" ]
+      }
+    ]
+  }
+]

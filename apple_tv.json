@@ -1,0 +1,71 @@
+[
+  {
+    "Generation": "Apple TV 2G",
+    "ANumber": "A1378",
+    "Bootrom": "Bootrom 574.4",
+    "Variant": null,
+    "FCCID": "BCGA1378",
+    "InternalName": "K66AP",
+    "Identifier": "AppleTV2,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MC572" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV 3G",
+    "ANumber": "A1427",
+    "Bootrom": "ROM",
+    "Variant": "AppleTV3,1",
+    "FCCID": "BCGA1427",
+    "InternalName": "J33AP",
+    "Identifier": "AppleTV3,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MD199" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV 3G",
+    "ANumber": "A1469",
+    "Bootrom": "Bootrom 1458.2",
+    "Variant": "AppleTV3,2",
+    "FCCID": "BCGA1469",
+    "InternalName": "J33IAP",
+    "Identifier": "AppleTV3,2",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MD199" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV 4G",
+    "ANumber": "A1625",
+    "Bootrom": "?",
+    "Variant": null,
+    "FCCID": "BCGA1625",
+    "InternalName": "J42dAP",
+    "Identifier": "AppleTV5,3",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MGY52" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MLNC2" ]
+      }
+    ]
+  }
+]

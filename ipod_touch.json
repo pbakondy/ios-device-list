@@ -1,0 +1,400 @@
+[
+  {
+    "Generation": "iPod touch",
+    "ANumber": [ "A1213" ],
+    "Bootrom": "Bootrom Rev.2",
+    "Variant": null,
+    "FCCID": "BCGA1213",
+    "InternalName": "N45AP",
+    "Identifier": "iPod1,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MA623", "MA624", "MA839" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "16 GB",
+        "Model": [ "MA627", "MA628" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MB376" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 2G",
+    "ANumber": [ "A1288", "A1319" ],
+    "Bootrom": "Bootrom 240.4",
+    "Variant": null,
+    "FCCID": "BCGA1288",
+    "InternalName": "N72AP",
+    "Identifier": "iPod2,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MB525", "MB528", "MB529" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "16 GB",
+        "Model": [ "MB531", "MB532" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MB533", "MB534" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 2G",
+    "ANumber": [ "A1288", "A1319" ],
+    "Bootrom": "Bootrom 240.5.1",
+    "Variant": null,
+    "FCCID": "BCGA1288",
+    "InternalName": "N72AP",
+    "Identifier": "iPod2,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MC086" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 3G",
+    "ANumber": [ "A1318" ],
+    "Bootrom": "Bootrom 359.5",
+    "Variant": null,
+    "FCCID": "BCG‑2310",
+    "InternalName": "N18AP",
+    "Identifier": "iPod3,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MC008" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MC011" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 4G",
+    "ANumber": [ "A1367" ],
+    "Bootrom": "Bootrom 574.4",
+    "Variant": null,
+    "FCCID": "BCG‑E2407",
+    "InternalName": "N81AP",
+    "Identifier": "iPod4,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "8 GB",
+        "Model": [ "MC540" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "16 GB",
+        "Model": [ "ME178" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MC544" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MC547" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "8 GB",
+        "Model": [ "MD057" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "16 GB",
+        "Model": [ "ME179" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "32 GB",
+        "Model": [ "MD058" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MD059" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 5G",
+    "ANumber": [ "A1421" ],
+    "Bootrom": "ROM",
+    "Variant": null,
+    "FCCID": "BCG‑A1421",
+    "InternalName": "N78AP",
+    "Identifier": "iPod5,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MD723" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MD724" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "16 GB",
+        "Model": [ "MGG32" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "32 GB",
+        "Model": [ "MD717" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MD718" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "16 GB",
+        "Model": [ "MGFY2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "32 GB",
+        "Model": [ "MC903" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "64 GB",
+        "Model": [ "MC904" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "16 GB",
+        "Model": [ "MGG72" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "32 GB",
+        "Model": [ "MD749" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MD750" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MGG52" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MD720" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MD721" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MGG82" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "ME978" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "ME979" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "16 GB",
+        "Model": [ "MGG12" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "32 GB",
+        "Model": [ "MD714" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MD715" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 5G",
+    "ANumber": [ "A1509" ],
+    "Bootrom": "ROM",
+    "Variant": null,
+    "FCCID": "BCG‑A1421",
+    "InternalName": "N78aAP",
+    "Identifier": "iPod5,1",
+    "Models": [
+      {
+        "Color": "Black & Silver",
+        "Storage": "16 GB",
+        "Model": [ "ME643" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPod touch 6G",
+    "ANumber": [ "A1574" ],
+    "Bootrom": "Bootrom 1992.0.0.1.19",
+    "Variant": null,
+    "FCCID": "BCGA1574",
+    "InternalName": "N102AP",
+    "Identifier": "iPod7,1",
+    "Models": [
+      {
+        "Color": "Blue",
+        "Storage": "16 GB",
+        "Model": [ "MKH22" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "32 GB",
+        "Model": [ "MKHV2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MKHE2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MKWP2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "16 GB",
+        "Model": [ "MKH02" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MKHT2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MKHC2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MKWM2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "16 GB",
+        "Model": [ "MKGX2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "32 GB",
+        "Model": [ "MKHQ2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "64 GB",
+        "Model": [ "MKGW2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "128 GB",
+        "Model": [ "MKWK2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "16 GB",
+        "Model": [ "MKH82" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "32 GB",
+        "Model": [ "MKJ22" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MKHN2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MKWW2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MKH42" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MKHX2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MKHJ2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MKWR2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MKH62" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MKJ02" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MKHL2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MKWU2" ]
+      }
+    ]
+  }
+]

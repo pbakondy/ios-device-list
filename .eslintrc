@@ -1,0 +1,22 @@
+{
+    "rules": {
+        "indent": [
+            1,
+            2
+        ],
+        "quotes": [
+            1,
+            "single"
+        ],
+        "semi": [
+            2,
+            "always"
+        ],
+        "no-console": 0
+    },
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "extends": "eslint:recommended"
+}
