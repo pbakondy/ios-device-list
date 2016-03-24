@@ -111,8 +111,8 @@ test('storages()', t => {
 test('models()', t => {
   t.is(typeof devices.models, 'function');
   t.ok(Array.isArray(devices.models()));
-  t.is(devices.models().length, 684);
-  t.is(devices.models('iphone').length, 310);
+  t.is(devices.models().length, 714);
+  t.is(devices.models('iphone').length, 317);
   t.throws(function() { devices.models('invalidType') });
 });
 
