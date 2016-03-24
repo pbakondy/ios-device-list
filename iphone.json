@@ -618,49 +618,49 @@
     "ANumber": [ "A1662", "A1723", "A1724" ],
     "Bootrom": [ "Bootrom 2234.0.0.3.3 (S8000)", "Bootrom 2234.0.0.2.22 (S8003)" ],
     "Variant": "iPhone8,4",
-    "FCCID": [ "?" ],
+    "FCCID": [ "BCG‑E2945A" ],
     "InternalName": [ "N69AP", "N69uAP" ],
     "Identifier": "iPhone8,4",
     "Models": [
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "" ]
+        "Model": [ "MLXH2" ]
       },
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "" ]
+        "Model": [ "MLXK2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "16 GB",
-        "Model": [ "" ]
+        "Model": [ "MLXJ2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "64 GB",
-        "Model": [ "" ]
+        "Model": [ "MLXL2" ]
       },
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "" ]
+        "Model": [ "MLLM2" ]
       },
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "" ]
+        "Model": [ "MLM52" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "" ]
+        "Model": [ "MLLL2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "" ]
+        "Model": [ "MLM42" ]
       }
     ]
   },
