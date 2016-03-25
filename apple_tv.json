@@ -50,7 +50,7 @@
   {
     "Generation": "Apple TV 4G",
     "ANumber": "A1625",
-    "Bootrom": "?",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
     "Variant": null,
     "FCCID": "BCGA1625",
     "InternalName": "J42dAP",

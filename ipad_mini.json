@@ -446,7 +446,7 @@
   {
     "Generation": "iPad mini 4",
     "ANumber": "A1538",
-    "Bootrom": "?",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
     "Variant": "iPad5,1",
     "FCCID": "BCGA1538",
     "InternalName": "J96AP",
@@ -502,7 +502,7 @@
   {
     "Generation": "iPad mini 4",
     "ANumber": "A1550",
-    "Bootrom": "?",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
     "Variant": "iPad5,2",
     "FCCID": "BCGA1550",
     "InternalName": "J97AP",
