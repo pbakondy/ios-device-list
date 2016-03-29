@@ -8,6 +8,7 @@ Generation, "A" Number, Bootrom, Variant, FCC ID, Internal Name, Identifier, Cas
 Sources:
 - https://en.wikipedia.org/wiki/List_of_iOS_devices
 - https://www.theiphonewiki.com/wiki/Models
+- https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIDevice_Class/
 
 ## Install
 
