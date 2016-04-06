@@ -1,6 +1,6 @@
 {
   "name": "ios-device-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Searchable collection of Apple devices",
   "main": "index.js",
   "engines": {
