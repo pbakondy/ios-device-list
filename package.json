@@ -26,14 +26,14 @@
     "list"
   ],
   "devDependencies": {
-    "ava": "^0.13.0",
-    "eslint": "^2.4.0",
-    "jsdom": "^8.1.0"
+    "ava": "^0.14.0",
+    "eslint": "^2.7.0",
+    "jsdom": "^8.3.1"
   },
   "dependencies": {
-    "lodash.clonedeep": "^4.3.1",
-    "lodash.flatten": "^4.1.0",
-    "lodash.uniq": "^4.2.0"
+    "lodash.clonedeep": "^4.3.2",
+    "lodash.flatten": "^4.2.0",
+    "lodash.uniq": "^4.2.1"
   },
   "repository": {
     "type": "git",
