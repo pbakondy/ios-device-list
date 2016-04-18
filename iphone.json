@@ -676,17 +676,17 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MG492", "MG3D2" ]
+        "Model": [ "MG3D2", "MG492" ]
       },
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MG4J2", "MG3L2" ]
+        "Model": [ "MG3L2", "MG4J2" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MG4E2", "MG3G2" ]
+        "Model": [ "MG3G2", "MG4E2" ]
       },
       {
         "Color": "Silver",
@@ -706,7 +706,7 @@
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "MG3A2", "MG472", "MG4N2" ]
+        "Model": [ "MG3A2", "MG4N2", "MG472" ]
       },
       {
         "Color": "Space Gray",
@@ -767,7 +767,7 @@
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MGAH2", "MGC52", "MGAU2" ]
+        "Model": [ "MGAH2", "MGAU2", "MGC52" ]
       },
       {
         "Color": "Space Gray",
@@ -838,7 +838,7 @@
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MKQN2", "ML7G2" ]
+        "Model": [ "MKQN2", "MKQ92", "ML7G2" ]
       },
       {
         "Color": "Space Gray",

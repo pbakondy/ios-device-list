@@ -1,6 +1,6 @@
 {
   "name": "ios-device-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Searchable collection of Apple devices",
   "main": "index.js",
   "engines": {
@@ -27,8 +27,8 @@
   ],
   "devDependencies": {
     "ava": "^0.14.0",
-    "eslint": "^2.7.0",
-    "jsdom": "^8.3.1"
+    "eslint": "^2.8.0",
+    "jsdom": "^8.4.0"
   },
   "dependencies": {
     "lodash.clonedeep": "^4.3.2",
