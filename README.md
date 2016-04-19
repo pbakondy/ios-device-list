@@ -16,10 +16,25 @@ Sources:
 $ npm install ios-device-list
 ```
 
+```
+$ bower install ios-device-list
+```
+
 ## Usage
+
+In node:
 
 ```js
 var iosDevices = require('ios-device-list');
+```
+
+In browser:
+
+```html
+<script src="bower_components/ios-device-list/dist/ios-device-list.min.js"></script>
+<script>
+  window.iosDeviceList // Object
+</script>
 ```
 
 ### `.deviceTypes()` : Array

@@ -1,0 +1,29 @@
+{
+  "name": "ios-device-list",
+  "description": "Searchable collection of Apple devices",
+  "main": "dist/ios-device-list.min.js",
+  "authors": [
+    "Peter Bakondy <pbakondy@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ios",
+    "iphone",
+    "ipad",
+    "ipod",
+    "watch",
+    "device",
+    "devices",
+    "model",
+    "fccid",
+    "list"
+  ],
+  "homepage": "https://github.com/pbakondy/ios-device-list",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
