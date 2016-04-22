@@ -1,5 +1,8 @@
 # iOS device list
 
+[![npm](https://img.shields.io/npm/v/ios-device-list.svg)](https://www.npmjs.com/package/ios-device-list)
+[![Bower](https://img.shields.io/bower/v/ios-device-list.svg)](http://bower.io/search/?q=ios-device-list)
+
 Searchable collection of Apple devices.
 
 Parameters per device:
