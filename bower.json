@@ -1,7 +1,7 @@
 {
   "name": "ios-device-list",
   "description": "Searchable collection of Apple devices",
-  "main": "dist/ios-device-list.min.js",
+  "main": "dist/ios-device-list.js",
   "authors": [
     "Peter Bakondy <pbakondy@gmail.com>"
   ],

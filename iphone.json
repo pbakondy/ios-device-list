@@ -691,12 +691,12 @@
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "MG3C2", "MG482" ]
+        "Model": [ "MG3C2", "MG4P2", "MG482", "MG5X2", "MG552", "MG6A2" ]
       },
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MG3K2", "MG4H2" ]
+        "Model": [ "MG3K2", "MG4H2", "MG4X2", "MG5C2", "MG6H2", "MG642" ]
       },
       {
         "Color": "Silver",
@@ -706,12 +706,12 @@
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "MG3A2", "MG4N2", "MG472" ]
+        "Model": [ "MG3A2", "MG4N2", "MG472", "MG5W2", "MG542", "MG692" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MG3H2", "MG4F2", "MG5A2" ]
+        "Model": [ "MG3H2", "MG4F2", "MG4W2", "MG5A2", "MG6G2", "MG632" ]
       },
       {
         "Color": "Space Gray",
@@ -788,32 +788,32 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MKQL2", "ML7E2" ]
+        "Model": [ "MKQL2", "MKQ72", "MKRE2", "MKRW2", "MKR12", "MKT92", "ML7E2" ]
       },
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MKQC2", "MKQQ2", "ML7J2" ]
+        "Model": [ "MKQC2", "MKQQ2", "MKRJ2", "MKR52", "MKTE2", "MKT12", "ML7J2" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MKQV2", "ML7N2" ]
+        "Model": [ "MKQG2", "MKQV2", "MKRP2", "MKR92", "MKTJ2", "MKT52", "ML7N2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "16 GB",
-        "Model": [ "MKQM2", "ML7F2" ]
+        "Model": [ "MKQM2", "MKQ82", "MKRF2", "MKRX2", "MKR22", "MKTA2", "ML7F2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "64 GB",
-        "Model": [ "MKQR2", "ML7K2" ]
+        "Model": [ "MKQD2", "MKQR2", "MKRK2", "MKR62", "MKTF2", "MKT22", "ML7K2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ "MKQW2", "ML7P2" ]
+        "Model": [ "MKQH2", "MKQW2", "MKRA2", "MKRQ2", "MKTK2", "MKT62", "ML7P2" ]
       },
       {
         "Color": "Silver",
