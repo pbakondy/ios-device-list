@@ -30,6 +30,7 @@ function fetch () {
       if (err) throw err;
       var h = window.document.getElementById('content').outerHTML;
       fs.writeFile(MODELS_FILE, HTML_START + h + HTML_END, err => {
+        if (err) throw err;
         console.log('Content saved to ' + MODELS_FILE);
       });
     }

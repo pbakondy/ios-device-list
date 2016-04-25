@@ -7029,41 +7029,65 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Gold",
 					"Storage": "16 GB",
 					"Model": [
-						"MLXH2"
+						"MLXH2",
+						"MLXW2",
+						"MLY12",
+						"MLY52",
+						"MLY92"
 					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "64 GB",
 					"Model": [
-						"MLXK2"
+						"MLXK2",
+						"MLXY2",
+						"MLYC2",
+						"MLY32",
+						"MLY72"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "16 GB",
 					"Model": [
-						"MLXJ2"
+						"MLXJ2",
+						"MLXX2",
+						"MLYA2",
+						"MLY22",
+						"MLY62"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "64 GB",
 					"Model": [
-						"MLXL2"
+						"MLXL2",
+						"MLYD2",
+						"MLY42",
+						"MLY02",
+						"MLY82"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "16 GB",
 					"Model": [
-						"MLLM2"
+						"MLLM2",
+						"MLLV2",
+						"MLLX2",
+						"MLM02",
+						"MLM32"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "64 GB",
 					"Model": [
+						"MLMC2",
+						"MLME2",
+						"MLMG2",
+						"MLMJ2",
 						"MLM52"
 					]
 				},
@@ -7071,13 +7095,21 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Space Gray",
 					"Storage": "16 GB",
 					"Model": [
-						"MLLL2"
+						"MLLL2",
+						"MLLU2",
+						"MLLW2",
+						"MLLY2",
+						"MLM22"
 					]
 				},
 				{
 					"Color": "Space Gray",
 					"Storage": "64 GB",
 					"Model": [
+						"MLMA2",
+						"MLMD2",
+						"MLMF2",
+						"MLMH2",
 						"MLM42"
 					]
 				}
@@ -7128,7 +7160,11 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MG3C2",
-						"MG482"
+						"MG4P2",
+						"MG482",
+						"MG5X2",
+						"MG552",
+						"MG6A2"
 					]
 				},
 				{
@@ -7136,7 +7172,11 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "64 GB",
 					"Model": [
 						"MG3K2",
-						"MG4H2"
+						"MG4H2",
+						"MG4X2",
+						"MG5C2",
+						"MG6H2",
+						"MG642"
 					]
 				},
 				{
@@ -7153,7 +7193,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MG3A2",
 						"MG4N2",
-						"MG472"
+						"MG472",
+						"MG5W2",
+						"MG542",
+						"MG692"
 					]
 				},
 				{
@@ -7162,7 +7205,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MG3H2",
 						"MG4F2",
-						"MG5A2"
+						"MG4W2",
+						"MG5A2",
+						"MG6G2",
+						"MG632"
 					]
 				},
 				{
@@ -7286,6 +7332,11 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MKQL2",
+						"MKQ72",
+						"MKRE2",
+						"MKRW2",
+						"MKR12",
+						"MKT92",
 						"ML7E2"
 					]
 				},
@@ -7295,6 +7346,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQC2",
 						"MKQQ2",
+						"MKRJ2",
+						"MKR52",
+						"MKTE2",
+						"MKT12",
 						"ML7J2"
 					]
 				},
@@ -7302,7 +7357,12 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Gold",
 					"Storage": "128 GB",
 					"Model": [
+						"MKQG2",
 						"MKQV2",
+						"MKRP2",
+						"MKR92",
+						"MKTJ2",
+						"MKT52",
 						"ML7N2"
 					]
 				},
@@ -7311,6 +7371,11 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MKQM2",
+						"MKQ82",
+						"MKRF2",
+						"MKRX2",
+						"MKR22",
+						"MKTA2",
 						"ML7F2"
 					]
 				},
@@ -7318,7 +7383,12 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Rose Gold",
 					"Storage": "64 GB",
 					"Model": [
+						"MKQD2",
 						"MKQR2",
+						"MKRK2",
+						"MKR62",
+						"MKTF2",
+						"MKT22",
 						"ML7K2"
 					]
 				},
@@ -7326,7 +7396,12 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Rose Gold",
 					"Storage": "128 GB",
 					"Model": [
+						"MKQH2",
 						"MKQW2",
+						"MKRA2",
+						"MKRQ2",
+						"MKTK2",
+						"MKT62",
 						"ML7P2"
 					]
 				},
@@ -7335,6 +7410,11 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MKQK2",
+						"MKQY2",
+						"MKQ62",
+						"MKRD2",
+						"MKRT2",
+						"MKT82",
 						"ML7D2",
 						"NKQJ2"
 					]
@@ -7343,7 +7423,12 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Silver",
 					"Storage": "64 GB",
 					"Model": [
+						"MKQA2",
 						"MKQP2",
+						"MKRH2",
+						"MKR42",
+						"MKTD2",
+						"MKT02",
 						"ML7H2"
 					]
 				},
@@ -7351,7 +7436,12 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Silver",
 					"Storage": "128 GB",
 					"Model": [
+						"MKQF2",
 						"MKQU2",
+						"MKRM2",
+						"MKR82",
+						"MKTH2",
+						"MKT42",
 						"ML7M2"
 					]
 				},
@@ -7360,6 +7450,11 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MKQJ2",
+						"MKQX2",
+						"MKQ52",
+						"MKRC2",
+						"MKRR2",
+						"MKT72",
 						"ML7C2"
 					]
 				},
@@ -7369,6 +7464,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQN2",
 						"MKQ92",
+						"MKRG2",
+						"MKRY2",
+						"MKR32",
+						"MKTC2",
 						"ML7G2"
 					]
 				},
@@ -7376,7 +7475,12 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Space Gray",
 					"Storage": "128 GB",
 					"Model": [
+						"MKQE2",
 						"MKQT2",
+						"MKRL2",
+						"MKR72",
+						"MKTG2",
+						"MKT32",
 						"ML7L2"
 					]
 				}
@@ -7801,7 +7905,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Silver",
 					"Storage": "32 GB",
 					"Model": [
-						"MD720"
+						"MD720",
+						"ME108"
 					]
 				},
 				{
