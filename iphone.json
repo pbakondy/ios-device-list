@@ -625,42 +625,42 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MLXH2" ]
+        "Model": [ "MLXH2", "MLXW2", "MLY12", "MLY52", "MLY92" ]
       },
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MLXK2" ]
+        "Model": [ "MLXK2", "MLXY2", "MLYC2", "MLY32", "MLY72" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "16 GB",
-        "Model": [ "MLXJ2" ]
+        "Model": [ "MLXJ2", "MLXX2", "MLYA2", "MLY22", "MLY62" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "64 GB",
-        "Model": [ "MLXL2" ]
+        "Model": [ "MLXL2", "MLYD2", "MLY42", "MLY02", "MLY82" ]
       },
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "MLLM2" ]
+        "Model": [ "MLLM2", "MLLV2", "MLLX2", "MLM02", "MLM32" ]
       },
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MLM52" ]
+        "Model": [ "MLMC2", "MLME2", "MLMG2", "MLMJ2", "MLM52" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "MLLL2" ]
+        "Model": [ "MLLL2", "MLLU2", "MLLW2", "MLLY2", "MLM22" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MLM42" ]
+        "Model": [ "MLMA2", "MLMD2", "MLMF2", "MLMH2", "MLM42" ]
       }
     ]
   },
