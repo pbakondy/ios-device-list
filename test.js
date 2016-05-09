@@ -4,7 +4,7 @@ const devices = require('./index');
 
 test('deviceTypes()', t => {
   t.is(typeof devices.deviceTypes, 'function');
-  t.ok(Array.isArray(devices.deviceTypes()));
+  t.truthy(Array.isArray(devices.deviceTypes()));
   t.is(devices.deviceTypes().length, 6);
 });
 
@@ -12,7 +12,7 @@ test('devices()', t => {
   let list = devices.deviceTypes();
 
   t.is(typeof devices.devices, 'function');
-  t.ok(Array.isArray(devices.devices()));
+  t.truthy(Array.isArray(devices.devices()));
 
 //  t.is(devices.devices().length, 728);
 //  t.is(devices.devices(list[0]).length, 5);
@@ -54,7 +54,7 @@ test('devices() device', t => {
 
 test('generations()', t => {
   t.is(typeof devices.generations, 'function');
-  t.ok(Array.isArray(devices.generations()));
+  t.truthy(Array.isArray(devices.generations()));
   t.is(devices.generations().length, 35);
   t.is(devices.generations('iphone').length, 13);
   t.throws(function() { devices.generations('invalidType') });
@@ -62,7 +62,7 @@ test('generations()', t => {
 
 test('anumbers()', t => {
   t.is(typeof devices.anumbers, 'function');
-  t.ok(Array.isArray(devices.anumbers()));
+  t.truthy(Array.isArray(devices.anumbers()));
   t.is(devices.anumbers().length, 84);
   t.is(devices.anumbers('iphone').length, 39);
   t.throws(function() { devices.anumbers('invalidType') });
@@ -70,7 +70,7 @@ test('anumbers()', t => {
 
 test('fccids()', t => {
   t.is(typeof devices.fccids, 'function');
-  t.ok(Array.isArray(devices.fccids()));
+  t.truthy(Array.isArray(devices.fccids()));
   t.is(devices.fccids().length, 63);
   t.is(devices.fccids('iphone').length, 21);
   t.throws(function() { devices.fccids('invalidType') });
@@ -78,7 +78,7 @@ test('fccids()', t => {
 
 test('internalNames()', t => {
   t.is(typeof devices.internalNames, 'function');
-  t.ok(Array.isArray(devices.internalNames()));
+  t.truthy(Array.isArray(devices.internalNames()));
   t.is(devices.internalNames().length, 63);
   t.is(devices.internalNames('iphone').length, 20);
   t.throws(function() { devices.internalNames('invalidType') });
@@ -86,7 +86,7 @@ test('internalNames()', t => {
 
 test('identifiers()', t => {
   t.is(typeof devices.identifiers, 'function');
-  t.ok(Array.isArray(devices.identifiers()));
+  t.truthy(Array.isArray(devices.identifiers()));
   t.is(devices.identifiers().length, 60);
   t.is(devices.identifiers('iphone').length, 18);
   t.throws(function() { devices.identifiers('invalidType') });
@@ -94,7 +94,7 @@ test('identifiers()', t => {
 
 test('colors()', t => {
   t.is(typeof devices.colors, 'function');
-  t.ok(Array.isArray(devices.colors()));
+  t.truthy(Array.isArray(devices.colors()));
   t.is(devices.colors().length, 14);
   t.is(devices.colors('iphone').length, 10);
   t.throws(function() { devices.colors('invalidType') });
@@ -102,7 +102,7 @@ test('colors()', t => {
 
 test('storages()', t => {
   t.is(typeof devices.storages, 'function');
-  t.ok(Array.isArray(devices.storages()));
+  t.truthy(Array.isArray(devices.storages()));
   t.is(devices.storages().length, 7);
   t.is(devices.storages('iphone').length, 6);
   t.throws(function() { devices.storages('invalidType') });
@@ -110,7 +110,7 @@ test('storages()', t => {
 
 test('models()', t => {
   t.is(typeof devices.models, 'function');
-  t.ok(Array.isArray(devices.models()));
+  t.truthy(Array.isArray(devices.models()));
 //  t.is(devices.models().length, 714);
 //  t.is(devices.models('iphone').length, 317);
   t.throws(function() { devices.models('invalidType') });
