@@ -660,7 +660,7 @@
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MLMA2", "MLMD2", "MLMF2", "MLMH2", "MLM42" ]
+        "Model": [ "MLMA2", "MLMD2", "MLMF2", "MLMH2", "MLM42", "MLM62" ]
       }
     ]
   },
