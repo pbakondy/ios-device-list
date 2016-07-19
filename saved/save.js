@@ -28,7 +28,12 @@ function fetch () {
     url: MODELS_URL,
     done: function (err, window) {
       if (err) throw err;
-      var h = window.document.getElementById('content').outerHTML;
+      var content = window.document.getElementById('content');
+      if (!content) {
+        console.log('Content is empty, stopped');
+        return;
+      }
+      var h = content.outerHTML;
       fs.writeFile(MODELS_FILE, HTML_START + h + HTML_END, err => {
         if (err) throw err;
         console.log('Content saved to ' + MODELS_FILE);
