@@ -33,6 +33,7 @@ function fetch () {
         console.log('Content is empty, stopped');
         return;
       }
+      removeComments(content);
       var h = content.outerHTML;
       fs.writeFile(MODELS_FILE, HTML_START + h + HTML_END, err => {
         if (err) throw err;
@@ -41,5 +42,17 @@ function fetch () {
     }
   });
 }
+
+function removeComments(el) {
+  for(var i = 0; i < el.childNodes.length; i++) {
+    var node = el.childNodes[i];
+    if(node.nodeType === 8) {
+      el.removeChild(node);
+    } else {
+      removeComments(node);
+    }
+  }
+}
+
 
 fetch();
