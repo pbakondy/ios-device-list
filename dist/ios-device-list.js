@@ -477,7 +477,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Used to match `RegExp`
-	 * [syntax characters](http://ecma-international.org/ecma-262/6.0/#sec-patterns).
+	 * [syntax characters](http://ecma-international.org/ecma-262/7.0/#sec-patterns).
 	 */
 	var reRegExpChar = /[\\^$.*+?()[\]{}|]/g;
 
@@ -498,7 +498,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * specifying an index to search from.
 	 *
 	 * @private
-	 * @param {Array} [array] The array to search.
+	 * @param {Array} [array] The array to inspect.
 	 * @param {*} target The value to search for.
 	 * @returns {boolean} Returns `true` if `target` is found, else `false`.
 	 */
@@ -511,7 +511,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * This function is like `arrayIncludes` except that it accepts a comparator.
 	 *
 	 * @private
-	 * @param {Array} [array] The array to search.
+	 * @param {Array} [array] The array to inspect.
 	 * @param {*} target The value to search for.
 	 * @param {Function} comparator The comparator invoked per element.
 	 * @returns {boolean} Returns `true` if `target` is found, else `false`.
@@ -533,7 +533,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * support for iteratee shorthands.
 	 *
 	 * @private
-	 * @param {Array} array The array to search.
+	 * @param {Array} array The array to inspect.
 	 * @param {Function} predicate The function invoked per iteration.
 	 * @param {number} fromIndex The index to search from.
 	 * @param {boolean} [fromRight] Specify iterating from right to left.
@@ -555,7 +555,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * The base implementation of `_.indexOf` without `fromIndex` bounds checks.
 	 *
 	 * @private
-	 * @param {Array} array The array to search.
+	 * @param {Array} array The array to inspect.
 	 * @param {*} value The value to search for.
 	 * @param {number} fromIndex The index to search from.
 	 * @returns {number} Returns the index of the matched value, else `-1`.
@@ -648,6 +648,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/** Used for built-in method references. */
 	var arrayProto = Array.prototype,
+	    funcProto = Function.prototype,
 	    objectProto = Object.prototype;
 
 	/** Used to detect overreaching core-js shims. */
@@ -660,14 +661,14 @@ return /******/ (function(modules) { // webpackBootstrap
 	}();
 
 	/** Used to resolve the decompiled source of functions. */
-	var funcToString = Function.prototype.toString;
+	var funcToString = funcProto.toString;
 
 	/** Used to check objects for own properties. */
 	var hasOwnProperty = objectProto.hasOwnProperty;
 
 	/**
 	 * Used to resolve the
-	 * [`toStringTag`](http://ecma-international.org/ecma-262/6.0/#sec-object.prototype.tostring)
+	 * [`toStringTag`](http://ecma-international.org/ecma-262/7.0/#sec-object.prototype.tostring)
 	 * of values.
 	 */
 	var objectToString = objectProto.toString;
@@ -1041,7 +1042,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * Gets the index at which the `key` is found in `array` of key-value pairs.
 	 *
 	 * @private
-	 * @param {Array} array The array to search.
+	 * @param {Array} array The array to inspect.
 	 * @param {*} key The key to search for.
 	 * @returns {number} Returns the index of the matched value, else `-1`.
 	 */
@@ -1209,7 +1210,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Creates a duplicate-free version of an array, using
-	 * [`SameValueZero`](http://ecma-international.org/ecma-262/6.0/#sec-samevaluezero)
+	 * [`SameValueZero`](http://ecma-international.org/ecma-262/7.0/#sec-samevaluezero)
 	 * for equality comparisons, in which only the first occurrence of each
 	 * element is kept.
 	 *
@@ -1230,7 +1231,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Performs a
-	 * [`SameValueZero`](http://ecma-international.org/ecma-262/6.0/#sec-samevaluezero)
+	 * [`SameValueZero`](http://ecma-international.org/ecma-262/7.0/#sec-samevaluezero)
 	 * comparison between two values to determine if they are equivalent.
 	 *
 	 * @static
@@ -1283,15 +1284,14 @@ return /******/ (function(modules) { // webpackBootstrap
 	 */
 	function isFunction(value) {
 	  // The use of `Object#toString` avoids issues with the `typeof` operator
-	  // in Safari 8 which returns 'object' for typed array and weak map constructors,
-	  // and PhantomJS 1.9 which returns 'function' for `NodeList` instances.
+	  // in Safari 8-9 which returns 'object' for typed array and other constructors.
 	  var tag = isObject(value) ? objectToString.call(value) : '';
 	  return tag == funcTag || tag == genTag;
 	}
 
 	/**
 	 * Checks if `value` is the
-	 * [language type](http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-types)
+	 * [language type](http://www.ecma-international.org/ecma-262/7.0/#sec-ecmascript-language-types)
 	 * of `Object`. (e.g. arrays, functions, objects, regexes, `new Number(0)`, and `new String('')`)
 	 *
 	 * @static
@@ -1396,7 +1396,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Used to match `RegExp`
-	 * [syntax characters](http://ecma-international.org/ecma-262/6.0/#sec-patterns).
+	 * [syntax characters](http://ecma-international.org/ecma-262/7.0/#sec-patterns).
 	 */
 	var reRegExpChar = /[\\^$.*+?()[\]{}|]/g;
 
@@ -1526,19 +1526,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * The base implementation of `_.property` without support for deep paths.
-	 *
-	 * @private
-	 * @param {string} key The key of the property to get.
-	 * @returns {Function} Returns the new accessor function.
-	 */
-	function baseProperty(key) {
-	  return function (object) {
-	    return object == null ? undefined : object[key];
-	  };
-	}
-
-	/**
 	 * The base implementation of `_.times` without support for iteratee shorthands
 	 * or max array length checks.
 	 *
@@ -1606,7 +1593,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * Creates a function that invokes `func` with its first argument transformed.
+	 * Creates a unary function that invokes `func` with its argument transformed.
 	 *
 	 * @private
 	 * @param {Function} func The function to wrap.
@@ -1638,6 +1625,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/** Used for built-in method references. */
 	var arrayProto = Array.prototype,
+	    funcProto = Function.prototype,
 	    objectProto = Object.prototype;
 
 	/** Used to detect overreaching core-js shims. */
@@ -1650,14 +1638,14 @@ return /******/ (function(modules) { // webpackBootstrap
 	}();
 
 	/** Used to resolve the decompiled source of functions. */
-	var funcToString = Function.prototype.toString;
+	var funcToString = funcProto.toString;
 
 	/** Used to check objects for own properties. */
 	var hasOwnProperty = objectProto.hasOwnProperty;
 
 	/**
 	 * Used to resolve the
-	 * [`toStringTag`](http://ecma-international.org/ecma-262/6.0/#sec-object.prototype.tostring)
+	 * [`toStringTag`](http://ecma-international.org/ecma-262/7.0/#sec-object.prototype.tostring)
 	 * of values.
 	 */
 	var objectToString = objectProto.toString;
@@ -1669,15 +1657,15 @@ return /******/ (function(modules) { // webpackBootstrap
 	var Buffer = moduleExports ? root.Buffer : undefined,
 	    _Symbol = root.Symbol,
 	    Uint8Array = root.Uint8Array,
+	    getPrototype = overArg(Object.getPrototypeOf, Object),
 	    objectCreate = Object.create,
 	    propertyIsEnumerable = objectProto.propertyIsEnumerable,
 	    splice = arrayProto.splice;
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
-	var nativeGetPrototype = Object.getPrototypeOf,
-	    nativeGetSymbols = Object.getOwnPropertySymbols,
+	var nativeGetSymbols = Object.getOwnPropertySymbols,
 	    nativeIsBuffer = Buffer ? Buffer.isBuffer : undefined,
-	    nativeKeys = Object.keys;
+	    nativeKeys = overArg(Object.keys, Object);
 
 	/* Built-in method references that are verified to be native. */
 	var DataView = getNative(root, 'DataView'),
@@ -2095,8 +2083,32 @@ return /******/ (function(modules) { // webpackBootstrap
 	Stack.prototype.set = stackSet;
 
 	/**
+	 * Creates an array of the enumerable property names of the array-like `value`.
+	 *
+	 * @private
+	 * @param {*} value The value to query.
+	 * @param {boolean} inherited Specify returning inherited property names.
+	 * @returns {Array} Returns the array of property names.
+	 */
+	function arrayLikeKeys(value, inherited) {
+	  // Safari 8.1 makes `arguments.callee` enumerable in strict mode.
+	  // Safari 9 makes `arguments.length` enumerable in strict mode.
+	  var result = isArray(value) || isArguments(value) ? baseTimes(value.length, String) : [];
+
+	  var length = result.length,
+	      skipIndexes = !!length;
+
+	  for (var key in value) {
+	    if ((inherited || hasOwnProperty.call(value, key)) && !(skipIndexes && (key == 'length' || isIndex(key, length)))) {
+	      result.push(key);
+	    }
+	  }
+	  return result;
+	}
+
+	/**
 	 * Assigns `value` to `key` of `object` if the existing value is not equivalent
-	 * using [`SameValueZero`](http://ecma-international.org/ecma-262/6.0/#sec-samevaluezero)
+	 * using [`SameValueZero`](http://ecma-international.org/ecma-262/7.0/#sec-samevaluezero)
 	 * for equality comparisons.
 	 *
 	 * @private
@@ -2115,7 +2127,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * Gets the index at which the `key` is found in `array` of key-value pairs.
 	 *
 	 * @private
-	 * @param {Array} array The array to search.
+	 * @param {Array} array The array to inspect.
 	 * @param {*} key The key to search for.
 	 * @returns {number} Returns the index of the matched value, else `-1`.
 	 */
@@ -2257,21 +2269,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * The base implementation of `_.has` without support for deep paths.
-	 *
-	 * @private
-	 * @param {Object} [object] The object to query.
-	 * @param {Array|string} key The key to check.
-	 * @returns {boolean} Returns `true` if `key` exists, else `false`.
-	 */
-	function baseHas(object, key) {
-	  // Avoid a bug in IE 10-11 where objects with a [[Prototype]] of `null`,
-	  // that are composed entirely of index properties, return `false` for
-	  // `hasOwnProperty` checks of them.
-	  return object != null && (hasOwnProperty.call(object, key) || (typeof object === 'undefined' ? 'undefined' : _typeof(object)) == 'object' && key in object && getPrototype(object) === null);
-	}
-
-	/**
 	 * The base implementation of `_.isNative` without bad shim checks.
 	 *
 	 * @private
@@ -2288,14 +2285,24 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * The base implementation of `_.keys` which doesn't skip the constructor
-	 * property of prototypes or treat sparse arrays as dense.
+	 * The base implementation of `_.keys` which doesn't treat sparse arrays as dense.
 	 *
 	 * @private
 	 * @param {Object} object The object to query.
 	 * @returns {Array} Returns the array of property names.
 	 */
-	var baseKeys = overArg(nativeKeys, Object);
+	function baseKeys(object) {
+	  if (!isPrototype(object)) {
+	    return nativeKeys(object);
+	  }
+	  var result = [];
+	  for (var key in Object(object)) {
+	    if (hasOwnProperty.call(object, key) && key != 'constructor') {
+	      result.push(key);
+	    }
+	  }
+	  return result;
+	}
 
 	/**
 	 * Creates a clone of  `buffer`.
@@ -2474,19 +2481,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * Gets the "length" property value of `object`.
-	 *
-	 * **Note:** This function is used to avoid a
-	 * [JIT bug](https://bugs.webkit.org/show_bug.cgi?id=142792) that affects
-	 * Safari on at least iOS 8.1-8.3 ARM64.
-	 *
-	 * @private
-	 * @param {Object} object The object to query.
-	 * @returns {*} Returns the "length" value.
-	 */
-	var getLength = baseProperty('length');
-
-	/**
 	 * Gets the data for `map`.
 	 *
 	 * @private
@@ -2513,15 +2507,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * Gets the `[[Prototype]]` of `value`.
-	 *
-	 * @private
-	 * @param {*} value The value to query.
-	 * @returns {null|Object} Returns the `[[Prototype]]`.
-	 */
-	var getPrototype = overArg(nativeGetPrototype, Object);
-
-	/**
 	 * Creates an array of the own enumerable symbol properties of `object`.
 	 *
 	 * @private
@@ -2540,7 +2525,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	var getTag = baseGetTag;
 
 	// Fallback for data views, maps, sets, and weak maps in IE 11,
-	// for data views in Edge, and promises in Node.js.
+	// for data views in Edge < 14, and promises in Node.js.
 	if (DataView && getTag(new DataView(new ArrayBuffer(1))) != dataViewTag || Map && getTag(new Map()) != mapTag || Promise && getTag(Promise.resolve()) != promiseTag || Set && getTag(new Set()) != setTag || WeakMap && getTag(new WeakMap()) != weakMapTag) {
 	  getTag = function getTag(value) {
 	    var result = objectToString.call(value),
@@ -2645,22 +2630,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * Creates an array of index keys for `object` values of arrays,
-	 * `arguments` objects, and strings, otherwise `null` is returned.
-	 *
-	 * @private
-	 * @param {Object} object The object to query.
-	 * @returns {Array|null} Returns index keys, else `null`.
-	 */
-	function indexKeys(object) {
-	  var length = object ? object.length : undefined;
-	  if (isLength(length) && (isArray(object) || isString(object) || isArguments(object))) {
-	    return baseTimes(length, String);
-	  }
-	  return null;
-	}
-
-	/**
 	 * Checks if `value` is a valid array-like index.
 	 *
 	 * @private
@@ -2753,7 +2722,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Performs a
-	 * [`SameValueZero`](http://ecma-international.org/ecma-262/6.0/#sec-samevaluezero)
+	 * [`SameValueZero`](http://ecma-international.org/ecma-262/7.0/#sec-samevaluezero)
 	 * comparison between two values to determine if they are equivalent.
 	 *
 	 * @static
@@ -2806,7 +2775,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * // => false
 	 */
 	function isArguments(value) {
-	  // Safari 8.1 incorrectly makes `arguments.callee` enumerable in strict mode.
+	  // Safari 8.1 makes `arguments.callee` enumerable in strict mode.
 	  return isArrayLikeObject(value) && hasOwnProperty.call(value, 'callee') && (!propertyIsEnumerable.call(value, 'callee') || objectToString.call(value) == argsTag);
 	}
 
@@ -2861,7 +2830,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * // => false
 	 */
 	function isArrayLike(value) {
-	  return value != null && isLength(getLength(value)) && !isFunction(value);
+	  return value != null && isLength(value.length) && !isFunction(value);
 	}
 
 	/**
@@ -2931,8 +2900,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 */
 	function isFunction(value) {
 	  // The use of `Object#toString` avoids issues with the `typeof` operator
-	  // in Safari 8 which returns 'object' for typed array and weak map constructors,
-	  // and PhantomJS 1.9 which returns 'function' for `NodeList` instances.
+	  // in Safari 8-9 which returns 'object' for typed array and other constructors.
 	  var tag = isObject(value) ? objectToString.call(value) : '';
 	  return tag == funcTag || tag == genTag;
 	}
@@ -2940,16 +2908,15 @@ return /******/ (function(modules) { // webpackBootstrap
 	/**
 	 * Checks if `value` is a valid array-like length.
 	 *
-	 * **Note:** This function is loosely based on
-	 * [`ToLength`](http://ecma-international.org/ecma-262/6.0/#sec-tolength).
+	 * **Note:** This method is loosely based on
+	 * [`ToLength`](http://ecma-international.org/ecma-262/7.0/#sec-tolength).
 	 *
 	 * @static
 	 * @memberOf _
 	 * @since 4.0.0
 	 * @category Lang
 	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a valid length,
-	 *  else `false`.
+	 * @returns {boolean} Returns `true` if `value` is a valid length, else `false`.
 	 * @example
 	 *
 	 * _.isLength(3);
@@ -2970,7 +2937,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Checks if `value` is the
-	 * [language type](http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-types)
+	 * [language type](http://www.ecma-international.org/ecma-262/7.0/#sec-ecmascript-language-types)
 	 * of `Object`. (e.g. arrays, functions, objects, regexes, `new Number(0)`, and `new String('')`)
 	 *
 	 * @static
@@ -3027,31 +2994,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	}
 
 	/**
-	 * Checks if `value` is classified as a `String` primitive or object.
-	 *
-	 * @static
-	 * @since 0.1.0
-	 * @memberOf _
-	 * @category Lang
-	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a string, else `false`.
-	 * @example
-	 *
-	 * _.isString('abc');
-	 * // => true
-	 *
-	 * _.isString(1);
-	 * // => false
-	 */
-	function isString(value) {
-	  return typeof value == 'string' || !isArray(value) && isObjectLike(value) && objectToString.call(value) == stringTag;
-	}
-
-	/**
 	 * Creates an array of the own enumerable property names of `object`.
 	 *
 	 * **Note:** Non-object values are coerced to objects. See the
-	 * [ES spec](http://ecma-international.org/ecma-262/6.0/#sec-object.keys)
+	 * [ES spec](http://ecma-international.org/ecma-262/7.0/#sec-object.keys)
 	 * for more details.
 	 *
 	 * @static
@@ -3076,21 +3022,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * // => ['0', '1']
 	 */
 	function keys(object) {
-	  var isProto = isPrototype(object);
-	  if (!(isProto || isArrayLike(object))) {
-	    return baseKeys(object);
-	  }
-	  var indexes = indexKeys(object),
-	      skipIndexes = !!indexes,
-	      result = indexes || [],
-	      length = result.length;
-
-	  for (var key in object) {
-	    if (baseHas(object, key) && !(skipIndexes && (key == 'length' || isIndex(key, length))) && !(isProto && key == 'constructor')) {
-	      result.push(key);
-	    }
-	  }
-	  return result;
+	  return isArrayLike(object) ? arrayLikeKeys(object) : baseKeys(object);
 	}
 
 	/**
@@ -3205,19 +3137,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	  return array;
 	}
 
-	/**
-	 * The base implementation of `_.property` without support for deep paths.
-	 *
-	 * @private
-	 * @param {string} key The key of the property to get.
-	 * @returns {Function} Returns the new accessor function.
-	 */
-	function baseProperty(key) {
-	  return function (object) {
-	    return object == null ? undefined : object[key];
-	  };
-	}
-
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
 
@@ -3226,7 +3145,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Used to resolve the
-	 * [`toStringTag`](http://ecma-international.org/ecma-262/6.0/#sec-object.prototype.tostring)
+	 * [`toStringTag`](http://ecma-international.org/ecma-262/7.0/#sec-object.prototype.tostring)
 	 * of values.
 	 */
 	var objectToString = objectProto.toString;
@@ -3269,19 +3188,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	  }
 	  return result;
 	}
-
-	/**
-	 * Gets the "length" property value of `object`.
-	 *
-	 * **Note:** This function is used to avoid a
-	 * [JIT bug](https://bugs.webkit.org/show_bug.cgi?id=142792) that affects
-	 * Safari on at least iOS 8.1-8.3 ARM64.
-	 *
-	 * @private
-	 * @param {Object} object The object to query.
-	 * @returns {*} Returns the "length" value.
-	 */
-	var getLength = baseProperty('length');
 
 	/**
 	 * Checks if `value` is a flattenable `arguments` object or array.
@@ -3332,7 +3238,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * // => false
 	 */
 	function isArguments(value) {
-	  // Safari 8.1 incorrectly makes `arguments.callee` enumerable in strict mode.
+	  // Safari 8.1 makes `arguments.callee` enumerable in strict mode.
 	  return isArrayLikeObject(value) && hasOwnProperty.call(value, 'callee') && (!propertyIsEnumerable.call(value, 'callee') || objectToString.call(value) == argsTag);
 	}
 
@@ -3387,7 +3293,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * // => false
 	 */
 	function isArrayLike(value) {
-	  return value != null && isLength(getLength(value)) && !isFunction(value);
+	  return value != null && isLength(value.length) && !isFunction(value);
 	}
 
 	/**
@@ -3438,8 +3344,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 */
 	function isFunction(value) {
 	  // The use of `Object#toString` avoids issues with the `typeof` operator
-	  // in Safari 8 which returns 'object' for typed array and weak map constructors,
-	  // and PhantomJS 1.9 which returns 'function' for `NodeList` instances.
+	  // in Safari 8-9 which returns 'object' for typed array and other constructors.
 	  var tag = isObject(value) ? objectToString.call(value) : '';
 	  return tag == funcTag || tag == genTag;
 	}
@@ -3447,16 +3352,15 @@ return /******/ (function(modules) { // webpackBootstrap
 	/**
 	 * Checks if `value` is a valid array-like length.
 	 *
-	 * **Note:** This function is loosely based on
-	 * [`ToLength`](http://ecma-international.org/ecma-262/6.0/#sec-tolength).
+	 * **Note:** This method is loosely based on
+	 * [`ToLength`](http://ecma-international.org/ecma-262/7.0/#sec-tolength).
 	 *
 	 * @static
 	 * @memberOf _
 	 * @since 4.0.0
 	 * @category Lang
 	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a valid length,
-	 *  else `false`.
+	 * @returns {boolean} Returns `true` if `value` is a valid length, else `false`.
 	 * @example
 	 *
 	 * _.isLength(3);
@@ -3477,7 +3381,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * Checks if `value` is the
-	 * [language type](http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-types)
+	 * [language type](http://www.ecma-international.org/ecma-262/7.0/#sec-ecmascript-language-types)
 	 * of `Object`. (e.g. arrays, functions, objects, regexes, `new Number(0)`, and `new String('')`)
 	 *
 	 * @static
@@ -4618,6 +4522,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNV72"
+					]
+				},
+				{
+					"Color": "Gold",
 					"Storage": "64 GB",
 					"Model": [
 						"MH182"
@@ -4635,6 +4546,13 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MGLW2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MNV62"
 					]
 				},
 				{
@@ -4660,6 +4578,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": [
+						"MNV22"
+					]
+				},
+				{
+					"Color": "Space Gray",
 					"Storage": "64 GB",
 					"Model": [
 						"MGKL2"
@@ -4676,18 +4601,25 @@ return /******/ (function(modules) { // webpackBootstrap
 		},
 		{
 			"Generation": "iPad Air 2",
-			"ANumber": "A1566",
+			"ANumber": "A1567",
 			"Bootrom": "Bootrom 1991.0.0.2.16",
-			"Variant": "iPad5,3",
-			"FCCID": "BCGA1566",
-			"InternalName": "J81AP",
-			"Identifier": "iPad5,3",
+			"Variant": "iPad5,4",
+			"FCCID": "BCGA1567",
+			"InternalName": "J82AP",
+			"Identifier": "iPad5,4",
 			"Models": [
 				{
 					"Color": "Gold",
 					"Storage": "16 GB",
 					"Model": [
 						"MH2W2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNW32"
 					]
 				},
 				{
@@ -4709,6 +4641,13 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MH2V2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MNW22"
 					]
 				},
 				{
@@ -4735,6 +4674,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": [
+						"MNW12"
+					]
+				},
+				{
+					"Color": "Space Gray",
 					"Storage": "64 GB",
 					"Model": [
 						"MH2M2"
@@ -4752,7 +4698,7 @@ return /******/ (function(modules) { // webpackBootstrap
 		{
 			"Generation": "iPad Pro (9.7 inch)",
 			"ANumber": "A1673",
-			"Bootrom": "Bootrom 2481.0.0.2.1‎",
+			"Bootrom": "Bootrom 2481.0.0.2.1",
 			"Variant": "iPad6,3",
 			"FCCID": "BCGA1673",
 			"InternalName": "J127AP",
@@ -4850,7 +4796,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1674",
 				"A1675"
 			],
-			"Bootrom": "Bootrom 2481.0.0.2.1‎",
+			"Bootrom": "Bootrom 2481.0.0.2.1",
 			"Variant": "iPad6,4",
 			"FCCID": "BCGA1674",
 			"InternalName": "J128AP",
@@ -4945,7 +4891,7 @@ return /******/ (function(modules) { // webpackBootstrap
 		{
 			"Generation": "iPad Pro (12.9 inch)",
 			"ANumber": "A1584",
-			"Bootrom": "Bootrom 2481.0.0.2.1‎",
+			"Bootrom": "Bootrom 2481.0.0.2.1",
 			"Variant": "iPad6,7",
 			"FCCID": "BCGA1584",
 			"InternalName": "J98aAP",
@@ -5019,7 +4965,7 @@ return /******/ (function(modules) { // webpackBootstrap
 		{
 			"Generation": "iPad Pro (12.9 inch)",
 			"ANumber": "A1652",
-			"Bootrom": "Bootrom 2481.0.0.2.1‎",
+			"Bootrom": "Bootrom 2481.0.0.2.1",
 			"Variant": "iPad6,8",
 			"FCCID": "BCGA1652",
 			"InternalName": "J99aAP",
@@ -5691,6 +5637,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNY32"
+					]
+				},
+				{
+					"Color": "Gold",
 					"Storage": "64 GB",
 					"Model": [
 						"MK9J2"
@@ -5712,6 +5665,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MNY22"
+					]
+				},
+				{
+					"Color": "Silver",
 					"Storage": "64 GB",
 					"Model": [
 						"MK9H2"
@@ -5729,6 +5689,13 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MK6J2"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": [
+						"MNY12"
 					]
 				},
 				{
@@ -5765,6 +5732,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNWR2"
+					]
+				},
+				{
+					"Color": "Gold",
 					"Storage": "64 GB",
 					"Model": [
 						"MK8C2"
@@ -5786,6 +5760,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MNWQ2"
+					]
+				},
+				{
+					"Color": "Silver",
 					"Storage": "64 GB",
 					"Model": [
 						"MK8A2"
@@ -5803,6 +5784,13 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MK862"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": [
+						"MNWP2"
 					]
 				},
 				{
@@ -7510,6 +7498,366 @@ return /******/ (function(modules) { // webpackBootstrap
 						"MKUD2",
 						"ML6K2"
 					]
+				}
+			]
+		},
+		{
+			"Generation": "iPhone 7",
+			"ANumber": [
+				"A1660",
+				"A1778",
+				"A1779",
+				"A1780"
+			],
+			"Bootrom": [],
+			"Variant": "iPhone9,1",
+			"FCCID": [],
+			"InternalName": [
+				"D10AP",
+				"D101AP"
+			],
+			"Identifier": "iPhone9,1",
+			"Models": [
+				{
+					"Color": "Jet Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": []
+				}
+			]
+		},
+		{
+			"Generation": "iPhone 7",
+			"ANumber": [
+				"A1660",
+				"A1778",
+				"A1779",
+				"A1780"
+			],
+			"Bootrom": [],
+			"Variant": "iPhone9,3",
+			"FCCID": [],
+			"InternalName": [
+				"D10AP",
+				"D101AP"
+			],
+			"Identifier": "iPhone9,3",
+			"Models": [
+				{
+					"Color": "Jet Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": []
+				}
+			]
+		},
+		{
+			"Generation": "iPhone 7 Plus",
+			"ANumber": [
+				"A1661",
+				"A1784",
+				"A1785",
+				"A1786"
+			],
+			"Bootrom": [],
+			"Variant": "iPhone9,2",
+			"FCCID": [
+				"BCG-E3087A"
+			],
+			"InternalName": [
+				"D11AP",
+				"D111AP"
+			],
+			"Identifier": "iPhone9,2",
+			"Models": [
+				{
+					"Color": "Jet Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": []
+				}
+			]
+		},
+		{
+			"Generation": "iPhone 7 Plus",
+			"ANumber": [
+				"A1661",
+				"A1784",
+				"A1785",
+				"A1786"
+			],
+			"Bootrom": [],
+			"Variant": "iPhone9,4",
+			"FCCID": [
+				"BCG-E3087A"
+			],
+			"InternalName": [
+				"D11AP",
+				"D111AP"
+			],
+			"Identifier": "iPhone9,4",
+			"Models": [
+				{
+					"Color": "Jet Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "256 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": []
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": []
 				}
 			]
 		}

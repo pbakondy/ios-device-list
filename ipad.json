@@ -640,6 +640,11 @@
       },
       {
         "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MNV72" ]
+      },
+      {
+        "Color": "Gold",
         "Storage": "64 GB",
         "Model": [ "MH182" ]
       },
@@ -652,6 +657,11 @@
         "Color": "Silver",
         "Storage": "16 GB",
         "Model": [ "MGLW2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MNV62" ]
       },
       {
         "Color": "Silver",
@@ -670,6 +680,11 @@
       },
       {
         "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MNV22" ]
+      },
+      {
+        "Color": "Space Gray",
         "Storage": "64 GB",
         "Model": [ "MGKL2" ]
       },
@@ -682,17 +697,22 @@
   },
   {
     "Generation": "iPad Air 2",
-    "ANumber": "A1566",
+    "ANumber": "A1567",
     "Bootrom": "Bootrom 1991.0.0.2.16",
-    "Variant": "iPad5,3",
-    "FCCID": "BCGA1566",
-    "InternalName": "J81AP",
-    "Identifier": "iPad5,3",
+    "Variant": "iPad5,4",
+    "FCCID": "BCGA1567",
+    "InternalName": "J82AP",
+    "Identifier": "iPad5,4",
     "Models": [
       {
         "Color": "Gold",
         "Storage": "16 GB",
         "Model": [ "MH2W2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MNW32" ]
       },
       {
         "Color": "Gold",
@@ -711,6 +731,11 @@
       },
       {
         "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MNW22" ]
+      },
+      {
+        "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MH2N2" ]
       },
@@ -723,6 +748,11 @@
         "Color": "Space Gray",
         "Storage": "16 GB",
         "Model": [ "MGGX2F", "MH2U2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MNW12" ]
       },
       {
         "Color": "Space Gray",
@@ -739,7 +769,7 @@
   {
     "Generation": "iPad Pro (9.7 inch)",
     "ANumber": "A1673",
-    "Bootrom": "Bootrom 2481.0.0.2.1‎",
+    "Bootrom": "Bootrom 2481.0.0.2.1",
     "Variant": "iPad6,3",
     "FCCID": "BCGA1673",
     "InternalName": "J127AP",
@@ -810,7 +840,7 @@
   {
     "Generation": "iPad Pro (9.7 inch)",
     "ANumber": [ "A1674", "A1675" ],
-    "Bootrom": "Bootrom 2481.0.0.2.1‎",
+    "Bootrom": "Bootrom 2481.0.0.2.1",
     "Variant": "iPad6,4",
     "FCCID": "BCGA1674",
     "InternalName": "J128AP",
@@ -881,7 +911,7 @@
   {
     "Generation": "iPad Pro (12.9 inch)",
     "ANumber": "A1584",
-    "Bootrom": "Bootrom 2481.0.0.2.1‎",
+    "Bootrom": "Bootrom 2481.0.0.2.1",
     "Variant": "iPad6,7",
     "FCCID": "BCGA1584",
     "InternalName": "J98aAP",
@@ -937,7 +967,7 @@
   {
     "Generation": "iPad Pro (12.9 inch)",
     "ANumber": "A1652",
-    "Bootrom": "Bootrom 2481.0.0.2.1‎",
+    "Bootrom": "Bootrom 2481.0.0.2.1",
     "Variant": "iPad6,8",
     "FCCID": "BCGA1652",
     "InternalName": "J99aAP",

@@ -459,6 +459,11 @@
       },
       {
         "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MNY32" ]
+      },
+      {
+        "Color": "Gold",
         "Storage": "64 GB",
         "Model": [ "MK9J2" ]
       },
@@ -474,6 +479,11 @@
       },
       {
         "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MNY22" ]
+      },
+      {
+        "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MK9H2" ]
       },
@@ -486,6 +496,11 @@
         "Color": "Space Gray",
         "Storage": "16 GB",
         "Model": [ "MK6J2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MNY12" ]
       },
       {
         "Color": "Space Gray",
@@ -515,6 +530,11 @@
       },
       {
         "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MNWR2" ]
+      },
+      {
+        "Color": "Gold",
         "Storage": "64 GB",
         "Model": [ "MK8C2" ]
       },
@@ -530,6 +550,11 @@
       },
       {
         "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MNWQ2" ]
+      },
+      {
+        "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MK8A2" ]
       },
@@ -542,6 +567,11 @@
         "Color": "Space Gray",
         "Storage": "16 GB",
         "Model": [ "MK862" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MNWP2" ]
       },
       {
         "Color": "Space Gray",
