@@ -337,7 +337,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  var caseInsensitive = !!options.caseInsensitive;
 	  var contains = !!options.contains;
 
-	  return deviceByFilter(id, 'Identifier', type, caseInsensitive, contains);
+	  return deviceByFilter(id, 'Identifier', type, caseInsensitive, contains, true);
 	}
 
 	function deviceByColor(color, type, options) {
@@ -428,7 +428,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    throw new TypeError('`id` parameter must be a string');
 	  }
 
-	  var devices = deviceByFilter(id, 'Identifier', type);
+	  var devices = deviceByFilter(id, 'Identifier', type, false, false, true);
 
 	  if (devices.length === 0) {
 	    return;
@@ -3536,8 +3536,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"ANumber": [
 				"A1553"
 			],
-			"Bootrom": "?",
-			"Variant": null,
 			"FCCID": "BCG-E2870",
 			"InternalName": "N27aAP",
 			"Identifier": "Watch1,1",
@@ -3545,6 +3543,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Aluminum",
 					"Color": "Silver",
+					"Size": "38mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ2T2",
@@ -3556,6 +3555,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Aluminum",
 					"Color": "Space Black",
+					"Size": "38mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ2X2"
@@ -3564,6 +3564,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Stainless Steel",
 					"Color": "Stainless Steel",
+					"Size": "38mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ302",
@@ -3580,6 +3581,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Stainless Steel",
 					"Color": "Space Black",
+					"Size": "38mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ3F2"
@@ -3593,8 +3595,6 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1554",
 				"A1638"
 			],
-			"Bootrom": "?",
-			"Variant": null,
 			"FCCID": "BCG-E2871",
 			"InternalName": "N28aAP",
 			"Identifier": "Watch1,2",
@@ -3602,6 +3602,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Aluminum",
 					"Color": "Silver",
+					"Size": "42mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ3N2",
@@ -3613,6 +3614,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Aluminum",
 					"Color": "Space Black",
+					"Size": "42mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ3T2"
@@ -3621,6 +3623,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Stainless Steel",
 					"Color": "Stainless Steel",
+					"Size": "42mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ3V2",
@@ -3637,10 +3640,167 @@ return /******/ (function(modules) { // webpackBootstrap
 				{
 					"CaseMaterial": "Stainless Steel",
 					"Color": "Space Black",
+					"Size": "42mm",
 					"Storage": "8 GB",
 					"Model": [
 						"MJ482",
 						"MLC82"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "Apple Watch Series 1",
+			"InternalName": "N27dAP",
+			"Identifier": "Watch2,6",
+			"Models": [
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Silver",
+					"Size": "38mm",
+					"Model": [
+						"MNNG2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Gold",
+					"Size": "38mm",
+					"Model": [
+						"MNNJ2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Rose Gold",
+					"Size": "38mm",
+					"Model": [
+						"MNNH2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Grey",
+					"Size": "38mm",
+					"Model": [
+						"MP022"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "Apple Watch Series 1",
+			"InternalName": "N28dAP",
+			"Identifier": "Watch2,7",
+			"Models": [
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Silver",
+					"Size": "42mm",
+					"Model": [
+						"MNNL2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Gold",
+					"Size": "42mm",
+					"Model": [
+						"MNNN2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Rose Gold",
+					"Size": "42mm",
+					"Model": [
+						"MNNM2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Grey",
+					"Size": "42mm",
+					"Model": [
+						"MP032"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "Apple Watch Series 2",
+			"InternalName": "N74AP",
+			"Identifier": "Watch2,3",
+			"Models": [
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Silver",
+					"Size": "38mm",
+					"Model": [
+						"MNNW2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Gold",
+					"Size": "38mm",
+					"Model": [
+						"MNP22"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Rose Gold",
+					"Size": "38mm",
+					"Model": [
+						"MNNY2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Grey",
+					"Size": "38mm",
+					"Model": [
+						"MP0D2"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "Apple Watch Series 2",
+			"InternalName": "N75AP",
+			"Identifier": "Watch2,4",
+			"Models": [
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Silver",
+					"Size": "42mm",
+					"Model": [
+						"MNPJ2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Gold",
+					"Size": "42mm",
+					"Model": [
+						"MNPN2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Rose Gold",
+					"Size": "42mm",
+					"Model": [
+						"MNPL2"
+					]
+				},
+				{
+					"CaseMaterial": "Aluminum",
+					"Color": "Grey",
+					"Size": "42mm",
+					"Model": [
+						"MP062"
 					]
 				}
 			]
@@ -5824,7 +5984,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom Rev.2"
 			],
-			"Variant": null,
 			"FCCID": [
 				"BCGA1203"
 			],
@@ -5863,7 +6022,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom Rev.2"
 			],
-			"Variant": null,
 			"FCCID": [
 				"BCGA1241"
 			],
@@ -5913,7 +6071,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 359.3"
 			],
-			"Variant": null,
 			"FCCID": [
 				"BCGA1303A",
 				"BCGA1303B"
@@ -5966,7 +6123,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 359.3.2"
 			],
-			"Variant": null,
 			"FCCID": [
 				"BCGA1303A",
 				"BCGA1303B"
@@ -7509,173 +7665,116 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1779",
 				"A1780"
 			],
-			"Bootrom": [],
-			"Variant": "iPhone9,1",
-			"FCCID": [],
+			"Variant": [
+				"iPhone9,1",
+				"iPhone9,3"
+			],
 			"InternalName": [
 				"D10AP",
 				"D101AP"
 			],
-			"Identifier": "iPhone9,1",
+			"Identifier": [
+				"iPhone9,1",
+				"iPhone9,3"
+			],
 			"Models": [
 				{
 					"Color": "Jet Black",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN962"
+					]
 				},
 				{
 					"Color": "Jet Black",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN9C2"
+					]
 				},
 				{
 					"Color": "Black",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MN8X2"
+					]
 				},
 				{
 					"Color": "Black",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN922"
+					]
 				},
 				{
 					"Color": "Black",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN972"
+					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MN902"
+					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN942"
+					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN992"
+					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MN912"
+					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN952"
+					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN9A2"
+					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MN8Y2"
+					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN932"
+					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "256 GB",
-					"Model": []
-				}
-			]
-		},
-		{
-			"Generation": "iPhone 7",
-			"ANumber": [
-				"A1660",
-				"A1778",
-				"A1779",
-				"A1780"
-			],
-			"Bootrom": [],
-			"Variant": "iPhone9,3",
-			"FCCID": [],
-			"InternalName": [
-				"D10AP",
-				"D101AP"
-			],
-			"Identifier": "iPhone9,3",
-			"Models": [
-				{
-					"Color": "Jet Black",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Jet Black",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Black",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Black",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Black",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Gold",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Gold",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Gold",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Rose Gold",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Rose Gold",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Rose Gold",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Silver",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Silver",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Silver",
-					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN982"
+					]
 				}
 			]
 		},
@@ -7687,8 +7786,10 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1785",
 				"A1786"
 			],
-			"Bootrom": [],
-			"Variant": "iPhone9,2",
+			"Variant": [
+				"iPhone9,2",
+				"iPhone9,4"
+			],
 			"FCCID": [
 				"BCG-E3087A"
 			],
@@ -7696,168 +7797,108 @@ return /******/ (function(modules) { // webpackBootstrap
 				"D11AP",
 				"D111AP"
 			],
-			"Identifier": "iPhone9,2",
+			"Identifier": [
+				"iPhone9,2",
+				"iPhone9,4"
+			],
 			"Models": [
 				{
 					"Color": "Jet Black",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN4V2"
+					]
 				},
 				{
 					"Color": "Jet Black",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN512"
+					]
 				},
 				{
 					"Color": "Black",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MNQM2"
+					]
 				},
 				{
 					"Color": "Black",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN4M2"
+					]
 				},
 				{
 					"Color": "Black",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN4W2"
+					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MNQP2"
+					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN4Q2"
+					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN4Y2"
+					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MNQP2"
+					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN4Q2"
+					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN4Y2"
+					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "32 GB",
-					"Model": []
+					"Model": [
+						"MNQN2"
+					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "128 GB",
-					"Model": []
+					"Model": [
+						"MN4P2"
+					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "256 GB",
-					"Model": []
-				}
-			]
-		},
-		{
-			"Generation": "iPhone 7 Plus",
-			"ANumber": [
-				"A1661",
-				"A1784",
-				"A1785",
-				"A1786"
-			],
-			"Bootrom": [],
-			"Variant": "iPhone9,4",
-			"FCCID": [
-				"BCG-E3087A"
-			],
-			"InternalName": [
-				"D11AP",
-				"D111AP"
-			],
-			"Identifier": "iPhone9,4",
-			"Models": [
-				{
-					"Color": "Jet Black",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Jet Black",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Black",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Black",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Black",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Gold",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Gold",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Gold",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Rose Gold",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Rose Gold",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Rose Gold",
-					"Storage": "256 GB",
-					"Model": []
-				},
-				{
-					"Color": "Silver",
-					"Storage": "32 GB",
-					"Model": []
-				},
-				{
-					"Color": "Silver",
-					"Storage": "128 GB",
-					"Model": []
-				},
-				{
-					"Color": "Silver",
-					"Storage": "256 GB",
-					"Model": []
+					"Model": [
+						"MN4X2"
+					]
 				}
 			]
 		}

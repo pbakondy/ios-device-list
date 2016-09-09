@@ -2,8 +2,6 @@
   {
     "Generation": "Apple Watch",
     "ANumber": [ "A1553" ],
-    "Bootrom": "?",
-    "Variant": null,
     "FCCID": "BCG-E2870",
     "InternalName": "N27aAP",
     "Identifier": "Watch1,1",
@@ -11,24 +9,28 @@
       {
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
+        "Size": "38mm",
         "Storage": "8 GB",
         "Model": [ "MJ2T2", "MJ2V2", "MJ2U2", "MJ2W2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Black",
+        "Size": "38mm",
         "Storage": "8 GB",
         "Model": [ "MJ2X2" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Stainless Steel",
+        "Size": "38mm",
         "Storage": "8 GB",
         "Model": [ "MJ302", "MJ2Y2", "MJ312", "MJ322", "MJYK2", "MJ332", "MJ362", "MJ3A2", "MJ3E2" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Space Black",
+        "Size": "38mm",
         "Storage": "8 GB",
         "Model": [ "MJ3F2" ]
       }
@@ -37,8 +39,6 @@
   {
     "Generation": "Apple Watch",
     "ANumber": [ "A1554", "A1638" ],
-    "Bootrom": "?",
-    "Variant": null,
     "FCCID": "BCG-E2871",
     "InternalName": "N28aAP",
     "Identifier": "Watch1,2",
@@ -46,26 +46,154 @@
       {
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
+        "Size": "42mm",
         "Storage": "8 GB",
         "Model": [ "MJ3N2", "MJ3Q2", "MJ3P2", "MJ3R2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Black",
+        "Size": "42mm",
         "Storage": "8 GB",
         "Model": [ "MJ3T2" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Stainless Steel",
+        "Size": "42mm",
         "Storage": "8 GB",
         "Model": [ "MJ3V2", "MJ3U2", "MJ3X2", "MJ3Y2", "MJYN2", "MJ452", "MJ432", "MJ402", "MJ472" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Space Black",
+        "Size": "42mm",
         "Storage": "8 GB",
         "Model": [ "MJ482", "MLC82" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 1",
+    "InternalName": "N27dAP",
+    "Identifier": "Watch2,6",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "38mm",
+        "Model": [ "MNNG2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "38mm",
+        "Model": [ "MNNJ2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Rose Gold",
+        "Size": "38mm",
+        "Model": [ "MNNH2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Grey",
+        "Size": "38mm",
+        "Model": [ "MP022" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 1",
+    "InternalName": "N28dAP",
+    "Identifier": "Watch2,7",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "42mm",
+        "Model": [ "MNNL2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "42mm",
+        "Model": [ "MNNN2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Rose Gold",
+        "Size": "42mm",
+        "Model": [ "MNNM2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Grey",
+        "Size": "42mm",
+        "Model": [ "MP032" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 2",
+    "InternalName": "N74AP",
+    "Identifier": "Watch2,3",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "38mm",
+        "Model": [ "MNNW2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "38mm",
+        "Model": [ "MNP22" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Rose Gold",
+        "Size": "38mm",
+        "Model": [ "MNNY2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Grey",
+        "Size": "38mm",
+        "Model": [ "MP0D2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 2",
+    "InternalName": "N75AP",
+    "Identifier": "Watch2,4",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "42mm",
+        "Model": [ "MNPJ2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "42mm",
+        "Model": [ "MNPN2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Rose Gold",
+        "Size": "42mm",
+        "Model": [ "MNPL2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Grey",
+        "Size": "42mm",
+        "Model": [ "MP062" ]
       }
     ]
   }

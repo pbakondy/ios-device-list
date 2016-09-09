@@ -3,7 +3,6 @@
     "Generation": "iPhone",
     "ANumber": [ "A1203" ],
     "Bootrom": [ "Bootrom Rev.2" ],
-    "Variant": null,
     "FCCID": [ "BCGA1203" ],
     "InternalName": "M68AP",
     "Identifier": "iPhone1,1",
@@ -29,7 +28,6 @@
     "Generation": "iPhone 3G",
     "ANumber": [ "A1241", "A1324" ],
     "Bootrom": [ "Bootrom Rev.2" ],
-    "Variant": null,
     "FCCID": [ "BCGA1241" ],
     "InternalName": "N82AP",
     "Identifier": "iPhone1,2",
@@ -55,7 +53,6 @@
     "Generation": "iPhone 3GS",
     "ANumber": [ "A1303", "A1325" ],
     "Bootrom": [ "Bootrom 359.3" ],
-    "Variant": null,
     "FCCID": [ "BCGA1303A", "BCGA1303B" ],
     "InternalName": "N88AP",
     "Identifier": "iPhone2,1",
@@ -86,7 +83,6 @@
     "Generation": "iPhone 3GS",
     "ANumber": [ "A1303", "A1325" ],
     "Bootrom": [ "Bootrom 359.3.2" ],
-    "Variant": null,
     "FCCID": [ "BCGA1303A", "BCGA1303B" ],
     "InternalName": "N88AP",
     "Identifier": "iPhone2,1",
@@ -921,324 +917,159 @@
   {
     "Generation": "iPhone 7",
     "ANumber": [ "A1660", "A1778", "A1779", "A1780" ],
-    "Bootrom": [ ],
-    "Variant": "iPhone9,1",
-    "FCCID": [ ],
+    "Variant": [ "iPhone9,1", "iPhone9,3" ],
     "InternalName": [ "D10AP", "D101AP" ],
-    "Identifier": "iPhone9,1",
+    "Identifier": [ "iPhone9,1", "iPhone9,3" ],
     "Models": [
       {
         "Color": "Jet Black",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN962" ]
       },
       {
         "Color": "Jet Black",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN9C2" ]
       },
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MN8X2" ]
       },
       {
         "Color": "Black",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN922" ]
       },
       {
         "Color": "Black",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN972" ]
       },
       {
         "Color": "Gold",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MN902" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN942" ]
       },
       {
         "Color": "Gold",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN992" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MN912" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN952" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN9A2" ]
       },
       {
         "Color": "Silver",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MN8Y2" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN932" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ ]
-      }
-    ]
-  },
-  {
-    "Generation": "iPhone 7",
-    "ANumber": [ "A1660", "A1778", "A1779", "A1780" ],
-    "Bootrom": [ ],
-    "Variant": "iPhone9,3",
-    "FCCID": [ ],
-    "InternalName": [ "D10AP", "D101AP" ],
-    "Identifier": "iPhone9,3",
-    "Models": [
-      {
-        "Color": "Jet Black",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Jet Black",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Black",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Black",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Black",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Rose Gold",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Rose Gold",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Rose Gold",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN982" ]
       }
     ]
   },
   {
     "Generation": "iPhone 7 Plus",
     "ANumber": [ "A1661", "A1784", "A1785", "A1786" ],
-    "Bootrom": [ ],
-    "Variant": "iPhone9,2",
+    "Variant": [ "iPhone9,2", "iPhone9,4" ],
     "FCCID": [ "BCG-E3087A" ],
     "InternalName": [ "D11AP", "D111AP" ],
-    "Identifier": "iPhone9,2",
+    "Identifier": [ "iPhone9,2", "iPhone9,4" ],
     "Models": [
       {
         "Color": "Jet Black",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN4V2" ]
       },
       {
         "Color": "Jet Black",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN512" ]
       },
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MNQM2" ]
       },
       {
         "Color": "Black",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN4M2" ]
       },
       {
         "Color": "Black",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN4W2" ]
       },
       {
         "Color": "Gold",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MNQP2" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN4Q2" ]
       },
       {
         "Color": "Gold",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN4Y2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MNQP2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN4Q2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN4Y2" ]
       },
       {
         "Color": "Silver",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MNQN2" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ ]
+        "Model": [ "MN4P2" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ ]
-      }
-    ]
-  },
-  {
-    "Generation": "iPhone 7 Plus",
-    "ANumber": [ "A1661", "A1784", "A1785", "A1786" ],
-    "Bootrom": [ ],
-    "Variant": "iPhone9,4",
-    "FCCID": [ "BCG-E3087A" ],
-    "InternalName": [ "D11AP", "D111AP" ],
-    "Identifier": "iPhone9,4",
-    "Models": [
-      {
-        "Color": "Jet Black",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Jet Black",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Black",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Black",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Black",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Rose Gold",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Rose Gold",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Rose Gold",
-        "Storage": "256 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "32 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "128 GB",
-        "Model": [ ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MN4X2" ]
       }
     ]
   }

@@ -242,7 +242,7 @@ function deviceByIdentifier(id, type, options) {
   let caseInsensitive = !!options.caseInsensitive;
   let contains = !!options.contains;
 
-  return deviceByFilter(id, 'Identifier', type, caseInsensitive, contains);
+  return deviceByFilter(id, 'Identifier', type, caseInsensitive, contains, true);
 }
 
 function deviceByColor(color, type, options) {
@@ -339,7 +339,7 @@ function generationByIdentifier(id, type) {
     throw new TypeError('`id` parameter must be a string');
   }
 
-  let devices = deviceByFilter(id, 'Identifier', type);
+  let devices = deviceByFilter(id, 'Identifier', type, false, false, true);
 
   if (devices.length === 0) {
     return;
