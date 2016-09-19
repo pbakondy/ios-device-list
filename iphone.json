@@ -917,7 +917,9 @@
   {
     "Generation": "iPhone 7",
     "ANumber": [ "A1660", "A1778", "A1779", "A1780" ],
+    "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
     "Variant": [ "iPhone9,1", "iPhone9,3" ],
+    "FCCID": [ "BCG‑E3085A", "BCG‑E3086A", "BCG‑E3091A" ],
     "InternalName": [ "D10AP", "D101AP" ],
     "Identifier": [ "iPhone9,1", "iPhone9,3" ],
     "Models": [
@@ -996,8 +998,9 @@
   {
     "Generation": "iPhone 7 Plus",
     "ANumber": [ "A1661", "A1784", "A1785", "A1786" ],
+    "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
     "Variant": [ "iPhone9,2", "iPhone9,4" ],
-    "FCCID": [ "BCG-E3087A" ],
+    "FCCID": [ "BCG‑E3087A", "BCG‑E3088A", "BCG‑E3092A" ],
     "InternalName": [ "D11AP", "D111AP" ],
     "Identifier": [ "iPhone9,2", "iPhone9,4" ],
     "Models": [

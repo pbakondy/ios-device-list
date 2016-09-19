@@ -63,7 +63,7 @@ test('generations()', t => {
 test('anumbers()', t => {
   t.is(typeof devices.anumbers, 'function');
   t.truthy(Array.isArray(devices.anumbers()));
-  t.is(devices.anumbers().length, 94);
+  t.is(devices.anumbers().length, 99);
   t.is(devices.anumbers('iphone').length, 47);
   t.throws(function() { devices.anumbers('invalidType') });
 });
@@ -71,8 +71,8 @@ test('anumbers()', t => {
 test('fccids()', t => {
   t.is(typeof devices.fccids, 'function');
   t.truthy(Array.isArray(devices.fccids()));
-  t.is(devices.fccids().length, 66);
-  t.is(devices.fccids('iphone').length, 23);
+  t.is(devices.fccids().length, 74);
+  t.is(devices.fccids('iphone').length, 27);
   t.throws(function() { devices.fccids('invalidType') });
 });
 

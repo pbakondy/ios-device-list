@@ -42,19 +42,37 @@
   },
   {
     "name": "Apple Watch Series 1",
-    "model": "Watch2,6"
+    "model": "Watch2,6",
+    "ANumber": [
+      "A1802"
+    ],
+    "FCCID": "BCG‑E3102"
   },
   {
     "name": "Apple Watch Series 1",
-    "model": "Watch2,7"
+    "model": "Watch2,7",
+    "ANumber": [
+      "A1803"
+    ],
+    "FCCID": "BCG‑E3103"
   },
   {
     "name": "Apple Watch Series 2",
-    "model": "Watch2,3"
+    "model": "Watch2,3",
+    "ANumber": [
+      "A1757",
+      "A1816"
+    ],
+    "FCCID": "BCG‑E3104"
   },
   {
     "name": "Apple Watch Series 2",
-    "model": "Watch2,4"
+    "model": "Watch2,4",
+    "ANumber": [
+      "A1758",
+      "A1817"
+    ],
+    "FCCID": "BCG‑E3105"
   },
   {
     "name": "iPad",
@@ -479,6 +497,11 @@
       "A1778",
       "A1779",
       "A1780"
+    ],
+    "FCCID": [
+      "BCG‑E3085A",
+      "BCG‑E3086A",
+      "BCG‑E3091A"
     ]
   },
   {
@@ -489,6 +512,11 @@
       "A1778",
       "A1779",
       "A1780"
+    ],
+    "FCCID": [
+      "BCG‑E3085A",
+      "BCG‑E3086A",
+      "BCG‑E3091A"
     ]
   },
   {
@@ -501,7 +529,9 @@
       "A1786"
     ],
     "FCCID": [
-      "BCG-E3087A"
+      "BCG‑E3087A",
+      "BCG‑E3088A",
+      "BCG‑E3092A"
     ]
   },
   {
@@ -514,7 +544,9 @@
       "A1786"
     ],
     "FCCID": [
-      "BCG-E3087A"
+      "BCG‑E3087A",
+      "BCG‑E3088A",
+      "BCG‑E3092A"
     ]
   },
   {

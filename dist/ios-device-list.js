@@ -3651,6 +3651,10 @@ return /******/ (function(modules) { // webpackBootstrap
 		},
 		{
 			"Generation": "Apple Watch Series 1",
+			"ANumber": [
+				"A1802"
+			],
+			"FCCID": "BCG‑E3102",
 			"InternalName": "N27dAP",
 			"Identifier": "Watch2,6",
 			"Models": [
@@ -3680,7 +3684,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"CaseMaterial": "Aluminum",
-					"Color": "Grey",
+					"Color": "Space Gray",
 					"Size": "38mm",
 					"Model": [
 						"MP022"
@@ -3690,6 +3694,10 @@ return /******/ (function(modules) { // webpackBootstrap
 		},
 		{
 			"Generation": "Apple Watch Series 1",
+			"ANumber": [
+				"A1803"
+			],
+			"FCCID": "BCG‑E3103",
 			"InternalName": "N28dAP",
 			"Identifier": "Watch2,7",
 			"Models": [
@@ -3719,7 +3727,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"CaseMaterial": "Aluminum",
-					"Color": "Grey",
+					"Color": "Space Gray",
 					"Size": "42mm",
 					"Model": [
 						"MP032"
@@ -3729,6 +3737,11 @@ return /******/ (function(modules) { // webpackBootstrap
 		},
 		{
 			"Generation": "Apple Watch Series 2",
+			"ANumber": [
+				"A1757",
+				"A1816"
+			],
+			"FCCID": "BCG‑E3104",
 			"InternalName": "N74AP",
 			"Identifier": "Watch2,3",
 			"Models": [
@@ -3737,7 +3750,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Silver",
 					"Size": "38mm",
 					"Model": [
-						"MNNW2"
+						"MNNQ2",
+						"MNNW2",
+						"MNNX2",
+						"MNYP2"
 					]
 				},
 				{
@@ -3745,7 +3761,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Gold",
 					"Size": "38mm",
 					"Model": [
-						"MNP22"
+						"MNP22",
+						"MNP32"
 					]
 				},
 				{
@@ -3753,21 +3770,67 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Rose Gold",
 					"Size": "38mm",
 					"Model": [
-						"MNNY2"
+						"MNNY2",
+						"MNP02"
 					]
 				},
 				{
 					"CaseMaterial": "Aluminum",
-					"Color": "Grey",
+					"Color": "Space Gray",
 					"Size": "38mm",
 					"Model": [
-						"MP0D2"
+						"MNYX2",
+						"MP0D2",
+						"MP052",
+						"MP082"
+					]
+				},
+				{
+					"CaseMaterial": "Stainless Steel",
+					"Color": "Silver",
+					"Size": "38mm",
+					"Model": [
+						"MNP42",
+						"MNP52",
+						"MNP62",
+						"MNP72",
+						"MNP82",
+						"MNP92",
+						"MNPA2",
+						"MNQ52",
+						"MNQ62",
+						"MNQ72",
+						"MNQ82",
+						"MNQ92"
+					]
+				},
+				{
+					"CaseMaterial": "Stainless Steel",
+					"Color": "Space Black",
+					"Size": "38mm",
+					"Model": [
+						"MNPD2",
+						"MNPE2",
+						"MP492"
+					]
+				},
+				{
+					"CaseMaterial": "Ceramic",
+					"Color": "White",
+					"Size": "38mm",
+					"Model": [
+						"MNPF2"
 					]
 				}
 			]
 		},
 		{
 			"Generation": "Apple Watch Series 2",
+			"ANumber": [
+				"A1758",
+				"A1817"
+			],
+			"FCCID": "BCG‑E3105",
 			"InternalName": "N75AP",
 			"Identifier": "Watch2,4",
 			"Models": [
@@ -3776,7 +3839,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Silver",
 					"Size": "42mm",
 					"Model": [
-						"MNPJ2"
+						"MNNT2",
+						"MNPJ2",
+						"MNPK2",
+						"MNYQ2"
 					]
 				},
 				{
@@ -3784,7 +3850,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Gold",
 					"Size": "42mm",
 					"Model": [
-						"MNPN2"
+						"MNPN2",
+						"MNPP2"
 					]
 				},
 				{
@@ -3792,15 +3859,52 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Rose Gold",
 					"Size": "42mm",
 					"Model": [
-						"MNPL2"
+						"MNPL2",
+						"MNPM2"
 					]
 				},
 				{
 					"CaseMaterial": "Aluminum",
-					"Color": "Grey",
+					"Color": "Space Gray",
 					"Size": "42mm",
 					"Model": [
-						"MP062"
+						"MNYY2",
+						"MP062",
+						"MP072",
+						"MP0A2"
+					]
+				},
+				{
+					"CaseMaterial": " Stainless Steel",
+					"Color": "Silver",
+					"Size": "42mm",
+					"Model": [
+						"MNPR2",
+						"MNPT2",
+						"MNPU2",
+						"MNPV2",
+						"MNPW2",
+						"MNQ02",
+						"MNQ12",
+						"MNQ22",
+						"MNQ32",
+						"MNQC2"
+					]
+				},
+				{
+					"CaseMaterial": " Stainless Steel",
+					"Color": "Space Black",
+					"Size": "42mm",
+					"Model": [
+						"MP4A2"
+					]
+				},
+				{
+					"CaseMaterial": "Ceramic",
+					"Color": "White",
+					"Size": "42mm",
+					"Model": [
+						"MNPQ2"
 					]
 				}
 			]
@@ -7665,9 +7769,17 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1779",
 				"A1780"
 			],
+			"Bootrom": [
+				"Bootrom 2696.0.0.1.33"
+			],
 			"Variant": [
 				"iPhone9,1",
 				"iPhone9,3"
+			],
+			"FCCID": [
+				"BCG‑E3085A",
+				"BCG‑E3086A",
+				"BCG‑E3091A"
 			],
 			"InternalName": [
 				"D10AP",
@@ -7786,12 +7898,17 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1785",
 				"A1786"
 			],
+			"Bootrom": [
+				"Bootrom 2696.0.0.1.33"
+			],
 			"Variant": [
 				"iPhone9,2",
 				"iPhone9,4"
 			],
 			"FCCID": [
-				"BCG-E3087A"
+				"BCG‑E3087A",
+				"BCG‑E3088A",
+				"BCG‑E3092A"
 			],
 			"InternalName": [
 				"D11AP",
