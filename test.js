@@ -95,7 +95,7 @@ test('identifiers()', t => {
 test('colors()', t => {
   t.is(typeof devices.colors, 'function');
   t.truthy(Array.isArray(devices.colors()));
-  t.is(devices.colors().length, 16);
+  t.is(devices.colors().length, 15);
   t.is(devices.colors('iphone').length, 11);
   t.throws(function() { devices.colors('invalidType') });
 });

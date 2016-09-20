@@ -7457,11 +7457,22 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQL2",
 						"MKQ72",
+						"MKR12",
 						"MKRE2",
 						"MKRW2",
-						"MKR12",
 						"MKT92",
 						"ML7E2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MN0P2",
+						"MN172",
+						"MN1K2",
+						"MN1U2",
+						"MN1Y2"
 					]
 				},
 				{
@@ -7470,10 +7481,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQC2",
 						"MKQQ2",
-						"MKRJ2",
 						"MKR52",
-						"MKTE2",
+						"MKRJ2",
 						"MKT12",
+						"MKTE2",
 						"ML7J2"
 					]
 				},
@@ -7483,10 +7494,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQG2",
 						"MKQV2",
-						"MKRP2",
 						"MKR92",
-						"MKTJ2",
+						"MKRP2",
 						"MKT52",
+						"MKTJ2",
 						"ML7N2"
 					]
 				},
@@ -7505,14 +7516,25 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MN0V2",
+						"MN192",
+						"MN1L2",
+						"MN1V2",
+						"MN202"
+					]
+				},
+				{
+					"Color": "Rose Gold",
 					"Storage": "64 GB",
 					"Model": [
 						"MKQD2",
 						"MKQR2",
-						"MKRK2",
 						"MKR62",
-						"MKTF2",
+						"MKRK2",
 						"MKT22",
+						"MKTF2",
 						"ML7K2"
 					]
 				},
@@ -7524,8 +7546,8 @@ return /******/ (function(modules) { // webpackBootstrap
 						"MKQW2",
 						"MKRA2",
 						"MKRQ2",
-						"MKTK2",
 						"MKT62",
+						"MKTK2",
 						"ML7P2"
 					]
 				},
@@ -7533,9 +7555,9 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Silver",
 					"Storage": "16 GB",
 					"Model": [
+						"MKQ62",
 						"MKQK2",
 						"MKQY2",
-						"MKQ62",
 						"MKRD2",
 						"MKRT2",
 						"MKT82",
@@ -7545,14 +7567,25 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MN0N2",
+						"MN162",
+						"MN1G2",
+						"MN1Q2",
+						"MN1X2"
+					]
+				},
+				{
+					"Color": "Silver",
 					"Storage": "64 GB",
 					"Model": [
 						"MKQA2",
 						"MKQP2",
-						"MKRH2",
 						"MKR42",
-						"MKTD2",
+						"MKRH2",
 						"MKT02",
+						"MKTD2",
 						"ML7H2"
 					]
 				},
@@ -7562,10 +7595,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQF2",
 						"MKQU2",
-						"MKRM2",
 						"MKR82",
-						"MKTH2",
+						"MKRM2",
 						"MKT42",
+						"MKTH2",
 						"ML7M2"
 					]
 				},
@@ -7573,9 +7606,9 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Space Gray",
 					"Storage": "16 GB",
 					"Model": [
+						"MKQ52",
 						"MKQJ2",
 						"MKQX2",
-						"MKQ52",
 						"MKRC2",
 						"MKRR2",
 						"MKT72",
@@ -7584,13 +7617,24 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": [
+						"MN0M2",
+						"MN132",
+						"MN1E2",
+						"MN1M2",
+						"MN1W2"
+					]
+				},
+				{
+					"Color": "Space Gray",
 					"Storage": "64 GB",
 					"Model": [
 						"MKQN2",
 						"MKQ92",
+						"MKR32",
 						"MKRG2",
 						"MKRY2",
-						"MKR32",
 						"MKTC2",
 						"ML7G2"
 					]
@@ -7601,10 +7645,10 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MKQE2",
 						"MKQT2",
-						"MKRL2",
 						"MKR72",
-						"MKTG2",
+						"MKRL2",
 						"MKT32",
+						"MKTG2",
 						"ML7L2"
 					]
 				}
@@ -7647,6 +7691,11 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Gold",
 					"Storage": "64 GB",
 					"Model": [
 						"MKTT2",
@@ -7681,6 +7730,11 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": []
+				},
+				{
+					"Color": "Rose Gold",
 					"Storage": "64 GB",
 					"Model": [
 						"MKU92",
@@ -7708,6 +7762,11 @@ return /******/ (function(modules) { // webpackBootstrap
 						"MKW62",
 						"ML6C2"
 					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": []
 				},
 				{
 					"Color": "Silver",
@@ -7742,6 +7801,11 @@ return /******/ (function(modules) { // webpackBootstrap
 						"MKU12",
 						"ML6A2"
 					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": []
 				},
 				{
 					"Color": "Space Gray",

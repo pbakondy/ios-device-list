@@ -784,17 +784,22 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MKQL2", "MKQ72", "MKRE2", "MKRW2", "MKR12", "MKT92", "ML7E2" ]
+        "Model": [ "MKQL2", "MKQ72", "MKR12", "MKRE2", "MKRW2", "MKT92", "ML7E2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MN0P2", "MN172", "MN1K2", "MN1U2", "MN1Y2" ]
       },
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MKQC2", "MKQQ2", "MKRJ2", "MKR52", "MKTE2", "MKT12", "ML7J2" ]
+        "Model": [ "MKQC2", "MKQQ2", "MKR52", "MKRJ2", "MKT12", "MKTE2", "ML7J2" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MKQG2", "MKQV2", "MKRP2", "MKR92", "MKTJ2", "MKT52", "ML7N2" ]
+        "Model": [ "MKQG2", "MKQV2", "MKR92", "MKRP2", "MKT52", "MKTJ2", "ML7N2" ]
       },
       {
         "Color": "Rose Gold",
@@ -803,43 +808,58 @@
       },
       {
         "Color": "Rose Gold",
+        "Storage": "32 GB",
+        "Model": [ "MN0V2", "MN192", "MN1L2", "MN1V2", "MN202" ]
+      },
+      {
+        "Color": "Rose Gold",
         "Storage": "64 GB",
-        "Model": [ "MKQD2", "MKQR2", "MKRK2", "MKR62", "MKTF2", "MKT22", "ML7K2" ]
+        "Model": [ "MKQD2", "MKQR2", "MKR62", "MKRK2", "MKT22", "MKTF2", "ML7K2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ "MKQH2", "MKQW2", "MKRA2", "MKRQ2", "MKTK2", "MKT62", "ML7P2" ]
+        "Model": [ "MKQH2", "MKQW2", "MKRA2", "MKRQ2", "MKT62", "MKTK2", "ML7P2" ]
       },
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "MKQK2", "MKQY2", "MKQ62", "MKRD2", "MKRT2", "MKT82", "ML7D2", "NKQJ2" ]
+        "Model": [ "MKQ62", "MKQK2", "MKQY2", "MKRD2", "MKRT2", "MKT82", "ML7D2", "NKQJ2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MN0N2", "MN162", "MN1G2", "MN1Q2", "MN1X2" ]
       },
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MKQA2", "MKQP2", "MKRH2", "MKR42", "MKTD2", "MKT02", "ML7H2" ]
+        "Model": [ "MKQA2", "MKQP2", "MKR42", "MKRH2", "MKT02", "MKTD2", "ML7H2" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "MKQF2", "MKQU2", "MKRM2", "MKR82", "MKTH2", "MKT42", "ML7M2" ]
+        "Model": [ "MKQF2", "MKQU2", "MKR82", "MKRM2", "MKT42", "MKTH2", "ML7M2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "MKQJ2", "MKQX2", "MKQ52", "MKRC2", "MKRR2", "MKT72", "ML7C2" ]
+        "Model": [ "MKQ52", "MKQJ2", "MKQX2", "MKRC2", "MKRR2", "MKT72", "ML7C2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MN0M2", "MN132", "MN1E2", "MN1M2", "MN1W2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MKQN2", "MKQ92", "MKRG2", "MKRY2", "MKR32", "MKTC2", "ML7G2" ]
+        "Model": [ "MKQN2", "MKQ92", "MKR32", "MKRG2", "MKRY2", "MKTC2", "ML7G2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "128 GB",
-        "Model": [ "MKQE2", "MKQT2", "MKRL2", "MKR72", "MKTG2", "MKT32", "ML7L2" ]
+        "Model": [ "MKQE2", "MKQT2", "MKR72", "MKRL2", "MKT32", "MKTG2", "ML7L2" ]
       }
     ]
   },
@@ -859,6 +879,11 @@
       },
       {
         "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Gold",
         "Storage": "64 GB",
         "Model": [ "MKTT2", "MKUV2", "MKU82", "MKVD2", "MKVX2", "MKWD2", "ML6H2" ]
       },
@@ -871,6 +896,11 @@
         "Color": "Rose Gold",
         "Storage": "16 GB",
         "Model": [ "MKU52", "ML6E2" ]
+      },
+      {
+        "Color": "Rose Gold",
+        "Storage": "32 GB",
+        "Model": [ ]
       },
       {
         "Color": "Rose Gold",
@@ -889,6 +919,11 @@
       },
       {
         "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MKTR2", "MKUU2", "MKU72", "MKVW2", "MKV92", "MKWC2", "ML6G2" ]
       },
@@ -901,6 +936,11 @@
         "Color": "Space Gray",
         "Storage": "16 GB",
         "Model": [ "MKU12", "ML6A2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ ]
       },
       {
         "Color": "Space Gray",
