@@ -3,7 +3,6 @@
     "Generation": "iPad",
     "ANumber": "A1219",
     "Bootrom": "Bootrom 574.4",
-    "Variant": "Wi‑Fi",
     "FCCID": "BCG‑E2381A",
     "InternalName": "K48AP",
     "Identifier": "iPad1,1",
@@ -29,7 +28,6 @@
     "Generation": "iPad",
     "ANumber": "A1219",
     "Bootrom": "Bootrom 574.4",
-    "Variant": "GSM",
     "FCCID": "BCG‑E2328A",
     "InternalName": "K48AP",
     "Identifier": "iPad1,1",
@@ -55,7 +53,6 @@
     "Generation": "iPad 2",
     "ANumber": "A1395",
     "Bootrom": "Bootrom 838.3",
-    "Variant": "iPad2,1",
     "FCCID": "BCGA1395",
     "InternalName": "K93AP",
     "Identifier": "iPad2,1",
@@ -96,7 +93,6 @@
     "Generation": "iPad 2",
     "ANumber": "A1396",
     "Bootrom": "Bootrom 838.3",
-    "Variant": "iPad2,2",
     "FCCID": "BCGA1396",
     "InternalName": "K94AP",
     "Identifier": "iPad2,2",
@@ -137,7 +133,6 @@
     "Generation": "iPad 2",
     "ANumber": "A1397",
     "Bootrom": "Bootrom 838.3",
-    "Variant": "iPad2,3",
     "FCCID": "BCGA1397",
     "InternalName": "K95AP",
     "Identifier": "iPad2,3",
@@ -178,7 +173,6 @@
     "Generation": "iPad 2",
     "ANumber": "A1395",
     "Bootrom": "ROM",
-    "Variant": "iPad2,4",
     "FCCID": "BCGA1395",
     "InternalName": "K93AAP",
     "Identifier": "iPad2,4",
@@ -199,7 +193,6 @@
     "Generation": "iPad 3",
     "ANumber": "A1416",
     "Bootrom": "Bootrom 1062.2",
-    "Variant": "iPad3,1",
     "FCCID": "BCGA1416",
     "InternalName": "J1AP",
     "Identifier": "iPad3,1",
@@ -240,7 +233,6 @@
     "Generation": "iPad 3",
     "ANumber": "A1403",
     "Bootrom": "Bootrom 1062.2",
-    "Variant": "iPad3,2",
     "FCCID": "BCGA1403",
     "InternalName": "J2AP",
     "Identifier": "iPad3,2",
@@ -281,7 +273,6 @@
     "Generation": "iPad 3",
     "ANumber": "A1430",
     "Bootrom": "Bootrom 1062.2",
-    "Variant": "iPad3,3",
     "FCCID": "BCGA1430",
     "InternalName": "J2AAP",
     "Identifier": "iPad3,3",
@@ -322,7 +313,6 @@
     "Generation": "iPad 4",
     "ANumber": "A1458",
     "Bootrom": "Bootrom 1145.3.3",
-    "Variant": "iPad3,4",
     "FCCID": "BCGA1458",
     "InternalName": "P101AP",
     "Identifier": "iPad3,4",
@@ -373,7 +363,6 @@
     "Generation": "iPad 4",
     "ANumber": "A1459",
     "Bootrom": "Bootrom 1145.3.3",
-    "Variant": "iPad3,5",
     "FCCID": "BCGA1459",
     "InternalName": "P102AP",
     "Identifier": "iPad3,5",
@@ -424,7 +413,6 @@
     "Generation": "iPad 4",
     "ANumber": "A1460",
     "Bootrom": "Bootrom 1145.3.3",
-    "Variant": "iPad3,6",
     "FCCID": "BCGA1460",
     "InternalName": "P103AP",
     "Identifier": "iPad3,6",
@@ -475,7 +463,6 @@
     "Generation": "iPad Air",
     "ANumber": "A1474",
     "Bootrom": "Bootrom 1704.10",
-    "Variant": "iPad4,1",
     "FCCID": "BCGA1474",
     "InternalName": "J71AP",
     "Identifier": "iPad4,1",
@@ -526,7 +513,6 @@
     "Generation": "iPad Air",
     "ANumber": "A1475",
     "Bootrom": "Bootrom 1704.10",
-    "Variant": "iPad4,2",
     "FCCID": "BCGA1475",
     "InternalName": "J72AP",
     "Identifier": "iPad4,2",
@@ -577,7 +563,6 @@
     "Generation": "iPad Air",
     "ANumber": "A1476",
     "Bootrom": "Bootrom 1704.10",
-    "Variant": "iPad4,3",
     "FCCID": "BCGA1476",
     "InternalName": "J73AP",
     "Identifier": "iPad4,3",
@@ -628,7 +613,6 @@
     "Generation": "iPad Air 2",
     "ANumber": "A1566",
     "Bootrom": "Bootrom 1991.0.0.2.16",
-    "Variant": "iPad5,3",
     "FCCID": "BCGA1566",
     "InternalName": "J81AP",
     "Identifier": "iPad5,3",
@@ -699,7 +683,6 @@
     "Generation": "iPad Air 2",
     "ANumber": "A1567",
     "Bootrom": "Bootrom 1991.0.0.2.16",
-    "Variant": "iPad5,4",
     "FCCID": "BCGA1567",
     "InternalName": "J82AP",
     "Identifier": "iPad5,4",
@@ -767,10 +750,104 @@
     ]
   },
   {
+    "Generation": "iPad Pro (12.9 inch)",
+    "ANumber": "A1584",
+    "Bootrom": "Bootrom 2481.0.0.2.1",
+    "FCCID": "BCGA1584",
+    "InternalName": "J98aAP",
+    "Identifier": "iPad6,7",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "ML0H2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "ML0R2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "ML0V2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "ML0G2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "ML0Q2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "ML0U2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "ML0F2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "ML0N2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "ML0T2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9 inch)",
+    "ANumber": "A1652",
+    "Bootrom": "Bootrom 2481.0.0.2.1",
+    "FCCID": "BCGA1652",
+    "InternalName": "J99aAP",
+    "Identifier": "iPad6,8",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "ML3Q2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "ML3Z2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "ML3N2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "ML3W2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "ML3K2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "ML3T2" ]
+      }
+    ]
+  },
+  {
     "Generation": "iPad Pro (9.7 inch)",
     "ANumber": "A1673",
     "Bootrom": "Bootrom 2481.0.0.2.1",
-    "Variant": "iPad6,3",
     "FCCID": "BCGA1673",
     "InternalName": "J127AP",
     "Identifier": "iPad6,3",
@@ -841,7 +918,6 @@
     "Generation": "iPad Pro (9.7 inch)",
     "ANumber": [ "A1674", "A1675" ],
     "Bootrom": "Bootrom 2481.0.0.2.1",
-    "Variant": "iPad6,4",
     "FCCID": "BCGA1674",
     "InternalName": "J128AP",
     "Identifier": "iPad6,4",
@@ -905,103 +981,6 @@
         "Color": "Space Gray",
         "Storage": "256 GB",
         "Model": [ "MLQ62" ]
-      }
-    ]
-  },
-  {
-    "Generation": "iPad Pro (12.9 inch)",
-    "ANumber": "A1584",
-    "Bootrom": "Bootrom 2481.0.0.2.1",
-    "Variant": "iPad6,7",
-    "FCCID": "BCGA1584",
-    "InternalName": "J98aAP",
-    "Identifier": "iPad6,7",
-    "Models": [
-      {
-        "Color": "Gold",
-        "Storage": "32 GB",
-        "Model": [ "ML0H2" ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "128 GB",
-        "Model": [ "ML0R2" ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "256 GB",
-        "Model": [ "ML0V2" ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "32 GB",
-        "Model": [ "ML0G2" ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "128 GB",
-        "Model": [ "ML0Q2" ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "256 GB",
-        "Model": [ "ML0U2" ]
-      },
-      {
-        "Color": "Space Gray",
-        "Storage": "32 GB",
-        "Model": [ "ML0F2" ]
-      },
-      {
-        "Color": "Space Gray",
-        "Storage": "128 GB",
-        "Model": [ "ML0N2" ]
-      },
-      {
-        "Color": "Space Gray",
-        "Storage": "256 GB",
-        "Model": [ "ML0T2" ]
-      }
-    ]
-  },
-  {
-    "Generation": "iPad Pro (12.9 inch)",
-    "ANumber": "A1652",
-    "Bootrom": "Bootrom 2481.0.0.2.1",
-    "Variant": "iPad6,8",
-    "FCCID": "BCGA1652",
-    "InternalName": "J99aAP",
-    "Identifier": "iPad6,8",
-    "Models": [
-      {
-        "Color": "Gold",
-        "Storage": "128 GB",
-        "Model": [ "ML3Q2" ]
-      },
-      {
-        "Color": "Gold",
-        "Storage": "256 GB",
-        "Model": [ "ML3Z2" ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "128 GB",
-        "Model": [ "ML3N2" ]
-      },
-      {
-        "Color": "Silver",
-        "Storage": "256 GB",
-        "Model": [ "ML3W2" ]
-      },
-      {
-        "Color": "Space Gray",
-        "Storage": "128 GB",
-        "Model": [ "ML3K2" ]
-      },
-      {
-        "Color": "Space Gray",
-        "Storage": "256 GB",
-        "Model": [ "ML3T2" ]
       }
     ]
   }

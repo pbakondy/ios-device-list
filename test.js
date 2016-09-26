@@ -31,7 +31,7 @@ test('devices() device', t => {
   t.is(typeof d1.Generation, 'string');
   t.is(typeof d1.ANumber, 'string');
   t.is(typeof d1.Bootrom, 'string');
-  t.is(typeof d1.Variant, 'string');
+//  t.is(typeof d1.Variant, 'string');
   t.is(typeof d1.FCCID, 'string');
   t.is(typeof d1.InternalName, 'string');
   t.is(typeof d1.Identifier, 'string');
@@ -43,7 +43,7 @@ test('devices() device', t => {
   t.is(typeof d2.Generation, 'string');
   t.is(Array.isArray(d2.ANumber), true);
   t.is(Array.isArray(d2.Bootrom), true);
-  t.is(typeof d2.Variant, 'string');
+//  t.is(typeof d2.Variant, 'string');
   t.is(Array.isArray(d2.FCCID), true);
   t.is(typeof d2.InternalName, 'string');
   t.is(typeof d2.Identifier, 'string');
