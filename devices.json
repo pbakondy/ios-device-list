@@ -177,6 +177,18 @@
     "FCCID": "BCGA1567"
   },
   {
+    "name": "iPad Pro (12.9 inch)",
+    "model": "iPad6,7",
+    "ANumber": "A1584",
+    "FCCID": "BCGA1584"
+  },
+  {
+    "name": "iPad Pro (12.9 inch)",
+    "model": "iPad6,8",
+    "ANumber": "A1652",
+    "FCCID": "BCGA1652"
+  },
+  {
     "name": "iPad Pro (9.7 inch)",
     "model": "iPad6,3",
     "ANumber": "A1673",
@@ -190,18 +202,6 @@
       "A1675"
     ],
     "FCCID": "BCGA1674"
-  },
-  {
-    "name": "iPad Pro (12.9 inch)",
-    "model": "iPad6,7",
-    "ANumber": "A1584",
-    "FCCID": "BCGA1584"
-  },
-  {
-    "name": "iPad Pro (12.9 inch)",
-    "model": "iPad6,8",
-    "ANumber": "A1652",
-    "FCCID": "BCGA1652"
   },
   {
     "name": "iPad mini",
@@ -494,28 +494,21 @@
     "model": "iPhone9,1",
     "ANumber": [
       "A1660",
-      "A1778",
       "A1779",
       "A1780"
     ],
     "FCCID": [
       "BCG‑E3085A",
-      "BCG‑E3086A",
-      "BCG‑E3091A"
+      "BCG‑E3086A"
     ]
   },
   {
     "name": "iPhone 7",
     "model": "iPhone9,3",
     "ANumber": [
-      "A1660",
-      "A1778",
-      "A1779",
-      "A1780"
+      "A1778"
     ],
     "FCCID": [
-      "BCG‑E3085A",
-      "BCG‑E3086A",
       "BCG‑E3091A"
     ]
   },
@@ -524,28 +517,21 @@
     "model": "iPhone9,2",
     "ANumber": [
       "A1661",
-      "A1784",
       "A1785",
       "A1786"
     ],
     "FCCID": [
       "BCG‑E3087A",
-      "BCG‑E3088A",
-      "BCG‑E3092A"
+      "BCG‑E3088A"
     ]
   },
   {
     "name": "iPhone 7 Plus",
     "model": "iPhone9,4",
     "ANumber": [
-      "A1661",
-      "A1784",
-      "A1785",
-      "A1786"
+      "A1784"
     ],
     "FCCID": [
-      "BCG‑E3087A",
-      "BCG‑E3088A",
       "BCG‑E3092A"
     ]
   },

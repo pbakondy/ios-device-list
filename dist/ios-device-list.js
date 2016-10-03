@@ -451,7 +451,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/* WEBPACK VAR INJECTION */(function(global) {'use strict';
 
-	var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol ? "symbol" : typeof obj; };
+	var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
 	/**
 	 * lodash (Custom Build) <https://lodash.com/>
@@ -1344,7 +1344,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/* WEBPACK VAR INJECTION */(function(global, module) {'use strict';
 
-	var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol ? "symbol" : typeof obj; };
+	var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
 	/**
 	 * lodash (Custom Build) <https://lodash.com/>
@@ -3090,7 +3090,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/* WEBPACK VAR INJECTION */(function(global) {'use strict';
 
-	var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol ? "symbol" : typeof obj; };
+	var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
 	/**
 	 * lodash (Custom Build) <https://lodash.com/>
@@ -3449,7 +3449,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "Apple TV 2G",
 			"ANumber": "A1378",
 			"Bootrom": "Bootrom 574.4",
-			"Variant": null,
 			"FCCID": "BCGA1378",
 			"InternalName": "K66AP",
 			"Identifier": "AppleTV2,1",
@@ -3467,7 +3466,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "Apple TV 3G",
 			"ANumber": "A1427",
 			"Bootrom": "ROM",
-			"Variant": "AppleTV3,1",
 			"FCCID": "BCGA1427",
 			"InternalName": "J33AP",
 			"Identifier": "AppleTV3,1",
@@ -3485,7 +3483,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "Apple TV 3G",
 			"ANumber": "A1469",
 			"Bootrom": "Bootrom 1458.2",
-			"Variant": "AppleTV3,2",
 			"FCCID": "BCGA1469",
 			"InternalName": "J33IAP",
 			"Identifier": "AppleTV3,2",
@@ -3503,7 +3500,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "Apple TV 4G",
 			"ANumber": "A1625",
 			"Bootrom": "Bootrom 1992.0.0.1.19",
-			"Variant": null,
 			"FCCID": "BCGA1625",
 			"InternalName": "J42dAP",
 			"Identifier": "AppleTV5,3",
@@ -3920,7 +3916,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad",
 			"ANumber": "A1219",
 			"Bootrom": "Bootrom 574.4",
-			"Variant": "Wi‑Fi",
 			"FCCID": "BCG‑E2381A",
 			"InternalName": "K48AP",
 			"Identifier": "iPad1,1",
@@ -3952,7 +3947,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad",
 			"ANumber": "A1219",
 			"Bootrom": "Bootrom 574.4",
-			"Variant": "GSM",
 			"FCCID": "BCG‑E2328A",
 			"InternalName": "K48AP",
 			"Identifier": "iPad1,1",
@@ -3984,7 +3978,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 2",
 			"ANumber": "A1395",
 			"Bootrom": "Bootrom 838.3",
-			"Variant": "iPad2,1",
 			"FCCID": "BCGA1395",
 			"InternalName": "K93AP",
 			"Identifier": "iPad2,1",
@@ -4037,7 +4030,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 2",
 			"ANumber": "A1396",
 			"Bootrom": "Bootrom 838.3",
-			"Variant": "iPad2,2",
 			"FCCID": "BCGA1396",
 			"InternalName": "K94AP",
 			"Identifier": "iPad2,2",
@@ -4090,7 +4082,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 2",
 			"ANumber": "A1397",
 			"Bootrom": "Bootrom 838.3",
-			"Variant": "iPad2,3",
 			"FCCID": "BCGA1397",
 			"InternalName": "K95AP",
 			"Identifier": "iPad2,3",
@@ -4143,7 +4134,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 2",
 			"ANumber": "A1395",
 			"Bootrom": "ROM",
-			"Variant": "iPad2,4",
 			"FCCID": "BCGA1395",
 			"InternalName": "K93AAP",
 			"Identifier": "iPad2,4",
@@ -4169,7 +4159,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 3",
 			"ANumber": "A1416",
 			"Bootrom": "Bootrom 1062.2",
-			"Variant": "iPad3,1",
 			"FCCID": "BCGA1416",
 			"InternalName": "J1AP",
 			"Identifier": "iPad3,1",
@@ -4224,7 +4213,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 3",
 			"ANumber": "A1403",
 			"Bootrom": "Bootrom 1062.2",
-			"Variant": "iPad3,2",
 			"FCCID": "BCGA1403",
 			"InternalName": "J2AP",
 			"Identifier": "iPad3,2",
@@ -4277,7 +4265,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 3",
 			"ANumber": "A1430",
 			"Bootrom": "Bootrom 1062.2",
-			"Variant": "iPad3,3",
 			"FCCID": "BCGA1430",
 			"InternalName": "J2AAP",
 			"Identifier": "iPad3,3",
@@ -4330,7 +4317,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 4",
 			"ANumber": "A1458",
 			"Bootrom": "Bootrom 1145.3.3",
-			"Variant": "iPad3,4",
 			"FCCID": "BCGA1458",
 			"InternalName": "P101AP",
 			"Identifier": "iPad3,4",
@@ -4397,7 +4383,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 4",
 			"ANumber": "A1459",
 			"Bootrom": "Bootrom 1145.3.3",
-			"Variant": "iPad3,5",
 			"FCCID": "BCGA1459",
 			"InternalName": "P102AP",
 			"Identifier": "iPad3,5",
@@ -4464,7 +4449,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad 4",
 			"ANumber": "A1460",
 			"Bootrom": "Bootrom 1145.3.3",
-			"Variant": "iPad3,6",
 			"FCCID": "BCGA1460",
 			"InternalName": "P103AP",
 			"Identifier": "iPad3,6",
@@ -4539,7 +4523,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad Air",
 			"ANumber": "A1474",
 			"Bootrom": "Bootrom 1704.10",
-			"Variant": "iPad4,1",
 			"FCCID": "BCGA1474",
 			"InternalName": "J71AP",
 			"Identifier": "iPad4,1",
@@ -4606,7 +4589,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad Air",
 			"ANumber": "A1475",
 			"Bootrom": "Bootrom 1704.10",
-			"Variant": "iPad4,2",
 			"FCCID": "BCGA1475",
 			"InternalName": "J72AP",
 			"Identifier": "iPad4,2",
@@ -4705,7 +4687,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad Air",
 			"ANumber": "A1476",
 			"Bootrom": "Bootrom 1704.10",
-			"Variant": "iPad4,3",
 			"FCCID": "BCGA1476",
 			"InternalName": "J73AP",
 			"Identifier": "iPad4,3",
@@ -4772,7 +4753,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad Air 2",
 			"ANumber": "A1566",
 			"Bootrom": "Bootrom 1991.0.0.2.16",
-			"Variant": "iPad5,3",
 			"FCCID": "BCGA1566",
 			"InternalName": "J81AP",
 			"Identifier": "iPad5,3",
@@ -4867,7 +4847,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad Air 2",
 			"ANumber": "A1567",
 			"Bootrom": "Bootrom 1991.0.0.2.16",
-			"Variant": "iPad5,4",
 			"FCCID": "BCGA1567",
 			"InternalName": "J82AP",
 			"Identifier": "iPad5,4",
@@ -4960,10 +4939,134 @@ return /******/ (function(modules) { // webpackBootstrap
 			]
 		},
 		{
+			"Generation": "iPad Pro (12.9 inch)",
+			"ANumber": "A1584",
+			"Bootrom": "Bootrom 2481.0.0.2.1",
+			"FCCID": "BCGA1584",
+			"InternalName": "J98aAP",
+			"Identifier": "iPad6,7",
+			"Models": [
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"ML0H2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"ML0R2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"ML0V2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"ML0G2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": [
+						"ML0Q2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": [
+						"ML0U2"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "32 GB",
+					"Model": [
+						"ML0F2"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "128 GB",
+					"Model": [
+						"ML0N2"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "256 GB",
+					"Model": [
+						"ML0T2"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "iPad Pro (12.9 inch)",
+			"ANumber": "A1652",
+			"Bootrom": "Bootrom 2481.0.0.2.1",
+			"FCCID": "BCGA1652",
+			"InternalName": "J99aAP",
+			"Identifier": "iPad6,8",
+			"Models": [
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"ML3Q2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"ML3Z2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": [
+						"ML3N2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": [
+						"ML3W2"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "128 GB",
+					"Model": [
+						"ML3K2"
+					]
+				},
+				{
+					"Color": "Space Gray",
+					"Storage": "256 GB",
+					"Model": [
+						"ML3T2"
+					]
+				}
+			]
+		},
+		{
 			"Generation": "iPad Pro (9.7 inch)",
 			"ANumber": "A1673",
 			"Bootrom": "Bootrom 2481.0.0.2.1",
-			"Variant": "iPad6,3",
 			"FCCID": "BCGA1673",
 			"InternalName": "J127AP",
 			"Identifier": "iPad6,3",
@@ -5061,7 +5164,6 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1675"
 			],
 			"Bootrom": "Bootrom 2481.0.0.2.1",
-			"Variant": "iPad6,4",
 			"FCCID": "BCGA1674",
 			"InternalName": "J128AP",
 			"Identifier": "iPad6,4",
@@ -5151,133 +5253,6 @@ return /******/ (function(modules) { // webpackBootstrap
 					]
 				}
 			]
-		},
-		{
-			"Generation": "iPad Pro (12.9 inch)",
-			"ANumber": "A1584",
-			"Bootrom": "Bootrom 2481.0.0.2.1",
-			"Variant": "iPad6,7",
-			"FCCID": "BCGA1584",
-			"InternalName": "J98aAP",
-			"Identifier": "iPad6,7",
-			"Models": [
-				{
-					"Color": "Gold",
-					"Storage": "32 GB",
-					"Model": [
-						"ML0H2"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "128 GB",
-					"Model": [
-						"ML0R2"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "256 GB",
-					"Model": [
-						"ML0V2"
-					]
-				},
-				{
-					"Color": "Silver",
-					"Storage": "32 GB",
-					"Model": [
-						"ML0G2"
-					]
-				},
-				{
-					"Color": "Silver",
-					"Storage": "128 GB",
-					"Model": [
-						"ML0Q2"
-					]
-				},
-				{
-					"Color": "Silver",
-					"Storage": "256 GB",
-					"Model": [
-						"ML0U2"
-					]
-				},
-				{
-					"Color": "Space Gray",
-					"Storage": "32 GB",
-					"Model": [
-						"ML0F2"
-					]
-				},
-				{
-					"Color": "Space Gray",
-					"Storage": "128 GB",
-					"Model": [
-						"ML0N2"
-					]
-				},
-				{
-					"Color": "Space Gray",
-					"Storage": "256 GB",
-					"Model": [
-						"ML0T2"
-					]
-				}
-			]
-		},
-		{
-			"Generation": "iPad Pro (12.9 inch)",
-			"ANumber": "A1652",
-			"Bootrom": "Bootrom 2481.0.0.2.1",
-			"Variant": "iPad6,8",
-			"FCCID": "BCGA1652",
-			"InternalName": "J99aAP",
-			"Identifier": "iPad6,8",
-			"Models": [
-				{
-					"Color": "Gold",
-					"Storage": "128 GB",
-					"Model": [
-						"ML3Q2"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "256 GB",
-					"Model": [
-						"ML3Z2"
-					]
-				},
-				{
-					"Color": "Silver",
-					"Storage": "128 GB",
-					"Model": [
-						"ML3N2"
-					]
-				},
-				{
-					"Color": "Silver",
-					"Storage": "256 GB",
-					"Model": [
-						"ML3W2"
-					]
-				},
-				{
-					"Color": "Space Gray",
-					"Storage": "128 GB",
-					"Model": [
-						"ML3K2"
-					]
-				},
-				{
-					"Color": "Space Gray",
-					"Storage": "256 GB",
-					"Model": [
-						"ML3T2"
-					]
-				}
-			]
 		}
 	];
 
@@ -5290,7 +5265,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini",
 			"ANumber": "A1432",
 			"Bootrom": "ROM",
-			"Variant": "iPad2,5",
 			"FCCID": "BCGA1432",
 			"InternalName": "P105AP",
 			"Identifier": "iPad2,5",
@@ -5343,7 +5317,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini",
 			"ANumber": "A1454",
 			"Bootrom": "ROM",
-			"Variant": "iPad2,6",
 			"FCCID": "BCGA1454",
 			"InternalName": "P106AP",
 			"Identifier": "iPad2,6",
@@ -5396,7 +5369,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini",
 			"ANumber": "A1455",
 			"Bootrom": "ROM",
-			"Variant": "iPad2,7",
 			"FCCID": "BCGA1455",
 			"InternalName": "P107AP",
 			"Identifier": "iPad2,7",
@@ -5455,7 +5427,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 2",
 			"ANumber": "A1489",
 			"Bootrom": "Bootrom 1704.10",
-			"Variant": "iPad4,4",
 			"FCCID": "BCGA1489",
 			"InternalName": "J85AP",
 			"Identifier": "iPad4,4",
@@ -5522,7 +5493,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 2",
 			"ANumber": "A1490",
 			"Bootrom": "Bootrom 1704.10",
-			"Variant": "iPad4,5",
 			"FCCID": "BCGA1490",
 			"InternalName": "J86AP",
 			"Identifier": "iPad4,5",
@@ -5589,7 +5559,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 2",
 			"ANumber": "A1491",
 			"Bootrom": "Bootrom 1704.10",
-			"Variant": "iPad4,6",
 			"FCCID": "BCGA1491",
 			"InternalName": "J87AP",
 			"Identifier": "iPad4,6",
@@ -5656,7 +5625,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 3",
 			"ANumber": "A1599",
 			"Bootrom": "Bootrom 1991.0.0.2.16",
-			"Variant": "iPad4,7",
 			"FCCID": "BCGA1599",
 			"InternalName": "J85mAP",
 			"Identifier": "iPad4,7",
@@ -5730,7 +5698,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 3",
 			"ANumber": "A1600",
 			"Bootrom": "Bootrom 1991.0.0.2.16",
-			"Variant": "iPad4,8",
 			"FCCID": "BCGA1600",
 			"InternalName": "J86mAP",
 			"Identifier": "iPad4,8",
@@ -5804,7 +5771,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 3",
 			"ANumber": "A1601",
 			"Bootrom": "Bootrom 1991.0.0.2.16",
-			"Variant": "iPad4,9",
 			"FCCID": "BCGA1601",
 			"InternalName": "J87mAP",
 			"Identifier": "iPad4,9",
@@ -5887,7 +5853,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 4",
 			"ANumber": "A1538",
 			"Bootrom": "Bootrom 1992.0.0.1.19",
-			"Variant": "iPad5,1",
 			"FCCID": "BCGA1538",
 			"InternalName": "J96AP",
 			"Identifier": "iPad5,1",
@@ -5982,7 +5947,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPad mini 4",
 			"ANumber": "A1550",
 			"Bootrom": "Bootrom 1992.0.0.1.19",
-			"Variant": "iPad5,2",
 			"FCCID": "BCGA1550",
 			"InternalName": "J97AP",
 			"Identifier": "iPad5,2",
@@ -6287,7 +6251,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 574.4"
 			],
-			"Variant": "iPhone3,1",
 			"FCCID": [
 				"BCG‑E2380A",
 				"BCG‑E2380B"
@@ -6355,7 +6318,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 574.4"
 			],
-			"Variant": "iPhone3,2",
 			"FCCID": [
 				"BCG‑E2380A",
 				"BCG‑E2380B"
@@ -6388,7 +6350,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 574.4"
 			],
-			"Variant": "iPhone3,3",
 			"FCCID": [
 				"BCG‑E2422A",
 				"BCG‑E2422B"
@@ -6453,7 +6414,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 838.3"
 			],
-			"Variant": null,
 			"FCCID": [
 				"BCG‑E2430A"
 			],
@@ -6567,7 +6527,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1145.3"
 			],
-			"Variant": "iPhone5,1",
 			"FCCID": [
 				"BCG‑E2599A"
 			],
@@ -6641,7 +6600,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1145.3"
 			],
-			"Variant": "iPhone5,2",
 			"FCCID": [
 				"BCG‑E2599A"
 			],
@@ -6719,7 +6677,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1145.3"
 			],
-			"Variant": "iPhone5,3",
 			"FCCID": [
 				"BCG‑E2644A"
 			],
@@ -6810,7 +6767,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1145.3"
 			],
-			"Variant": "iPhone5,4",
 			"FCCID": [
 				"BCG‑E2694A",
 				"BCG‑E2694B"
@@ -6944,7 +6900,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1704.10"
 			],
-			"Variant": "iPhone6,1",
 			"FCCID": [
 				"BCG‑E2642A"
 			],
@@ -7054,7 +7009,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1704.10"
 			],
-			"Variant": "iPhone6,2",
 			"FCCID": [
 				"BCG‑E2643A",
 				"BCG‑E2643B"
@@ -7138,7 +7092,6 @@ return /******/ (function(modules) { // webpackBootstrap
 				"Bootrom 2234.0.0.3.3 (S8000)",
 				"Bootrom 2234.0.0.2.22 (S8003)"
 			],
-			"Variant": "iPhone8,4",
 			"FCCID": [
 				"BCG‑E2945A"
 			],
@@ -7248,7 +7201,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1992.0.0.1.19"
 			],
-			"Variant": "iPhone7,2",
 			"FCCID": [
 				"BCG‑E2816A"
 			],
@@ -7354,7 +7306,6 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Bootrom": [
 				"Bootrom 1992.0.0.1.19"
 			],
-			"Variant": "iPhone7,1",
 			"FCCID": [
 				"BCG‑E2817A"
 			],
@@ -7441,7 +7392,6 @@ return /******/ (function(modules) { // webpackBootstrap
 				"Bootrom 2234.0.0.3.3 (S8000)",
 				"Bootrom 2234.0.0.2.22 (S8003)"
 			],
-			"Variant": "iPhone8,1",
 			"FCCID": [
 				"BCG-E2946A"
 			],
@@ -7666,7 +7616,6 @@ return /******/ (function(modules) { // webpackBootstrap
 				"Bootrom 2234.0.0.3.3 (S8000)",
 				"Bootrom 2234.0.0.2.22 (S8003)"
 			],
-			"Variant": "iPhone8,2",
 			"FCCID": [
 				"BCG-E2944A"
 			],
@@ -7829,127 +7778,265 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPhone 7",
 			"ANumber": [
 				"A1660",
-				"A1778",
 				"A1779",
 				"A1780"
 			],
 			"Bootrom": [
 				"Bootrom 2696.0.0.1.33"
 			],
-			"Variant": [
-				"iPhone9,1",
-				"iPhone9,3"
-			],
 			"FCCID": [
 				"BCG‑E3085A",
-				"BCG‑E3086A",
+				"BCG‑E3086A"
+			],
+			"InternalName": [
+				"D10AP"
+			],
+			"Identifier": [
+				"iPhone9,1"
+			],
+			"Models": [
+				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": [
+						" MNAC2",
+						"MNAY2"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": [
+						" MNAJ2",
+						"MNC32"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": [
+						" MNAQ2",
+						"MNC82"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNAE2",
+						"MNC12"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"MNAL2",
+						"MNC52"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"MNAV2",
+						"MNCA2"
+					]
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "128 GB",
+					"Model": [
+						"MNAP2",
+						"MNC72"
+					]
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "256 GB",
+					"Model": [
+						"MNAX2",
+						"MNCD2"
+					]
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNAF2",
+						"MNC22"
+					]
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"MNAM2",
+						"MNC62"
+					]
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"MNAW2",
+						"MNCC2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MNAD2",
+						"MNC02"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": [
+						"MNAK2",
+						"MNC42"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": [
+						"MNAU2",
+						"MNC92"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "iPhone 7",
+			"ANumber": [
+				"A1778"
+			],
+			"Bootrom": [
+				"Bootrom 2696.0.0.1.33"
+			],
+			"FCCID": [
 				"BCG‑E3091A"
 			],
 			"InternalName": [
-				"D10AP",
 				"D101AP"
 			],
 			"Identifier": [
-				"iPhone9,1",
 				"iPhone9,3"
 			],
 			"Models": [
 				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": [
+						"MN9D2",
+						"MN9U2"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": [
+						"MN9H2",
+						"MN9Y2"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": [
+						"MN9N2",
+						"MNA62"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MN9F2",
+						"MN9W2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"MN9K2",
+						"MNA32"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"MN9Q2",
+						"MNA82"
+					]
+				},
+				{
 					"Color": "Jet Black",
 					"Storage": "128 GB",
 					"Model": [
-						"MN962"
+						"MN9M2",
+						"MNA52"
 					]
 				},
 				{
 					"Color": "Jet Black",
 					"Storage": "256 GB",
 					"Model": [
-						"MN9C2"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "32 GB",
-					"Model": [
-						"MN8X2"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "128 GB",
-					"Model": [
-						"MN922"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "256 GB",
-					"Model": [
-						"MN972"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "32 GB",
-					"Model": [
-						"MN902"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "128 GB",
-					"Model": [
-						"MN942"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "256 GB",
-					"Model": [
-						"MN992"
+						"MN9T2",
+						"MNAA2"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "32 GB",
 					"Model": [
-						"MN912"
+						"MN9G2",
+						"MN9X2"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "128 GB",
 					"Model": [
-						"MN952"
+						"MN9L2",
+						"MNA42"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "256 GB",
 					"Model": [
-						"MN9A2"
+						"MN9R2",
+						"MNA92"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "32 GB",
 					"Model": [
-						"MN8Y2"
+						"MN9E2",
+						"MN9V2"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "128 GB",
 					"Model": [
-						"MN932"
+						"MN9J2",
+						"MNA02"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "256 GB",
 					"Model": [
-						"MN982"
+						"MN9P2",
+						"MNA72"
 					]
 				}
 			]
@@ -7958,127 +8045,265 @@ return /******/ (function(modules) { // webpackBootstrap
 			"Generation": "iPhone 7 Plus",
 			"ANumber": [
 				"A1661",
-				"A1784",
 				"A1785",
 				"A1786"
 			],
 			"Bootrom": [
 				"Bootrom 2696.0.0.1.33"
 			],
-			"Variant": [
-				"iPhone9,2",
-				"iPhone9,4"
-			],
 			"FCCID": [
 				"BCG‑E3087A",
-				"BCG‑E3088A",
+				"BCG‑E3088A"
+			],
+			"InternalName": [
+				"D11AP"
+			],
+			"Identifier": [
+				"iPhone9,2"
+			],
+			"Models": [
+				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": [
+						"MNR12",
+						"MNR52"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": [
+						"MN5T2",
+						"MN642"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": [
+						"MN5Y2",
+						"MN692"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNR32",
+						"MNR72"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"MN5V2",
+						"MN662"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"MN612",
+						"MN6C2"
+					]
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "128 GB",
+					"Model": [
+						"MN5X2",
+						"MN682"
+					]
+				},
+				{
+					"Color": "Jet Black",
+					"Storage": "256 GB",
+					"Model": [
+						"MN632",
+						"MN6E2"
+					]
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNR42",
+						"MNR82"
+					]
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"MN5W2",
+						"MN672"
+					]
+				},
+				{
+					"Color": "Rose Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"MN622",
+						"MN6D2"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "32 GB",
+					"Model": [
+						"MNR22",
+						"MNR62"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "128 GB",
+					"Model": [
+						"MN5U2",
+						"MN652"
+					]
+				},
+				{
+					"Color": "Silver",
+					"Storage": "256 GB",
+					"Model": [
+						"MN602",
+						"MN6A2"
+					]
+				}
+			]
+		},
+		{
+			"Generation": "iPhone 7 Plus",
+			"ANumber": [
+				"A1784"
+			],
+			"Bootrom": [
+				"Bootrom 2696.0.0.1.33"
+			],
+			"FCCID": [
 				"BCG‑E3092A"
 			],
 			"InternalName": [
-				"D11AP",
 				"D111AP"
 			],
 			"Identifier": [
-				"iPhone9,2",
 				"iPhone9,4"
 			],
 			"Models": [
 				{
+					"Color": "Black",
+					"Storage": "32 GB",
+					"Model": [
+						"MNQR2",
+						"MNQW2"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "128 GB",
+					"Model": [
+						"MN522",
+						"MN5G2"
+					]
+				},
+				{
+					"Color": "Black",
+					"Storage": "256 GB",
+					"Model": [
+						"MN592",
+						"MN5M2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "32 GB",
+					"Model": [
+						"MNQU2",
+						"MNQY2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "128 GB",
+					"Model": [
+						"MN552",
+						"MN5J2"
+					]
+				},
+				{
+					"Color": "Gold",
+					"Storage": "256 GB",
+					"Model": [
+						"MN5D2",
+						"MN5P2"
+					]
+				},
+				{
 					"Color": "Jet Black",
 					"Storage": "128 GB",
 					"Model": [
-						"MN4V2"
+						"MN572",
+						"MN5L2"
 					]
 				},
 				{
 					"Color": "Jet Black",
 					"Storage": "256 GB",
 					"Model": [
-						"MN512"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "32 GB",
-					"Model": [
-						"MNQM2"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "128 GB",
-					"Model": [
-						"MN4M2"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "256 GB",
-					"Model": [
-						"MN4W2"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "32 GB",
-					"Model": [
-						"MNQP2"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "128 GB",
-					"Model": [
-						"MN4Q2"
-					]
-				},
-				{
-					"Color": "Gold",
-					"Storage": "256 GB",
-					"Model": [
-						"MN4Y2"
+						"MN5F2",
+						"MN5R2"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "32 GB",
 					"Model": [
-						"MNQP2"
+						"MNQV2",
+						"MNR02"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "128 GB",
 					"Model": [
-						"MN4Q2"
+						"MN562",
+						"MN5K2"
 					]
 				},
 				{
 					"Color": "Rose Gold",
 					"Storage": "256 GB",
 					"Model": [
-						"MN4Y2"
+						"MN5E2",
+						"MN5Q2"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "32 GB",
 					"Model": [
-						"MNQN2"
+						"MNQT2",
+						"MNQX2"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "128 GB",
 					"Model": [
-						"MN4P2"
+						"MN532",
+						"MN5H2"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "256 GB",
 					"Model": [
-						"MN4X2"
+						"MN5C2",
+						"MN5N2"
 					]
 				}
 			]

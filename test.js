@@ -87,8 +87,8 @@ test('internalNames()', t => {
 test('identifiers()', t => {
   t.is(typeof devices.identifiers, 'function');
   t.truthy(Array.isArray(devices.identifiers()));
-  t.is(devices.identifiers().length, 67);
-  t.is(devices.identifiers('iphone').length, 20);
+  t.is(devices.identifiers().length, 69);
+  t.is(devices.identifiers('iphone').length, 22);
   t.throws(function() { devices.identifiers('invalidType') });
 });
 
