@@ -394,6 +394,11 @@
       },
       {
         "Color": "Yellow",
+        "Storage": "8 GB",
+        "Model": [ "MGF12" ]
+      },
+      {
+        "Color": "Yellow",
         "Storage": "16 GB",
         "Model": [ "ME506" ]
       },
@@ -515,7 +520,7 @@
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "ME297", "ME306", "ME324", "ME342" ]
+        "Model": [ "ME297", "ME306", "ME324", "ME333", "ME342" ]
       },
       {
         "Color": "Silver",
@@ -555,7 +560,7 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "ME434" ]
+        "Model": [ "ME434", "MF398" ]
       },
       {
         "Color": "Gold",
@@ -660,7 +665,7 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MG3D2", "MG492" ]
+        "Model": [ "MG3D2", "MG492", "MG4Q2" ]
       },
       {
         "Color": "Gold",

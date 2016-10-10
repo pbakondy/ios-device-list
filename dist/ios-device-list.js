@@ -6742,6 +6742,13 @@ return /******/ (function(modules) { // webpackBootstrap
 				},
 				{
 					"Color": "Yellow",
+					"Storage": "8 GB",
+					"Model": [
+						"MGF12"
+					]
+				},
+				{
+					"Color": "Yellow",
 					"Storage": "16 GB",
 					"Model": [
 						"ME506"
@@ -6943,6 +6950,7 @@ return /******/ (function(modules) { // webpackBootstrap
 						"ME297",
 						"ME306",
 						"ME324",
+						"ME333",
 						"ME342"
 					]
 				},
@@ -7020,7 +7028,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Gold",
 					"Storage": "16 GB",
 					"Model": [
-						"ME434"
+						"ME434",
+						"MF398"
 					]
 				},
 				{
@@ -7212,7 +7221,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MG3D2",
-						"MG492"
+						"MG492",
+						"MG4Q2"
 					]
 				},
 				{
