@@ -7029,6 +7029,7 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"ME434",
+						"MF354",
 						"MF398"
 					]
 				},
