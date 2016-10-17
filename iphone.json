@@ -620,17 +620,17 @@
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MLXK2", "MLXY2", "MLYC2", "MLY32", "MLY72" ]
+        "Model": [ "MLXK2", "MLXY2", "MLY32", "MLY72", "MLYC2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "16 GB",
-        "Model": [ "MLXJ2", "MLXX2", "MLYA2", "MLY22", "MLY62" ]
+        "Model": [ "MLXJ2", "MLXX2", "MLY22", "MLY62", "MLYA2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "64 GB",
-        "Model": [ "MLXL2", "MLYD2", "MLY42", "MLY02", "MLY82" ]
+        "Model": [ "MLXL2", "MLY02", "MLY42", "MLY82", "MLYD2" ]
       },
       {
         "Color": "Silver",
@@ -640,7 +640,7 @@
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MLMC2", "MLME2", "MLMG2", "MLMJ2", "MLM52" ]
+        "Model": [ "MLM52", "MLMC2", "MLME2", "MLMG2", "MLMJ2" ]
       },
       {
         "Color": "Space Gray",
@@ -650,7 +650,7 @@
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MLMA2", "MLMD2", "MLMF2", "MLMH2", "MLM42", "MLM62" ]
+        "Model": [ "MLM42", "MLM62", "MLMA2", "MLMD2", "MLMF2", "MLMH2" ]
       }
     ]
   },
@@ -865,7 +865,7 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MKTN2", "MKUN2", "MKU32", "MKVQ2", "MKV62", "MKW72", "ML6D2" ]
+        "Model": [ "MKTN2", "MKU32", "MKUN2", "MKV62", "MKVQ2", "MKW72", "ML6D2" ]
       },
       {
         "Color": "Gold",
@@ -875,12 +875,12 @@
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MKTT2", "MKUV2", "MKU82", "MKVD2", "MKVX2", "MKWD2", "ML6H2" ]
+        "Model": [ "MKTT2", "MKU82", "MKUV2", "MKVD2", "MKVX2", "MKWD2", "ML6H2" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MKTX2", "MKUF2", "MKVH2", "MKV12", "MKWH2", "MKW22", "ML6M2" ]
+        "Model": [ "MKTX2", "MKUF2", "MKV12", "MKVH2", "MKW22", "MKWH2", "ML6M2" ]
       },
       {
         "Color": "Rose Gold",
@@ -900,12 +900,12 @@
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ "MKUG2", "ML6N2", "MKV22" ]
+        "Model": [ "MKUG2", "MKV22", "ML6N2" ]
       },
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "MKTM2", "MKUJ2", "MKU22", "MKVP2", "MKV52", "MKW62", "ML6C2" ]
+        "Model": [ "MKTM2", "MKU22", "MKUJ2", "MKV52", "MKVP2", "MKW62", "ML6C2" ]
       },
       {
         "Color": "Silver",
@@ -915,12 +915,12 @@
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MKTR2", "MKUU2", "MKU72", "MKVW2", "MKV92", "MKWC2", "ML6G2" ]
+        "Model": [ "MKTR2", "MKU72", "MKUU2", "MKV92", "MKVW2", "MKWC2", "ML6G2" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "MKTW2", "MKUE2", "MKUY2", "MKVG2", "MKWG2", "MKW12", "ML6L2" ]
+        "Model": [ "MKTW2", "MKUE2", "MKUY2", "MKVG2", "MKW12", "MKWG2", "ML6L2" ]
       },
       {
         "Color": "Space Gray",
@@ -955,72 +955,72 @@
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ " MNAC2", "MNAY2" ]
+        "Model": [ "MN8G2", "MNAC2", "MNAY2" ]
       },
       {
         "Color": "Black",
         "Storage": "128 GB",
-        "Model": [ " MNAJ2", "MNC32" ]
+        "Model": [ "MN8L2", "MNAJ2", "MNC32" ]
       },
       {
         "Color": "Black",
         "Storage": "256 GB",
-        "Model": [ " MNAQ2", "MNC82" ]
+        "Model": [ "MN8R2", "MNAQ2", "MNC82" ]
       },
       {
         "Color": "Gold",
         "Storage": "32 GB",
-        "Model": [ "MNAE2", "MNC12" ]
+        "Model": [ "MN8J2", "MNAE2", "MNC12" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MNAL2", "MNC52" ]
+        "Model": [ "MN8N2", "MNAL2", "MNC52" ]
       },
       {
         "Color": "Gold",
         "Storage": "256 GB",
-        "Model": [ "MNAV2", "MNCA2" ]
+        "Model": [ "MN8U2", "MNAV2", "MNCA2" ]
       },
       {
         "Color": "Jet Black",
         "Storage": "128 GB",
-        "Model": [ "MNAP2", "MNC72" ]
+        "Model": [ "MN8Q2", "MNAP2", "MNC72" ]
       },
       {
         "Color": "Jet Black",
         "Storage": "256 GB",
-        "Model": [ "MNAX2", "MNCD2" ]
+        "Model": [ "MN8W2", "MNAX2", "MNCD2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "32 GB",
-        "Model": [ "MNAF2", "MNC22" ]
+        "Model": [ "MN8K2", "MNAF2", "MNC22" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ "MNAM2", "MNC62" ]
+        "Model": [ "MN8P2", "MNAM2", "MNC62", "MNH12" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "256 GB",
-        "Model": [ "MNAW2", "MNCC2" ]
+        "Model": [ "MN8V2", "MNAW2", "MNCC2" ]
       },
       {
         "Color": "Silver",
         "Storage": "32 GB",
-        "Model": [ "MNAD2", "MNC02" ]
+        "Model": [ "MN8H2", "MNAD2", "MNC02" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "MNAK2", "MNC42" ]
+        "Model": [ "MN8M2", "MNAK2", "MNC42" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ "MNAU2", "MNC92" ]
+        "Model": [ "MN8T2", "MNAU2", "MNC92" ]
       }
     ]
   },
@@ -1115,72 +1115,72 @@
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ "MNR12", "MNR52" ]
+        "Model": [ "MNQH2", "MNR12", "MNR52" ]
       },
       {
         "Color": "Black",
         "Storage": "128 GB",
-        "Model": [ "MN5T2", "MN642" ]
+        "Model": [ "MN482", "MN5T2", "MN642" ]
       },
       {
         "Color": "Black",
         "Storage": "256 GB",
-        "Model": [ "MN5Y2", "MN692" ]
+        "Model": [ "MN4E2", "MN5Y2", "MN692" ]
       },
       {
         "Color": "Gold",
         "Storage": "32 GB",
-        "Model": [ "MNR32", "MNR72" ]
+        "Model": [ "MNQK2", "MNR32", "MNR72" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MN5V2", "MN662" ]
+        "Model": [ "MN4A2", "MN5V2", "MN662" ]
       },
       {
         "Color": "Gold",
         "Storage": "256 GB",
-        "Model": [ "MN612", "MN6C2" ]
+        "Model": [ "MN4J2", "MN612", "MN6C2" ]
       },
       {
         "Color": "Jet Black",
         "Storage": "128 GB",
-        "Model": [ "MN5X2", "MN682" ]
+        "Model": [ "MN4D2", "MN5X2", "MN682" ]
       },
       {
         "Color": "Jet Black",
         "Storage": "256 GB",
-        "Model": [ "MN632", "MN6E2" ]
+        "Model": [ "MN4L2", "MN632", "MN6E2" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "32 GB",
-        "Model": [ "MNR42", "MNR82" ]
+        "Model": [ "MNQL2", "MNR42", "MNR82" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "128 GB",
-        "Model": [ "MN5W2", "MN672" ]
+        "Model": [ "MN4C2", "MN5W2", "MN672" ]
       },
       {
         "Color": "Rose Gold",
         "Storage": "256 GB",
-        "Model": [ "MN622", "MN6D2" ]
+        "Model": [ "MN4K2", "MN622", "MN6D2" ]
       },
       {
         "Color": "Silver",
         "Storage": "32 GB",
-        "Model": [ "MNR22", "MNR62" ]
+        "Model": [ "MNQJ2", "MNR22", "MNR62" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "MN5U2", "MN652" ]
+        "Model": [ "MN492", "MN5U2", "MN652" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ "MN602", "MN6A2" ]
+        "Model": [ "MN4F2", "MN602", "MN6A2" ]
       }
     ]
   },
