@@ -6137,58 +6137,7 @@ return /******/ (function(modules) { // webpackBootstrap
 				"A1325"
 			],
 			"Bootrom": [
-				"Bootrom 359.3"
-			],
-			"FCCID": [
-				"BCGA1303A",
-				"BCGA1303B"
-			],
-			"InternalName": "N88AP",
-			"Identifier": "iPhone2,1",
-			"Models": [
-				{
-					"Color": "Black",
-					"Storage": "16 GB",
-					"Model": [
-						"MB715",
-						"MB735",
-						"MC135"
-					]
-				},
-				{
-					"Color": "Black",
-					"Storage": "16 GB",
-					"Model": [
-						"MB717",
-						"MB737"
-					]
-				},
-				{
-					"Color": "White",
-					"Storage": "32 GB",
-					"Model": [
-						"MB716",
-						"MB736",
-						"MC136"
-					]
-				},
-				{
-					"Color": "White",
-					"Storage": "32 GB",
-					"Model": [
-						"MB718",
-						"MB738"
-					]
-				}
-			]
-		},
-		{
-			"Generation": "iPhone 3GS",
-			"ANumber": [
-				"A1303",
-				"A1325"
-			],
-			"Bootrom": [
+				"Bootrom 359.3",
 				"Bootrom 359.3.2"
 			],
 			"FCCID": [
@@ -6211,24 +6160,27 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MB715",
+						"MB735",
 						"MC131",
 						"MC135"
 					]
 				},
 				{
 					"Color": "Black",
-					"Storage": "16 GB",
+					"Storage": "32 GB",
 					"Model": [
 						"MB717",
+						"MB737",
 						"MC133",
 						"MC137"
 					]
 				},
 				{
 					"Color": "White",
-					"Storage": "32 GB",
+					"Storage": "16 GB",
 					"Model": [
 						"MB716",
+						"MB736",
 						"MC132",
 						"MC136"
 					]
@@ -6237,6 +6189,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "White",
 					"Storage": "32 GB",
 					"Model": [
+						"MB718",
+						"MB738",
 						"MC134",
 						"MC138"
 					]
@@ -7812,7 +7766,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8G2",
 						"MNAC2",
-						"MNAY2"
+						"MNAY2",
+						"MNCE2"
 					]
 				},
 				{
@@ -7821,7 +7776,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8L2",
 						"MNAJ2",
-						"MNC32"
+						"MNC32",
+						"MNCK2"
 					]
 				},
 				{
@@ -7830,7 +7786,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8R2",
 						"MNAQ2",
-						"MNC82"
+						"MNC82",
+						"MNCQ2"
 					]
 				},
 				{
@@ -7839,7 +7796,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8J2",
 						"MNAE2",
-						"MNC12"
+						"MNC12",
+						"MNCG2"
 					]
 				},
 				{
@@ -7848,7 +7806,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8N2",
 						"MNAL2",
-						"MNC52"
+						"MNC52",
+						"MNCM2"
 					]
 				},
 				{
@@ -7857,7 +7816,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8U2",
 						"MNAV2",
-						"MNCA2"
+						"MNCA2",
+						"MNCT2"
 					]
 				},
 				{
@@ -7866,7 +7826,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8Q2",
 						"MNAP2",
-						"MNC72"
+						"MNC72",
+						"MNCP2"
 					]
 				},
 				{
@@ -7875,7 +7836,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8W2",
 						"MNAX2",
-						"MNCD2"
+						"MNCD2",
+						"MNCV2"
 					]
 				},
 				{
@@ -7884,7 +7846,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8K2",
 						"MNAF2",
-						"MNC22"
+						"MNC22",
+						"MNCJ2"
 					]
 				},
 				{
@@ -7894,6 +7857,7 @@ return /******/ (function(modules) { // webpackBootstrap
 						"MN8P2",
 						"MNAM2",
 						"MNC62",
+						"MNCN2",
 						"MNH12"
 					]
 				},
@@ -7903,7 +7867,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8V2",
 						"MNAW2",
-						"MNCC2"
+						"MNCC2",
+						"MNCU2"
 					]
 				},
 				{
@@ -7912,7 +7877,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8H2",
 						"MNAD2",
-						"MNC02"
+						"MNC02",
+						"MNCF2"
 					]
 				},
 				{
@@ -7921,7 +7887,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8M2",
 						"MNAK2",
-						"MNC42"
+						"MNC42",
+						"MNCL2"
 					]
 				},
 				{
@@ -7930,7 +7897,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN8T2",
 						"MNAU2",
-						"MNC92"
+						"MNC92",
+						"MNCR2"
 					]
 				}
 			]
@@ -8094,7 +8062,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MNQH2",
 						"MNR12",
-						"MNR52"
+						"MNR52",
+						"MNR92"
 					]
 				},
 				{
@@ -8103,7 +8072,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN482",
 						"MN5T2",
-						"MN642"
+						"MN642",
+						"MN6F2"
 					]
 				},
 				{
@@ -8112,7 +8082,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4E2",
 						"MN5Y2",
-						"MN692"
+						"MN692",
+						"MN6L2"
 					]
 				},
 				{
@@ -8121,7 +8092,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MNQK2",
 						"MNR32",
-						"MNR72"
+						"MNR72",
+						"MNRC2"
 					]
 				},
 				{
@@ -8130,7 +8102,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4A2",
 						"MN5V2",
-						"MN662"
+						"MN662",
+						"MN6H2"
 					]
 				},
 				{
@@ -8139,7 +8112,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4J2",
 						"MN612",
-						"MN6C2"
+						"MN6C2",
+						"MN6N2"
 					]
 				},
 				{
@@ -8148,7 +8122,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4D2",
 						"MN5X2",
-						"MN682"
+						"MN682",
+						"MN6K2"
 					]
 				},
 				{
@@ -8157,7 +8132,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4L2",
 						"MN632",
-						"MN6E2"
+						"MN6E2",
+						"MN6Q2"
 					]
 				},
 				{
@@ -8166,7 +8142,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MNQL2",
 						"MNR42",
-						"MNR82"
+						"MNR82",
+						"MNRD2"
 					]
 				},
 				{
@@ -8175,7 +8152,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4C2",
 						"MN5W2",
-						"MN672"
+						"MN672",
+						"MN6J2"
 					]
 				},
 				{
@@ -8184,7 +8162,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4K2",
 						"MN622",
-						"MN6D2"
+						"MN6D2",
+						"MN6P2"
 					]
 				},
 				{
@@ -8193,7 +8172,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MNQJ2",
 						"MNR22",
-						"MNR62"
+						"MNR62",
+						"MNRA2"
 					]
 				},
 				{
@@ -8202,7 +8182,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN492",
 						"MN5U2",
-						"MN652"
+						"MN652",
+						"MN6G2"
 					]
 				},
 				{
@@ -8211,7 +8192,8 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Model": [
 						"MN4F2",
 						"MN602",
-						"MN6A2"
+						"MN6A2",
+						"MN6M2"
 					]
 				}
 			]

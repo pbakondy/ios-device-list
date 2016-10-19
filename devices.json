@@ -303,18 +303,6 @@
     ]
   },
   {
-    "name": "iPhone 3GS",
-    "model": "iPhone2,1",
-    "ANumber": [
-      "A1303",
-      "A1325"
-    ],
-    "FCCID": [
-      "BCGA1303A",
-      "BCGA1303B"
-    ]
-  },
-  {
     "name": "iPhone 4",
     "model": "iPhone3,1",
     "ANumber": [
