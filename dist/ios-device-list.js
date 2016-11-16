@@ -7281,21 +7281,27 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Gold",
 					"Storage": "16 GB",
 					"Model": [
-						"MGAA2"
+						"MGAA2",
+						"MGAN2",
+						"MGC12"
 					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "64 GB",
 					"Model": [
-						"MGAK2"
+						"MGAK2",
+						"MGAW2",
+						"MGC72"
 					]
 				},
 				{
 					"Color": "Gold",
 					"Storage": "128 GB",
 					"Model": [
-						"MGAF2"
+						"MGAF2",
+						"MGAR2",
+						"MGC42"
 					]
 				},
 				{
@@ -7303,28 +7309,36 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Storage": "16 GB",
 					"Model": [
 						"MGA92",
-						"MGC92"
+						"MGC92",
+						"MGAM2",
+						"MGC02"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "64 GB",
 					"Model": [
-						"MGAJ2"
+						"MGAJ2",
+						"MGAV2",
+						"MGC62"
 					]
 				},
 				{
 					"Color": "Silver",
 					"Storage": "128 GB",
 					"Model": [
-						"MGAE2"
+						"MGAE2",
+						"MGAQ2",
+						"MGC32"
 					]
 				},
 				{
 					"Color": "Space Gray",
 					"Storage": "16 GB",
 					"Model": [
-						"MGA82"
+						"MGA82",
+						"MGAL2",
+						"MGAX2"
 					]
 				},
 				{
@@ -7340,7 +7354,9 @@ return /******/ (function(modules) { // webpackBootstrap
 					"Color": "Space Gray",
 					"Storage": "128 GB",
 					"Model": [
-						"MGAC2"
+						"MGAC2",
+						"MGAP2",
+						"MGC22"
 					]
 				}
 			]
