@@ -7772,9 +7772,7 @@ return /******/ (function(modules) { // webpackBootstrap
 			"InternalName": [
 				"D10AP"
 			],
-			"Identifier": [
-				"iPhone9,1"
-			],
+			"Identifier": "iPhone9,1",
 			"Models": [
 				{
 					"Color": "Black",
@@ -7933,9 +7931,7 @@ return /******/ (function(modules) { // webpackBootstrap
 			"InternalName": [
 				"D101AP"
 			],
-			"Identifier": [
-				"iPhone9,3"
-			],
+			"Identifier": "iPhone9,3",
 			"Models": [
 				{
 					"Color": "Black",
@@ -8068,9 +8064,7 @@ return /******/ (function(modules) { // webpackBootstrap
 			"InternalName": [
 				"D11AP"
 			],
-			"Identifier": [
-				"iPhone9,2"
-			],
+			"Identifier": "iPhone9,2",
 			"Models": [
 				{
 					"Color": "Black",
@@ -8228,9 +8222,7 @@ return /******/ (function(modules) { // webpackBootstrap
 			"InternalName": [
 				"D111AP"
 			],
-			"Identifier": [
-				"iPhone9,4"
-			],
+			"Identifier": "iPhone9,4",
 			"Models": [
 				{
 					"Color": "Black",

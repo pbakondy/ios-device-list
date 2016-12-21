@@ -920,7 +920,7 @@
     "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
     "FCCID": [ "BCG‑E3085A", "BCG‑E3086A" ],
     "InternalName": [ "D10AP" ],
-    "Identifier": [ "iPhone9,1" ],
+    "Identifier": "iPhone9,1",
     "Models": [
       {
         "Color": "Black",
@@ -1000,7 +1000,7 @@
     "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
     "FCCID": [ "BCG‑E3091A" ],
     "InternalName": [ "D101AP" ],
-    "Identifier": [ "iPhone9,3" ],
+    "Identifier": "iPhone9,3",
     "Models": [
       {
         "Color": "Black",
@@ -1080,7 +1080,7 @@
     "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
     "FCCID": [ "BCG‑E3087A", "BCG‑E3088A" ],
     "InternalName": [ "D11AP" ],
-    "Identifier": [ "iPhone9,2" ],
+    "Identifier": "iPhone9,2",
     "Models": [
       {
         "Color": "Black",
@@ -1160,7 +1160,7 @@
     "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
     "FCCID": [ "BCG‑E3092A" ],
     "InternalName": [ "D111AP" ],
-    "Identifier": [ "iPhone9,4" ],
+    "Identifier": "iPhone9,4",
     "Models": [
       {
         "Color": "Black",
