@@ -75,7 +75,7 @@
       {
         "Color": "White",
         "Storage": "16 GB",
-        "Model": [ "MC979" ]
+        "Model": [ "MC979", "MD002" ]
       },
       {
         "Color": "White",
@@ -380,7 +380,7 @@
       {
         "Color": "Black",
         "Storage": "64 GB",
-        "Model": [ "MD518" ]
+        "Model": [ "MD518", "MD944" ]
       },
       {
         "Color": "Black",
@@ -690,7 +690,7 @@
       {
         "Color": "Gold",
         "Storage": "16 GB",
-        "Model": [ "MH2W2" ]
+        "Model": [ "MH1C2", "MH2W2" ]
       },
       {
         "Color": "Gold",
@@ -700,17 +700,17 @@
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MH2P2" ]
+        "Model": [ "MH172", "MH2P2" ]
       },
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MH332" ]
+        "Model": [ "MH1G2", "MH2D2", "MH332" ]
       },
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "MH2V2" ]
+        "Model": [ "MGHC2", "MH2V2" ]
       },
       {
         "Color": "Silver",
@@ -720,17 +720,17 @@
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MH2N2" ]
+        "Model": [ "MGHY2", "MGK02", "MH2N2" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "MH322" ]
+        "Model": [ "MGWM2", "MH322" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "MGGX2", "MH2U2" ]
+        "Model": [ "MGGX2", "MGH62", "MH2U2" ]
       },
       {
         "Color": "Space Gray",
@@ -740,12 +740,12 @@
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MH2M2" ]
+        "Model": [ "MGHX2", "MGJY2", "MH2M2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "128 GB",
-        "Model": [ "MH312" ]
+        "Model": [ "MGWL2", "MH312" ]
       }
     ]
   },
@@ -815,32 +815,32 @@
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "ML3Q2" ]
+        "Model": [ "ML2K2", "ML3P2", "ML3Q2" ]
       },
       {
         "Color": "Gold",
         "Storage": "256 GB",
-        "Model": [ "ML3Z2" ]
+        "Model": [ "ML2N2", "ML3Z2", "ML412" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "ML3N2" ]
+        "Model": [ "ML2J2", "ML3O2", "ML3N2" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ "ML3W2" ]
+        "Model": [ "ML2M2", "ML3W2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "128 GB",
-        "Model": [ "ML3K2" ]
+        "Model": [ "ML2I2", "ML3K2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "256 GB",
-        "Model": [ "ML3T2" ]
+        "Model": [ "ML2L2", "ML3T2" ]
       }
     ]
   },
