@@ -31,14 +31,14 @@
     "list"
   ],
   "devDependencies": {
-    "ava": "^0.16.0",
-    "babel-loader": "^6.2.5",
-    "babel-preset-es2015": "^6.16.0",
-    "eslint": "^3.8.1",
-    "jsdom": "^9.8.0",
+    "ava": "^0.18.2",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "eslint": "^3.17.0",
+    "jsdom": "^9.11.0",
     "json-loader": "^0.5.4",
-    "uglify-js": "^2.7.3",
-    "webpack": "^1.13.2"
+    "uglify-js": "^2.8.7",
+    "webpack": "^2.2.1"
   },
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
