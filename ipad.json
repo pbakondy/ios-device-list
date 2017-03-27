@@ -190,7 +190,7 @@
     ]
   },
   {
-    "Generation": "iPad 3",
+    "Generation": "iPad (3rd generation)",
     "ANumber": "A1416",
     "Bootrom": "Bootrom 1062.2",
     "FCCID": "BCGA1416",
@@ -230,7 +230,7 @@
     ]
   },
   {
-    "Generation": "iPad 3",
+    "Generation": "iPad (3rd generation)",
     "ANumber": "A1403",
     "Bootrom": "Bootrom 1062.2",
     "FCCID": "BCGA1403",
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "Generation": "iPad 3",
+    "Generation": "iPad (3rd generation)",
     "ANumber": "A1430",
     "Bootrom": "Bootrom 1062.2",
     "FCCID": "BCGA1430",
@@ -310,7 +310,7 @@
     ]
   },
   {
-    "Generation": "iPad 4",
+    "Generation": "iPad (4th generation)",
     "ANumber": "A1458",
     "Bootrom": "Bootrom 1145.3.3",
     "FCCID": "BCGA1458",
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "Generation": "iPad 4",
+    "Generation": "iPad (4th generation)",
     "ANumber": "A1459",
     "Bootrom": "Bootrom 1145.3.3",
     "FCCID": "BCGA1459",
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "Generation": "iPad 4",
+    "Generation": "iPad (4th generation)",
     "ANumber": "A1460",
     "Bootrom": "Bootrom 1145.3.3",
     "FCCID": "BCGA1460",
@@ -750,7 +750,7 @@
     ]
   },
   {
-    "Generation": "iPad Pro (12.9 inch)",
+    "Generation": "iPad Pro (12.9-inch)",
     "ANumber": "A1584",
     "Bootrom": "Bootrom 2481.0.0.2.1",
     "FCCID": "BCGA1584",
@@ -805,7 +805,7 @@
     ]
   },
   {
-    "Generation": "iPad Pro (12.9 inch)",
+    "Generation": "iPad Pro (12.9-inch)",
     "ANumber": "A1652",
     "Bootrom": "Bootrom 2481.0.0.2.1",
     "FCCID": "BCGA1652",
@@ -845,7 +845,7 @@
     ]
   },
   {
-    "Generation": "iPad Pro (9.7 inch)",
+    "Generation": "iPad Pro (9.7-inch)",
     "ANumber": "A1673",
     "Bootrom": "Bootrom 2481.0.0.2.1",
     "FCCID": "BCGA1673",
@@ -915,7 +915,7 @@
     ]
   },
   {
-    "Generation": "iPad Pro (9.7 inch)",
+    "Generation": "iPad Pro (9.7-inch)",
     "ANumber": [ "A1674", "A1675" ],
     "Bootrom": "Bootrom 2481.0.0.2.1",
     "FCCID": "BCGA1674",
@@ -981,6 +981,86 @@
         "Color": "Space Gray",
         "Storage": "256 GB",
         "Model": [ "MLQ62" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (5th generation)",
+    "ANumber": "A1822",
+    "Bootrom": "",
+    "FCCID": "BCGA1822",
+    "InternalName": "J71sAP",
+    "Identifier": "iPad6,11",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MPGT2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MPGW2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MP2G2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MP2J2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MP2F2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MP2H2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (5th generation)",
+    "ANumber": "A1823",
+    "Bootrom": "",
+    "FCCID": "BCGA1823",
+    "InternalName": "J72sAP",
+    "Identifier": "iPad6,12",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MPGA2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MPGC2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MP252" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MP2E2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MP242" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MP2D2" ]
       }
     ]
   }

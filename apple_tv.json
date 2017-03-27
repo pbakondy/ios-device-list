@@ -1,6 +1,6 @@
 [
   {
-    "Generation": "Apple TV 2G",
+    "Generation": "Apple TV (2nd generation)",
     "ANumber": "A1378",
     "Bootrom": "Bootrom 574.4",
     "FCCID": "BCGA1378",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "Generation": "Apple TV 3G",
+    "Generation": "Apple TV (3rd generation)",
     "ANumber": "A1427",
     "Bootrom": "ROM",
     "FCCID": "BCGA1427",
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "Generation": "Apple TV 3G",
+    "Generation": "Apple TV (3rd generation)",
     "ANumber": "A1469",
     "Bootrom": "Bootrom 1458.2",
     "FCCID": "BCGA1469",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "Generation": "Apple TV 4G",
+    "Generation": "Apple TV (4th generation)",
     "ANumber": "A1625",
     "Bootrom": "Bootrom 1992.0.0.1.19",
     "FCCID": "BCGA1625",

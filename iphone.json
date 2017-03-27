@@ -1,9 +1,9 @@
 [
   {
     "Generation": "iPhone",
-    "ANumber": [ "A1203" ],
+    "ANumber": "A1203",
     "Bootrom": [ "Bootrom Rev.2" ],
-    "FCCID": [ "BCGA1203" ],
+    "FCCID": "BCGA1203",
     "InternalName": "M68AP",
     "Identifier": "iPhone1,1",
     "Models": [
@@ -28,7 +28,7 @@
     "Generation": "iPhone 3G",
     "ANumber": [ "A1241", "A1324" ],
     "Bootrom": [ "Bootrom Rev.2" ],
-    "FCCID": [ "BCGA1241" ],
+    "FCCID": "BCGA1241",
     "InternalName": "N82AP",
     "Identifier": "iPhone1,2",
     "Models": [
@@ -86,7 +86,7 @@
   },
   {
     "Generation": "iPhone 4",
-    "ANumber": [ "A1332" ],
+    "ANumber": "A1332",
     "Bootrom": [ "Bootrom 574.4" ],
     "FCCID": [ "BCG‑E2380A", "BCG‑E2380B" ],
     "InternalName": "N90AP",
@@ -126,7 +126,7 @@
   },
   {
     "Generation": "iPhone 4",
-    "ANumber": [ "A1332" ],
+    "ANumber": "A1332",
     "Bootrom": [ "Bootrom 574.4" ],
     "FCCID": [ "BCG‑E2380A", "BCG‑E2380B" ],
     "InternalName": "N90BAP",
@@ -146,7 +146,7 @@
   },
   {
     "Generation": "iPhone 4",
-    "ANumber": [ "A1349" ],
+    "ANumber": "A1349",
     "Bootrom": [ "Bootrom 574.4" ],
     "FCCID": [ "BCG‑E2422A", "BCG‑E2422B" ],
     "InternalName": "N92AP",
@@ -188,7 +188,7 @@
     "Generation": "iPhone 4S",
     "ANumber": [ "A1387", "A1431" ],
     "Bootrom": [ "Bootrom 838.3" ],
-    "FCCID": [ "BCG‑E2430A" ],
+    "FCCID": "BCG‑E2430A",
     "InternalName": "N94AP",
     "Identifier": "iPhone4,1",
     "Models": [
@@ -236,9 +236,9 @@
   },
   {
     "Generation": "iPhone 5",
-    "ANumber": [ "A1428" ],
+    "ANumber": "A1428",
     "Bootrom": [ "Bootrom 1145.3" ],
-    "FCCID": [ "BCG‑E2599A" ],
+    "FCCID": "BCG‑E2599A",
     "InternalName": "N41AP",
     "Identifier": "iPhone5,1",
     "Models": [
@@ -278,7 +278,7 @@
     "Generation": "iPhone 5",
     "ANumber": [ "A1429", "A1442" ],
     "Bootrom": [ "Bootrom 1145.3" ],
-    "FCCID": [ "BCG‑E2599A" ],
+    "FCCID": "BCG‑E2599A",
     "InternalName": "N41AP",
     "Identifier": "iPhone5,2",
     "Models": [
@@ -318,7 +318,7 @@
     "Generation": "iPhone 5c",
     "ANumber": [ "A1456", "A1532" ],
     "Bootrom": [ "Bootrom 1145.3" ],
-    "FCCID": [ "BCG‑E2644A" ],
+    "FCCID": "BCG‑E2644A",
     "InternalName": "N48AP",
     "Identifier": "iPhone5,3",
     "Models": [
@@ -468,7 +468,7 @@
     "Generation": "iPhone 5s",
     "ANumber": [ "A1453", "A1533" ],
     "Bootrom": [ "Bootrom 1704.10" ],
-    "FCCID": [ "BCG‑E2642A" ],
+    "FCCID": "BCG‑E2642A",
     "InternalName": "N51AP",
     "Identifier": "iPhone6,1",
     "Models": [
@@ -578,7 +578,7 @@
     "Generation": "iPhone SE",
     "ANumber": [ "A1662", "A1723", "A1724" ],
     "Bootrom": [ "Bootrom 2234.0.0.3.3 (S8000)", "Bootrom 2234.0.0.2.22 (S8003)" ],
-    "FCCID": [ "BCG‑E2945A" ],
+    "FCCID": "BCG‑E2945A",
     "InternalName": [ "N69AP", "N69uAP" ],
     "Identifier": "iPhone8,4",
     "Models": [
@@ -589,8 +589,18 @@
       },
       {
         "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MP8D2", "MP8R2", "MP8H2", "MP8M2", "MP7V2", "MP842" ]
+      },
+      {
+        "Color": "Gold",
         "Storage": "64 GB",
         "Model": [ "MLXK2", "MLXP2", "MLXY2", "MLY32", "MLY72", "MLYC2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MP952", "MP9J2", "MP992", "MP9E2", "MP802", "MP882" ]
       },
       {
         "Color": "Rose Gold",
@@ -599,8 +609,18 @@
       },
       {
         "Color": "Rose Gold",
+        "Storage": "32 GB",
+        "Model": [ "MP8E2", "MP8T2", "MP8J2", "MP8N2", "MP7W2", "MP852" ]
+      },
+      {
+        "Color": "Rose Gold",
         "Storage": "64 GB",
         "Model": [ "MLXL2", "MLXQ2", "MLY02", "MLY42", "MLY82", "MLYD2" ]
+      },
+      {
+        "Color": "Rose Gold",
+        "Storage": "128 GB",
+        "Model": [ "MP962", "MP9K2", "MP9A2", "MP9F2", "MP812", "MP892" ]
       },
       {
         "Color": "Silver",
@@ -609,8 +629,18 @@
       },
       {
         "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MP8C2", "MP8Q2", "MP8G2", "MP8L2", "MP7U2", "MP832" ]
+      },
+      {
+        "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MLM52", "MLM72", "MLMC2", "MLME2", "MLMG2", "MLMJ2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MP942", "MP9H2", "MP982", "MP9D2", "MP7Y2", "MP872" ]
       },
       {
         "Color": "Space Gray",
@@ -619,8 +649,18 @@
       },
       {
         "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MP8A2", "MP8P2", "MP8F2", "MP8K2", "MP7T2", "MP822" ]
+      },
+      {
+        "Color": "Space Gray",
         "Storage": "64 GB",
         "Model": [ "MLM42", "MLM62", "MLMA2", "MLMD2", "MLMF2", "MLMH2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MP932", "MP9G2", "MP972", "MP9C2", "MP7X2", "MP862" ]
       }
     ]
   },
@@ -628,7 +668,7 @@
     "Generation": "iPhone 6",
     "ANumber": [ "A1549", "A1586" ],
     "Bootrom": [ "Bootrom 1992.0.0.1.19" ],
-    "FCCID": [ "BCG‑E2816A" ],
+    "FCCID": "BCG‑E2816A",
     "InternalName": "N61AP",
     "Identifier": "iPhone7,2",
     "Models": [
@@ -683,7 +723,7 @@
     "Generation": "iPhone 6 Plus",
     "ANumber": [ "A1522", "A1524" ],
     "Bootrom": [ "Bootrom 1992.0.0.1.19" ],
-    "FCCID": [ "BCG‑E2817A" ],
+    "FCCID": "BCG‑E2817A",
     "InternalName": "N56AP",
     "Identifier": "iPhone7,1",
     "Models": [
@@ -738,7 +778,7 @@
     "Generation": "iPhone 6s",
     "ANumber": [ "A1633", "A1688", "A1691", "A1700" ],
     "Bootrom": [ "Bootrom 2234.0.0.3.3 (S8000)", "Bootrom 2234.0.0.2.22 (S8003)" ],
-    "FCCID": [ "BCG-E2946A" ],
+    "FCCID": "BCG-E2946A",
     "InternalName": [ "N71AP", "N71mAP" ],
     "Identifier": "iPhone8,1",
     "Models": [
@@ -828,7 +868,7 @@
     "Generation": "iPhone 6s Plus",
     "ANumber": [ "A1634", "A1687", "A1690", "A1699" ],
     "Bootrom": [ "Bootrom 2234.0.0.3.3 (S8000)", "Bootrom 2234.0.0.2.22 (S8003)" ],
-    "FCCID": [ "BCG-E2944A" ],
+    "FCCID": "BCG-E2944A",
     "InternalName": [ "N66AP", "N66mAP" ],
     "Identifier": "iPhone8,2",
     "Models": [
@@ -943,6 +983,16 @@
         "Model": [ "MN8W2", "MNAX2", "MNCD2", "MNCV2" ]
       },
       {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MPRV2", "MPRT2", "MPRH2", "MPRL2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MPRW2", "MPRU2", "MPRJ2", "MPRM2" ]
+      },
+      {
         "Color": "Rose Gold",
         "Storage": "32 GB",
         "Model": [ "MN8K2", "MNAF2", "MNC22", "MNCJ2" ]
@@ -976,9 +1026,9 @@
   },
   {
     "Generation": "iPhone 7",
-    "ANumber": [ "A1778" ],
+    "ANumber": "A1778",
     "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
-    "FCCID": [ "BCG‑E3091A" ],
+    "FCCID": "BCG‑E3091A",
     "InternalName": [ "D101AP" ],
     "Identifier": "iPhone9,3",
     "Models": [
@@ -1021,6 +1071,16 @@
         "Color": "Jet Black",
         "Storage": "256 GB",
         "Model": [ "MN9C2", "MN9T2", "MNAA2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MPRN2", "MPRQ2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MPRP2", "MPRR2" ]
       },
       {
         "Color": "Rose Gold",
@@ -1103,6 +1163,16 @@
         "Model": [ "MN4L2", "MN632", "MN6E2", "MN6Q2" ]
       },
       {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MPR12", "MPR02", "MPQV2", "MPQW2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MPRA2", "MPR92", "MPR52", "MPR62" ]
+      },
+      {
         "Color": "Rose Gold",
         "Storage": "32 GB",
         "Model": [ "MNQL2", "MNR42", "MNR82", "MNRD2", "MNRM2" ]
@@ -1136,9 +1206,9 @@
   },
   {
     "Generation": "iPhone 7 Plus",
-    "ANumber": [ "A1784" ],
+    "ANumber": "A1784",
     "Bootrom": [ "Bootrom 2696.0.0.1.33" ],
-    "FCCID": [ "BCG‑E3092A" ],
+    "FCCID": "BCG‑E3092A",
     "InternalName": [ "D111AP" ],
     "Identifier": "iPhone9,4",
     "Models": [
@@ -1181,6 +1251,16 @@
         "Color": "Jet Black",
         "Storage": "256 GB",
         "Model": [ "MN5F2", "MN5R2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MPQW2", "MPQY2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MPR72", "MPR82" ]
       },
       {
         "Color": "Rose Gold",

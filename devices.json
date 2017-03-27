@@ -1,38 +1,36 @@
 [
   {
-    "name": "Apple TV 2G",
+    "name": "Apple TV (2nd generation)",
     "model": "AppleTV2,1",
     "ANumber": "A1378",
     "FCCID": "BCGA1378"
   },
   {
-    "name": "Apple TV 3G",
+    "name": "Apple TV (3rd generation)",
     "model": "AppleTV3,1",
     "ANumber": "A1427",
     "FCCID": "BCGA1427"
   },
   {
-    "name": "Apple TV 3G",
+    "name": "Apple TV (3rd generation)",
     "model": "AppleTV3,2",
     "ANumber": "A1469",
     "FCCID": "BCGA1469"
   },
   {
-    "name": "Apple TV 4G",
+    "name": "Apple TV (4th generation)",
     "model": "AppleTV5,3",
     "ANumber": "A1625",
     "FCCID": "BCGA1625"
   },
   {
-    "name": "Apple Watch",
+    "name": "Apple Watch (1st generation)",
     "model": "Watch1,1",
-    "ANumber": [
-      "A1553"
-    ],
+    "ANumber": "A1553",
     "FCCID": "BCG-E2870"
   },
   {
-    "name": "Apple Watch",
+    "name": "Apple Watch (1st generation)",
     "model": "Watch1,2",
     "ANumber": [
       "A1554",
@@ -43,17 +41,13 @@
   {
     "name": "Apple Watch Series 1",
     "model": "Watch2,6",
-    "ANumber": [
-      "A1802"
-    ],
+    "ANumber": "A1802",
     "FCCID": "BCG‑E3102"
   },
   {
     "name": "Apple Watch Series 1",
     "model": "Watch2,7",
-    "ANumber": [
-      "A1803"
-    ],
+    "ANumber": "A1803",
     "FCCID": "BCG‑E3103"
   },
   {
@@ -111,37 +105,37 @@
     "FCCID": "BCGA1395"
   },
   {
-    "name": "iPad 3",
+    "name": "iPad (3rd generation)",
     "model": "iPad3,1",
     "ANumber": "A1416",
     "FCCID": "BCGA1416"
   },
   {
-    "name": "iPad 3",
+    "name": "iPad (3rd generation)",
     "model": "iPad3,2",
     "ANumber": "A1403",
     "FCCID": "BCGA1403"
   },
   {
-    "name": "iPad 3",
+    "name": "iPad (3rd generation)",
     "model": "iPad3,3",
     "ANumber": "A1430",
     "FCCID": "BCGA1430"
   },
   {
-    "name": "iPad 4",
+    "name": "iPad (4th generation)",
     "model": "iPad3,4",
     "ANumber": "A1458",
     "FCCID": "BCGA1458"
   },
   {
-    "name": "iPad 4",
+    "name": "iPad (4th generation)",
     "model": "iPad3,5",
     "ANumber": "A1459",
     "FCCID": "BCGA1459"
   },
   {
-    "name": "iPad 4",
+    "name": "iPad (4th generation)",
     "model": "iPad3,6",
     "ANumber": "A1460",
     "FCCID": "BCGA1460"
@@ -177,31 +171,43 @@
     "FCCID": "BCGA1567"
   },
   {
-    "name": "iPad Pro (12.9 inch)",
+    "name": "iPad Pro (12.9-inch)",
     "model": "iPad6,7",
     "ANumber": "A1584",
     "FCCID": "BCGA1584"
   },
   {
-    "name": "iPad Pro (12.9 inch)",
+    "name": "iPad Pro (12.9-inch)",
     "model": "iPad6,8",
     "ANumber": "A1652",
     "FCCID": "BCGA1652"
   },
   {
-    "name": "iPad Pro (9.7 inch)",
+    "name": "iPad Pro (9.7-inch)",
     "model": "iPad6,3",
     "ANumber": "A1673",
     "FCCID": "BCGA1673"
   },
   {
-    "name": "iPad Pro (9.7 inch)",
+    "name": "iPad Pro (9.7-inch)",
     "model": "iPad6,4",
     "ANumber": [
       "A1674",
       "A1675"
     ],
     "FCCID": "BCGA1674"
+  },
+  {
+    "name": "iPad (5th generation)",
+    "model": "iPad6,11",
+    "ANumber": "A1822",
+    "FCCID": "BCGA1822"
+  },
+  {
+    "name": "iPad (5th generation)",
+    "model": "iPad6,12",
+    "ANumber": "A1823",
+    "FCCID": "BCGA1823"
   },
   {
     "name": "iPad mini",
@@ -272,12 +278,8 @@
   {
     "name": "iPhone",
     "model": "iPhone1,1",
-    "ANumber": [
-      "A1203"
-    ],
-    "FCCID": [
-      "BCGA1203"
-    ]
+    "ANumber": "A1203",
+    "FCCID": "BCGA1203"
   },
   {
     "name": "iPhone 3G",
@@ -286,9 +288,7 @@
       "A1241",
       "A1324"
     ],
-    "FCCID": [
-      "BCGA1241"
-    ]
+    "FCCID": "BCGA1241"
   },
   {
     "name": "iPhone 3GS",
@@ -305,9 +305,7 @@
   {
     "name": "iPhone 4",
     "model": "iPhone3,1",
-    "ANumber": [
-      "A1332"
-    ],
+    "ANumber": "A1332",
     "FCCID": [
       "BCG‑E2380A",
       "BCG‑E2380B"
@@ -316,9 +314,7 @@
   {
     "name": "iPhone 4",
     "model": "iPhone3,2",
-    "ANumber": [
-      "A1332"
-    ],
+    "ANumber": "A1332",
     "FCCID": [
       "BCG‑E2380A",
       "BCG‑E2380B"
@@ -327,9 +323,7 @@
   {
     "name": "iPhone 4",
     "model": "iPhone3,3",
-    "ANumber": [
-      "A1349"
-    ],
+    "ANumber": "A1349",
     "FCCID": [
       "BCG‑E2422A",
       "BCG‑E2422B"
@@ -342,19 +336,13 @@
       "A1387",
       "A1431"
     ],
-    "FCCID": [
-      "BCG‑E2430A"
-    ]
+    "FCCID": "BCG‑E2430A"
   },
   {
     "name": "iPhone 5",
     "model": "iPhone5,1",
-    "ANumber": [
-      "A1428"
-    ],
-    "FCCID": [
-      "BCG‑E2599A"
-    ]
+    "ANumber": "A1428",
+    "FCCID": "BCG‑E2599A"
   },
   {
     "name": "iPhone 5",
@@ -363,9 +351,7 @@
       "A1429",
       "A1442"
     ],
-    "FCCID": [
-      "BCG‑E2599A"
-    ]
+    "FCCID": "BCG‑E2599A"
   },
   {
     "name": "iPhone 5c",
@@ -374,9 +360,7 @@
       "A1456",
       "A1532"
     ],
-    "FCCID": [
-      "BCG‑E2644A"
-    ]
+    "FCCID": "BCG‑E2644A"
   },
   {
     "name": "iPhone 5c",
@@ -399,9 +383,7 @@
       "A1453",
       "A1533"
     ],
-    "FCCID": [
-      "BCG‑E2642A"
-    ]
+    "FCCID": "BCG‑E2642A"
   },
   {
     "name": "iPhone 5s",
@@ -425,9 +407,7 @@
       "A1723",
       "A1724"
     ],
-    "FCCID": [
-      "BCG‑E2945A"
-    ]
+    "FCCID": "BCG‑E2945A"
   },
   {
     "name": "iPhone 6",
@@ -436,9 +416,7 @@
       "A1549",
       "A1586"
     ],
-    "FCCID": [
-      "BCG‑E2816A"
-    ]
+    "FCCID": "BCG‑E2816A"
   },
   {
     "name": "iPhone 6 Plus",
@@ -447,9 +425,7 @@
       "A1522",
       "A1524"
     ],
-    "FCCID": [
-      "BCG‑E2817A"
-    ]
+    "FCCID": "BCG‑E2817A"
   },
   {
     "name": "iPhone 6s",
@@ -460,9 +436,7 @@
       "A1691",
       "A1700"
     ],
-    "FCCID": [
-      "BCG-E2946A"
-    ]
+    "FCCID": "BCG-E2946A"
   },
   {
     "name": "iPhone 6s Plus",
@@ -473,9 +447,7 @@
       "A1690",
       "A1699"
     ],
-    "FCCID": [
-      "BCG-E2944A"
-    ]
+    "FCCID": "BCG-E2944A"
   },
   {
     "name": "iPhone 7",
@@ -493,12 +465,8 @@
   {
     "name": "iPhone 7",
     "model": "iPhone9,3",
-    "ANumber": [
-      "A1778"
-    ],
-    "FCCID": [
-      "BCG‑E3091A"
-    ]
+    "ANumber": "A1778",
+    "FCCID": "BCG‑E3091A"
   },
   {
     "name": "iPhone 7 Plus",
@@ -516,23 +484,17 @@
   {
     "name": "iPhone 7 Plus",
     "model": "iPhone9,4",
-    "ANumber": [
-      "A1784"
-    ],
-    "FCCID": [
-      "BCG‑E3092A"
-    ]
+    "ANumber": "A1784",
+    "FCCID": "BCG‑E3092A"
   },
   {
     "name": "iPod touch",
     "model": "iPod1,1",
-    "ANumber": [
-      "A1213"
-    ],
+    "ANumber": "A1213",
     "FCCID": "BCGA1213"
   },
   {
-    "name": "iPod touch 2G",
+    "name": "iPod touch (2nd generation)",
     "model": "iPod2,1",
     "ANumber": [
       "A1288",
@@ -541,7 +503,7 @@
     "FCCID": "BCGA1288"
   },
   {
-    "name": "iPod touch 2G",
+    "name": "iPod touch (2nd generation)",
     "model": "iPod2,1",
     "ANumber": [
       "A1288",
@@ -550,43 +512,33 @@
     "FCCID": "BCGA1288"
   },
   {
-    "name": "iPod touch 3G",
+    "name": "iPod touch (3rd generation)",
     "model": "iPod3,1",
-    "ANumber": [
-      "A1318"
-    ],
+    "ANumber": "A1318",
     "FCCID": "BCG‑2310"
   },
   {
-    "name": "iPod touch 4G",
+    "name": "iPod touch (4th generation)",
     "model": "iPod4,1",
-    "ANumber": [
-      "A1367"
-    ],
+    "ANumber": "A1367",
     "FCCID": "BCG‑E2407"
   },
   {
-    "name": "iPod touch 5G",
+    "name": "iPod touch (5th generation)",
     "model": "iPod5,1",
-    "ANumber": [
-      "A1421"
-    ],
+    "ANumber": "A1421",
     "FCCID": "BCG‑A1421"
   },
   {
-    "name": "iPod touch 5G",
+    "name": "iPod touch (5th generation)",
     "model": "iPod5,1",
-    "ANumber": [
-      "A1509"
-    ],
+    "ANumber": "A1509",
     "FCCID": "BCG‑A1421"
   },
   {
-    "name": "iPod touch 6G",
+    "name": "iPod touch (6th generation)",
     "model": "iPod7,1",
-    "ANumber": [
-      "A1574"
-    ],
+    "ANumber": "A1574",
     "FCCID": "BCGA1574"
   }
 ]

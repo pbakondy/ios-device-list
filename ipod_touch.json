@@ -1,9 +1,8 @@
 [
   {
     "Generation": "iPod touch",
-    "ANumber": [ "A1213" ],
+    "ANumber": "A1213",
     "Bootrom": "Bootrom Rev.2",
-    "Variant": null,
     "FCCID": "BCGA1213",
     "InternalName": "N45AP",
     "Identifier": "iPod1,1",
@@ -26,10 +25,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 2G",
+    "Generation": "iPod touch (2nd generation)",
     "ANumber": [ "A1288", "A1319" ],
     "Bootrom": "Bootrom 240.4",
-    "Variant": null,
     "FCCID": "BCGA1288",
     "InternalName": "N72AP",
     "Identifier": "iPod2,1",
@@ -52,10 +50,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 2G",
+    "Generation": "iPod touch (2nd generation)",
     "ANumber": [ "A1288", "A1319" ],
     "Bootrom": "Bootrom 240.5.1",
-    "Variant": null,
     "FCCID": "BCGA1288",
     "InternalName": "N72AP",
     "Identifier": "iPod2,1",
@@ -68,10 +65,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 3G",
-    "ANumber": [ "A1318" ],
+    "Generation": "iPod touch (3rd generation)",
+    "ANumber": "A1318",
     "Bootrom": "Bootrom 359.5",
-    "Variant": null,
     "FCCID": "BCG‑2310",
     "InternalName": "N18AP",
     "Identifier": "iPod3,1",
@@ -89,10 +85,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 4G",
-    "ANumber": [ "A1367" ],
+    "Generation": "iPod touch (4th generation)",
+    "ANumber": "A1367",
     "Bootrom": "Bootrom 574.4",
-    "Variant": null,
     "FCCID": "BCG‑E2407",
     "InternalName": "N81AP",
     "Identifier": "iPod4,1",
@@ -140,10 +135,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 5G",
-    "ANumber": [ "A1421" ],
+    "Generation": "iPod touch (5th generation)",
+    "ANumber": "A1421",
     "Bootrom": "ROM",
-    "Variant": null,
     "FCCID": "BCG‑A1421",
     "InternalName": "N78AP",
     "Identifier": "iPod5,1",
@@ -251,10 +245,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 5G",
-    "ANumber": [ "A1509" ],
+    "Generation": "iPod touch (5th generation)",
+    "ANumber": "A1509",
     "Bootrom": "ROM",
-    "Variant": null,
     "FCCID": "BCG‑A1421",
     "InternalName": "N78aAP",
     "Identifier": "iPod5,1",
@@ -267,10 +260,9 @@
     ]
   },
   {
-    "Generation": "iPod touch 6G",
-    "ANumber": [ "A1574" ],
+    "Generation": "iPod touch (6th generation)",
+    "ANumber": "A1574",
     "Bootrom": "Bootrom 1992.0.0.1.19",
-    "Variant": null,
     "FCCID": "BCGA1574",
     "InternalName": "N102AP",
     "Identifier": "iPod7,1",

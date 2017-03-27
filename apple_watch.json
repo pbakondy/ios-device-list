@@ -1,7 +1,7 @@
 [
   {
-    "Generation": "Apple Watch",
-    "ANumber": [ "A1553" ],
+    "Generation": "Apple Watch (1st generation)",
+    "ANumber": "A1553",
     "FCCID": "BCG-E2870",
     "InternalName": "N27aAP",
     "Identifier": "Watch1,1",
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "Generation": "Apple Watch",
+    "Generation": "Apple Watch (1st generation)",
     "ANumber": [ "A1554", "A1638" ],
     "FCCID": "BCG-E2871",
     "InternalName": "N28aAP",
@@ -131,7 +131,7 @@
   },
   {
     "Generation": "Apple Watch Series 1",
-    "ANumber": [ "A1802" ],
+    "ANumber": "A1802",
     "FCCID": "BCG‑E3102",
     "InternalName": "N27dAP",
     "Identifier": "Watch2,6",
@@ -164,7 +164,7 @@
   },
   {
     "Generation": "Apple Watch Series 1",
-    "ANumber": [ "A1803" ],
+    "ANumber": "A1803",
     "FCCID": "BCG‑E3103",
     "InternalName": "N28dAP",
     "Identifier": "Watch2,7",
