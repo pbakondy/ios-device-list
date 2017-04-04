@@ -987,7 +987,7 @@
   {
     "Generation": "iPad (5th generation)",
     "ANumber": "A1822",
-    "Bootrom": "",
+    "Bootrom": "Bootrom 2234.0.0.3.3",
     "FCCID": "BCGA1822",
     "InternalName": "J71sAP",
     "Identifier": "iPad6,11",
@@ -1027,7 +1027,7 @@
   {
     "Generation": "iPad (5th generation)",
     "ANumber": "A1823",
-    "Bootrom": "",
+    "Bootrom": "Bootrom 2234.0.0.3.3",
     "FCCID": "BCGA1823",
     "InternalName": "J72sAP",
     "Identifier": "iPad6,12",
