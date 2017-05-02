@@ -3178,6 +3178,7 @@ module.exports = [
 	{
 		"Generation": "Apple Watch (1st generation)",
 		"ANumber": "A1553",
+		"Bootrom": "Bootrom 2098.0.0.2.4",
 		"FCCID": "BCG-E2870",
 		"InternalName": "N27aAP",
 		"Identifier": "Watch1,1",
@@ -3265,6 +3266,7 @@ module.exports = [
 			"A1554",
 			"A1638"
 		],
+		"Bootrom": "Bootrom 2098.0.0.2.4",
 		"FCCID": "BCG-E2871",
 		"InternalName": "N28aAP",
 		"Identifier": "Watch1,2",
@@ -3286,14 +3288,18 @@ module.exports = [
 				"Color": "Gold",
 				"Size": "42mm",
 				"Storage": "8 GB",
-				"Model": []
+				"Model": [
+					"MLC72"
+				]
 			},
 			{
 				"CaseMaterial": "Aluminum",
 				"Color": "Rose Gold",
 				"Size": "42mm",
 				"Storage": "8 GB",
-				"Model": []
+				"Model": [
+					"MLC62"
+				]
 			},
 			{
 				"CaseMaterial": "Aluminum",
@@ -3350,6 +3356,7 @@ module.exports = [
 	{
 		"Generation": "Apple Watch Series 1",
 		"ANumber": "A1802",
+		"Bootrom": "Bootrom 2651.0.0.1.31",
 		"FCCID": "BCG‑E3102",
 		"InternalName": "N27dAP",
 		"Identifier": "Watch2,6",
@@ -3391,6 +3398,7 @@ module.exports = [
 	{
 		"Generation": "Apple Watch Series 1",
 		"ANumber": "A1803",
+		"Bootrom": "Bootrom 2651.0.0.1.31",
 		"FCCID": "BCG‑E3103",
 		"InternalName": "N28dAP",
 		"Identifier": "Watch2,7",
@@ -3435,6 +3443,7 @@ module.exports = [
 			"A1757",
 			"A1816"
 		],
+		"Bootrom": "Bootrom 2651.0.0.1.31",
 		"FCCID": "BCG‑E3104",
 		"InternalName": "N74AP",
 		"Identifier": "Watch2,3",
@@ -3447,7 +3456,8 @@ module.exports = [
 					"MNNQ2",
 					"MNNW2",
 					"MNNX2",
-					"MNYP2"
+					"MNYP2",
+					"MQ172"
 				]
 			},
 			{
@@ -3456,7 +3466,8 @@ module.exports = [
 				"Size": "38mm",
 				"Model": [
 					"MNP22",
-					"MNP32"
+					"MNP32",
+					"MQ132"
 				]
 			},
 			{
@@ -3476,7 +3487,8 @@ module.exports = [
 					"MNYX2",
 					"MP0D2",
 					"MP052",
-					"MP082"
+					"MP082",
+					"MQ162"
 				]
 			},
 			{
@@ -3495,7 +3507,8 @@ module.exports = [
 					"MNQ62",
 					"MNQ72",
 					"MNQ82",
-					"MNQ92"
+					"MNQ92",
+					"MQ1F2"
 				]
 			},
 			{
@@ -3524,6 +3537,7 @@ module.exports = [
 			"A1758",
 			"A1817"
 		],
+		"Bootrom": "Bootrom 2651.0.0.1.31",
 		"FCCID": "BCG‑E3105",
 		"InternalName": "N75AP",
 		"Identifier": "Watch2,4",
@@ -3536,7 +3550,8 @@ module.exports = [
 					"MNNT2",
 					"MNPJ2",
 					"MNPK2",
-					"MNYQ2"
+					"MNYQ2",
+					"MQ192"
 				]
 			},
 			{
@@ -3545,7 +3560,8 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MNPN2",
-					"MNPP2"
+					"MNPP2",
+					"MQ152"
 				]
 			},
 			{
@@ -3554,7 +3570,8 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MNPL2",
-					"MNPM2"
+					"MNPM2",
+					"MQ142"
 				]
 			},
 			{
@@ -3565,7 +3582,8 @@ module.exports = [
 					"MNYY2",
 					"MP062",
 					"MP072",
-					"MP0A2"
+					"MP0A2",
+					"MQ182"
 				]
 			},
 			{
@@ -3579,7 +3597,6 @@ module.exports = [
 					"MNPV2",
 					"MNPW2",
 					"MNQ02",
-					"MNQ12",
 					"MNQ22",
 					"MNQ32",
 					"MNQC2"
@@ -3590,7 +3607,8 @@ module.exports = [
 				"Color": "Space Black",
 				"Size": "42mm",
 				"Model": [
-					"MP4A2"
+					"MP4A2",
+					"MNQ12"
 				]
 			},
 			{
@@ -4978,7 +4996,7 @@ module.exports = [
 	{
 		"Generation": "iPad (5th generation)",
 		"ANumber": "A1822",
-		"Bootrom": "",
+		"Bootrom": "Bootrom 2234.0.0.3.3",
 		"FCCID": "BCGA1822",
 		"InternalName": "J71sAP",
 		"Identifier": "iPad6,11",
@@ -5030,7 +5048,7 @@ module.exports = [
 	{
 		"Generation": "iPad (5th generation)",
 		"ANumber": "A1823",
-		"Bootrom": "",
+		"Bootrom": "Bootrom 2234.0.0.3.3",
 		"FCCID": "BCGA1823",
 		"InternalName": "J72sAP",
 		"Identifier": "iPad6,12",

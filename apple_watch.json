@@ -2,6 +2,7 @@
   {
     "Generation": "Apple Watch (1st generation)",
     "ANumber": "A1553",
+    "Bootrom": "Bootrom 2098.0.0.2.4",
     "FCCID": "BCG-E2870",
     "InternalName": "N27aAP",
     "Identifier": "Watch1,1",
@@ -67,6 +68,7 @@
   {
     "Generation": "Apple Watch (1st generation)",
     "ANumber": [ "A1554", "A1638" ],
+    "Bootrom": "Bootrom 2098.0.0.2.4",
     "FCCID": "BCG-E2871",
     "InternalName": "N28aAP",
     "Identifier": "Watch1,2",
@@ -83,14 +85,14 @@
         "Color": "Gold",
         "Size": "42mm",
         "Storage": "8 GB",
-        "Model": [ ]
+        "Model": [ "MLC72" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Rose Gold",
         "Size": "42mm",
         "Storage": "8 GB",
-        "Model": [ ]
+        "Model": [ "MLC62" ]
       },
       {
         "CaseMaterial": "Aluminum",
@@ -132,6 +134,7 @@
   {
     "Generation": "Apple Watch Series 1",
     "ANumber": "A1802",
+    "Bootrom": "Bootrom 2651.0.0.1.31",
     "FCCID": "BCG‑E3102",
     "InternalName": "N27dAP",
     "Identifier": "Watch2,6",
@@ -165,6 +168,7 @@
   {
     "Generation": "Apple Watch Series 1",
     "ANumber": "A1803",
+    "Bootrom": "Bootrom 2651.0.0.1.31",
     "FCCID": "BCG‑E3103",
     "InternalName": "N28dAP",
     "Identifier": "Watch2,7",
@@ -198,6 +202,7 @@
   {
     "Generation": "Apple Watch Series 2",
     "ANumber": [ "A1757", "A1816" ],
+    "Bootrom": "Bootrom 2651.0.0.1.31",
     "FCCID": "BCG‑E3104",
     "InternalName": "N74AP",
     "Identifier": "Watch2,3",
@@ -206,13 +211,13 @@
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "38mm",
-        "Model": [ "MNNQ2", "MNNW2", "MNNX2", "MNYP2" ]
+        "Model": [ "MNNQ2", "MNNW2", "MNNX2", "MNYP2", "MQ172" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "38mm",
-        "Model": [ "MNP22", "MNP32" ]
+        "Model": [ "MNP22", "MNP32", "MQ132" ]
       },
       {
         "CaseMaterial": "Aluminum",
@@ -224,13 +229,13 @@
         "CaseMaterial": "Aluminum",
         "Color": "Space Gray",
         "Size": "38mm",
-        "Model": [ "MNYX2", "MP0D2", "MP052", "MP082" ]
+        "Model": [ "MNYX2", "MP0D2", "MP052", "MP082", "MQ162" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Silver",
         "Size": "38mm",
-        "Model": [ "MNP42", "MNP52", "MNP62", "MNP72", "MNP82", "MNP92", "MNPA2", "MNQ52", "MNQ62", "MNQ72", "MNQ82", "MNQ92" ]
+        "Model": [ "MNP42", "MNP52", "MNP62", "MNP72", "MNP82", "MNP92", "MNPA2", "MNQ52", "MNQ62", "MNQ72", "MNQ82", "MNQ92", "MQ1F2" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
@@ -249,6 +254,7 @@
   {
     "Generation": "Apple Watch Series 2",
     "ANumber": [ "A1758", "A1817" ],
+    "Bootrom": "Bootrom 2651.0.0.1.31",
     "FCCID": "BCG‑E3105",
     "InternalName": "N75AP",
     "Identifier": "Watch2,4",
@@ -257,37 +263,37 @@
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "42mm",
-        "Model": [ "MNNT2", "MNPJ2", "MNPK2", "MNYQ2" ]
+        "Model": [ "MNNT2", "MNPJ2", "MNPK2", "MNYQ2", "MQ192" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "42mm",
-        "Model": [ "MNPN2", "MNPP2" ]
+        "Model": [ "MNPN2", "MNPP2", "MQ152" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Rose Gold",
         "Size": "42mm",
-        "Model": [ "MNPL2", "MNPM2" ]
+        "Model": [ "MNPL2", "MNPM2", "MQ142" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Gray",
         "Size": "42mm",
-        "Model": [ "MNYY2", "MP062", "MP072", "MP0A2" ]
+        "Model": [ "MNYY2", "MP062", "MP072", "MP0A2", "MQ182" ]
       },
       {
         "CaseMaterial": " Stainless Steel",
         "Color": "Silver",
         "Size": "42mm",
-        "Model": [ "MNPR2", "MNPT2", "MNPU2", "MNPV2", "MNPW2", "MNQ02", "MNQ12", "MNQ22", "MNQ32", "MNQC2" ]
+        "Model": [ "MNPR2", "MNPT2", "MNPU2", "MNPV2", "MNPW2", "MNQ02", "MNQ22", "MNQ32", "MNQC2" ]
       },
       {
         "CaseMaterial": " Stainless Steel",
         "Color": "Space Black",
         "Size": "42mm",
-        "Model": [ "MP4A2" ]
+        "Model": [ "MP4A2", "MNQ12" ]
       },
       {
         "CaseMaterial": "Ceramic",

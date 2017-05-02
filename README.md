@@ -1,7 +1,6 @@
 # iOS device list
 
 [![npm](https://img.shields.io/npm/v/ios-device-list.svg)](https://www.npmjs.com/package/ios-device-list)
-[![Bower](https://img.shields.io/bower/v/ios-device-list.svg)](http://bower.io/search/?q=ios-device-list)
 
 Searchable collection of Apple devices.
 
@@ -19,10 +18,6 @@ Sources:
 $ npm install ios-device-list
 ```
 
-```
-$ bower install ios-device-list
-```
-
 ## Usage
 
 In node:
@@ -34,7 +29,7 @@ var iosDevices = require('ios-device-list');
 In browser:
 
 ```html
-<script src="bower_components/ios-device-list/dist/ios-device-list.min.js"></script>
+<script src="node_modules/ios-device-list/dist/ios-device-list.min.js"></script>
 <script>
   window.iosDeviceList // Object
 </script>
