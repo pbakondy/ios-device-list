@@ -210,6 +210,30 @@
     "FCCID": "BCGA1823"
   },
   {
+    "name": "iPad Pro (12.9-inch, 2nd generation)",
+    "model": "iPad7,1",
+    "ANumber": "A1670",
+    "FCCID": "Unknown"
+  },
+  {
+    "name": "iPad Pro (12.9-inch, 2nd generation)",
+    "model": "iPad7,2",
+    "ANumber": "A1821",
+    "FCCID": "Unknown"
+  },
+  {
+    "name": "iPad Pro (10.5-inch)",
+    "model": "iPad7,3",
+    "ANumber": "A1701",
+    "FCCID": "Unknown"
+  },
+  {
+    "name": "iPad Pro (10.5-inch)",
+    "model": "iPad7,4",
+    "ANumber": "A1709",
+    "FCCID": "Unknown"
+  },
+  {
     "name": "iPad mini",
     "model": "iPad2,5",
     "ANumber": "A1432",
@@ -414,7 +438,8 @@
     "model": "iPhone7,2",
     "ANumber": [
       "A1549",
-      "A1586"
+      "A1586",
+      "A1589"
     ],
     "FCCID": "BCG‑E2816A"
   },
@@ -423,7 +448,8 @@
     "model": "iPhone7,1",
     "ANumber": [
       "A1522",
-      "A1524"
+      "A1524",
+      "A1593"
     ],
     "FCCID": "BCG‑E2817A"
   },

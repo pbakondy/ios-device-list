@@ -11,41 +11,41 @@
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
-
+/******/
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
-
+/******/
 /******/ 		// Check if module is in cache
-/******/ 		if(installedModules[moduleId])
+/******/ 		if(installedModules[moduleId]) {
 /******/ 			return installedModules[moduleId].exports;
-
+/******/ 		}
 /******/ 		// Create a new module (and put it into the cache)
 /******/ 		var module = installedModules[moduleId] = {
 /******/ 			i: moduleId,
 /******/ 			l: false,
 /******/ 			exports: {}
 /******/ 		};
-
+/******/
 /******/ 		// Execute the module function
 /******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
-
+/******/
 /******/ 		// Flag the module as loaded
 /******/ 		module.l = true;
-
+/******/
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
 /******/ 	}
-
-
+/******/
+/******/
 /******/ 	// expose the modules object (__webpack_modules__)
 /******/ 	__webpack_require__.m = modules;
-
+/******/
 /******/ 	// expose the module cache
 /******/ 	__webpack_require__.c = installedModules;
-
+/******/
 /******/ 	// identity function for calling harmony imports with the correct context
 /******/ 	__webpack_require__.i = function(value) { return value; };
-
+/******/
 /******/ 	// define getter function for harmony exports
 /******/ 	__webpack_require__.d = function(exports, name, getter) {
 /******/ 		if(!__webpack_require__.o(exports, name)) {
@@ -56,7 +56,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 			});
 /******/ 		}
 /******/ 	};
-
+/******/
 /******/ 	// getDefaultExport function for compatibility with non-harmony modules
 /******/ 	__webpack_require__.n = function(module) {
 /******/ 		var getter = module && module.__esModule ?
@@ -65,15 +65,15 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 		__webpack_require__.d(getter, 'a', getter);
 /******/ 		return getter;
 /******/ 	};
-
+/******/
 /******/ 	// Object.prototype.hasOwnProperty.call
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
-
+/******/
 /******/ 	// __webpack_public_path__
 /******/ 	__webpack_require__.p = "";
-
+/******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 11);
+/******/ 	return __webpack_require__(__webpack_require__.s = 10);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -1834,7 +1834,7 @@ function stubFalse() {
 }
 
 module.exports = cloneDeep;
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0), __webpack_require__(10)(module)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0), __webpack_require__(11)(module)))
 
 /***/ }),
 /* 2 */
@@ -5096,6 +5096,340 @@ module.exports = [
 				]
 			}
 		]
+	},
+	{
+		"Generation": "iPad Pro (12.9-inch, 2nd generation)",
+		"ANumber": "A1670",
+		"Bootrom": "Unknown",
+		"FCCID": "Unknown",
+		"InternalName": "J120AP",
+		"Identifier": "iPad7,1",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDD2"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MP6J2"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "512 GB",
+				"Model": [
+					"MPL12"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDC2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MP6H2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "512 GB",
+				"Model": [
+					"MPL02"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDA2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MP6G2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "512 GB",
+				"Model": [
+					"MPKY2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPad Pro (12.9-inch, 2nd generation)",
+		"ANumber": "A1821",
+		"Bootrom": "Unknown",
+		"FCCID": "Unknown",
+		"InternalName": "J121AP",
+		"Identifier": "iPad7,2",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQEF2"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MPA62"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "512 GB",
+				"Model": [
+					"MPLL2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQEE2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MPA52"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "512 GB",
+				"Model": [
+					"MPLK2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQED2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MPA42"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "512 GB",
+				"Model": [
+					"MPLJ2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPad Pro (10.5-inch)",
+		"ANumber": "A1701",
+		"Bootrom": "Unknown",
+		"FCCID": "Unknown",
+		"InternalName": "J207AP",
+		"Identifier": "iPad7,3",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDX2"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MPF12"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "512 GB",
+				"Model": [
+					"MPGK2"
+				]
+			},
+			{
+				"Color": "Rose Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDY2"
+				]
+			},
+			{
+				"Color": "Rose Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MPF22"
+				]
+			},
+			{
+				"Color": "Rose Gold",
+				"Storage": "512 GB",
+				"Model": [
+					"MPGL2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDW2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MPF02"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "512 GB",
+				"Model": [
+					"MPGJ2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQDT2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MPDY2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "512 GB",
+				"Model": [
+					"MPGH2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPad Pro (10.5-inch)",
+		"ANumber": "A1709",
+		"Bootrom": "Unknown",
+		"FCCID": "Unknown",
+		"InternalName": "J208AP",
+		"Identifier": "iPad7,4",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQF12"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MPHJ2"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "512 GB",
+				"Model": [
+					"MPMG2"
+				]
+			},
+			{
+				"Color": "Rose Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQF22"
+				]
+			},
+			{
+				"Color": "Rose Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MPHK2"
+				]
+			},
+			{
+				"Color": "Rose Gold",
+				"Storage": "512 GB",
+				"Model": [
+					"MPMH2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQF02"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MPHH2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "512 GB",
+				"Model": [
+					"MPMF2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQEY2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MPHG2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "512 GB",
+				"Model": [
+					"MPME2"
+				]
+			}
+		]
 	}
 ];
 
@@ -7189,7 +7523,8 @@ module.exports = [
 		"Generation": "iPhone 6",
 		"ANumber": [
 			"A1549",
-			"A1586"
+			"A1586",
+			"A1589"
 		],
 		"Bootrom": [
 			"Bootrom 1992.0.0.1.19"
@@ -7209,6 +7544,11 @@ module.exports = [
 					"MG5Y2",
 					"MG6C2"
 				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "32 GB",
+				"Model": []
 			},
 			{
 				"Color": "Gold",
@@ -7280,6 +7620,11 @@ module.exports = [
 			},
 			{
 				"Color": "Space Gray",
+				"Storage": "32 GB",
+				"Model": []
+			},
+			{
+				"Color": "Space Gray",
 				"Storage": "64 GB",
 				"Model": [
 					"MG3H2",
@@ -7306,7 +7651,8 @@ module.exports = [
 		"Generation": "iPhone 6 Plus",
 		"ANumber": [
 			"A1522",
-			"A1524"
+			"A1524",
+			"A1593"
 		],
 		"Bootrom": [
 			"Bootrom 1992.0.0.1.19"
@@ -8402,7 +8748,8 @@ module.exports = [
 				"Storage": "128 GB",
 				"Model": [
 					"MN572",
-					"MN5L2"
+					"MN5L2",
+					"MN4V2"
 				]
 			},
 			{
@@ -9029,36 +9376,6 @@ module.exports = [
 "use strict";
 
 
-module.exports = function (module) {
-	if (!module.webpackPolyfill) {
-		module.deprecate = function () {};
-		module.paths = [];
-		// module.parent = undefined by default
-		if (!module.children) module.children = [];
-		Object.defineProperty(module, "loaded", {
-			enumerable: true,
-			get: function get() {
-				return module.l;
-			}
-		});
-		Object.defineProperty(module, "id", {
-			enumerable: true,
-			get: function get() {
-				return module.i;
-			}
-		});
-		module.webpackPolyfill = 1;
-	}
-	return module;
-};
-
-/***/ }),
-/* 11 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
 
 var uniq = __webpack_require__(3);
 var cloneDeep = __webpack_require__(1);
@@ -9446,6 +9763,36 @@ module.exports = {
   deviceByGeneration: deviceByGeneration, deviceByANumber: deviceByANumber, deviceByFCCID: deviceByFCCID, deviceByInternalName: deviceByInternalName,
   deviceByIdentifier: deviceByIdentifier, deviceByColor: deviceByColor, deviceByStorage: deviceByStorage, deviceByModel: deviceByModel,
   generationByIdentifier: generationByIdentifier
+};
+
+/***/ }),
+/* 11 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = function (module) {
+	if (!module.webpackPolyfill) {
+		module.deprecate = function () {};
+		module.paths = [];
+		// module.parent = undefined by default
+		if (!module.children) module.children = [];
+		Object.defineProperty(module, "loaded", {
+			enumerable: true,
+			get: function get() {
+				return module.l;
+			}
+		});
+		Object.defineProperty(module, "id", {
+			enumerable: true,
+			get: function get() {
+				return module.i;
+			}
+		});
+		module.webpackPolyfill = 1;
+	}
+	return module;
 };
 
 /***/ })
