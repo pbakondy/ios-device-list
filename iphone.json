@@ -666,7 +666,7 @@
   },
   {
     "Generation": "iPhone 6",
-    "ANumber": [ "A1549", "A1586" ],
+    "ANumber": [ "A1549", "A1586", "A1589" ],
     "Bootrom": [ "Bootrom 1992.0.0.1.19" ],
     "FCCID": "BCG‑E2816A",
     "InternalName": "N61AP",
@@ -676,6 +676,11 @@
         "Color": "Gold",
         "Storage": "16 GB",
         "Model": [ "MG3D2", "MG492", "MG4Q2", "MG562", "MG5Y2", "MG6C2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ ]
       },
       {
         "Color": "Gold",
@@ -709,6 +714,11 @@
       },
       {
         "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Space Gray",
         "Storage": "64 GB",
         "Model": [ "MG3H2", "MG4F2", "MG4W2", "MG5A2", "MG6G2", "MG632" ]
       },
@@ -721,7 +731,7 @@
   },
   {
     "Generation": "iPhone 6 Plus",
-    "ANumber": [ "A1522", "A1524" ],
+    "ANumber": [ "A1522", "A1524", "A1593" ],
     "Bootrom": [ "Bootrom 1992.0.0.1.19" ],
     "FCCID": "BCG‑E2817A",
     "InternalName": "N56AP",
@@ -1245,7 +1255,7 @@
       {
         "Color": "Jet Black",
         "Storage": "128 GB",
-        "Model": [ "MN572", "MN5L2" ]
+        "Model": [ "MN572", "MN5L2", "MN4V2" ]
       },
       {
         "Color": "Jet Black",
