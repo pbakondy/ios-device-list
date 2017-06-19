@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const jsdom = require('jsdom');
+const { JSDOM } = jsdom;
 
 const MODELS_URL = 'https://www.theiphonewiki.com/wiki/Models';
 const MODELS_FILE = path.join(__dirname, 'ios-models.html');
@@ -24,23 +25,20 @@ textarea{font-family:"Menlo","Andale Mono","Courier Prime","Courier",monospace}b
 const HTML_END = '</body></html>';
 
 function fetch () {
-  jsdom.env({
-    url: MODELS_URL,
-    done: function (err, window) {
-      if (err) throw err;
-      var content = window.document.getElementById('content');
-      if (!content) {
-        console.log('Content is empty, stopped');
-        return;
-      }
-      removeComments(content);
-      var h = content.outerHTML;
-      fs.writeFile(MODELS_FILE, HTML_START + h + HTML_END, err => {
-        if (err) throw err;
-        console.log('Content saved to ' + MODELS_FILE);
-      });
+  JSDOM.fromURL(MODELS_URL).then(dom => {
+    var content = dom.window.document.getElementById('content');
+    if (!content) {
+      console.log('Content is empty, stopped');
+      return;
     }
-  });
+    removeComments(content);
+    var h = content.outerHTML;
+    fs.writeFile(MODELS_FILE, HTML_START + h + HTML_END, err => {
+      if (err) throw err;
+      console.log('Content saved to ' + MODELS_FILE);
+    });
+  })
+  .catch(err => console.log(err));
 }
 
 function removeComments(el) {
