@@ -24,6 +24,12 @@
     "FCCID": "BCGA1625"
   },
   {
+    "name": "Apple TV 4K",
+    "model": "AppleTV6,2",
+    "ANumber": "A1842",
+    "FCCID": "BCGA1842"
+  },
+  {
     "name": "Apple Watch (1st generation)",
     "model": "Watch1,1",
     "ANumber": "A1553",
@@ -67,6 +73,38 @@
       "A1817"
     ],
     "FCCID": "BCG‑E3105"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,1",
+    "ANumber": [
+      "A1860",
+      "A1889",
+      "A1890"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,2",
+    "ANumber": [
+      "A1861",
+      "A1891",
+      "A1892"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,3",
+    "ANumber": [
+      "A1858"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,4",
+    "ANumber": [
+      "A1859"
+    ]
   },
   {
     "name": "iPad",
@@ -213,25 +251,28 @@
     "name": "iPad Pro (12.9-inch, 2nd generation)",
     "model": "iPad7,1",
     "ANumber": "A1670",
-    "FCCID": "Unknown"
+    "FCCID": "BCGA1670"
   },
   {
     "name": "iPad Pro (12.9-inch, 2nd generation)",
     "model": "iPad7,2",
-    "ANumber": "A1821",
-    "FCCID": "Unknown"
+    "ANumber": [
+      "A1671",
+      "A1821"
+    ],
+    "FCCID": "BCGA1671"
   },
   {
     "name": "iPad Pro (10.5-inch)",
     "model": "iPad7,3",
     "ANumber": "A1701",
-    "FCCID": "Unknown"
+    "FCCID": "BCGA1701"
   },
   {
     "name": "iPad Pro (10.5-inch)",
     "model": "iPad7,4",
     "ANumber": "A1709",
-    "FCCID": "Unknown"
+    "FCCID": "BCGA1709"
   },
   {
     "name": "iPad mini",
@@ -512,6 +553,67 @@
     "model": "iPhone9,4",
     "ANumber": "A1784",
     "FCCID": "BCG‑E3092A"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,1",
+    "ANumber": [
+      "A1863",
+      "A1906",
+      "A1907"
+    ],
+    "FCCID": [
+      "BCG-E3159A",
+      "BCG-E3171A"
+    ]
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,4",
+    "ANumber": [
+      "A1905"
+    ],
+    "FCCID": [
+      "BCG-E3172A"
+    ]
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "model": "iPhone10,2",
+    "ANumber": [
+      "A1864",
+      "A1898",
+      "A1899"
+    ],
+    "FCCID": [
+      "BCG-E3160A",
+      "BCG-E3173A"
+    ]
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "model": "iPhone10,5",
+    "ANumber": [
+      "A1897"
+    ],
+    "FCCID": [
+      "BCG-E3174A"
+    ]
+  },
+  {
+    "name": "iPhone X",
+    "model": "iPhone10,3",
+    "ANumber": [
+      "A1865",
+      "A1902"
+    ]
+  },
+  {
+    "name": "iPhone X",
+    "model": "iPhone10,6",
+    "ANumber": [
+      "A1901"
+    ]
   },
   {
     "name": "iPod touch",

@@ -3156,7 +3156,8 @@ module.exports = [
 				"Storage": "32 GB",
 				"Model": [
 					"MGY52",
-					"ML4W2"
+					"ML4W2",
+					"MR912"
 				]
 			},
 			{
@@ -3164,6 +3165,29 @@ module.exports = [
 				"Storage": "64 GB",
 				"Model": [
 					"MLNC2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "Apple TV 4K",
+		"ANumber": "A1842",
+		"FCCID": "BCGA1842",
+		"InternalName": "J105aAP",
+		"Identifier": "AppleTV6,2",
+		"Models": [
+			{
+				"Color": "Black",
+				"Storage": "32 GB",
+				"Model": [
+					"MQD22"
+				]
+			},
+			{
+				"Color": "Black",
+				"Storage": "64 GB",
+				"Model": [
+					"MP7P2"
 				]
 			}
 		]
@@ -3185,9 +3209,22 @@ module.exports = [
 		"Models": [
 			{
 				"CaseMaterial": "Aluminum",
+				"Color": "Gold",
+				"Size": "38mm",
+				"Model": []
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Rose Gold",
+				"Size": "38mm",
+				"Model": [
+					"MLCH2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
 				"Color": "Silver",
 				"Size": "38mm",
-				"Storage": "8 GB",
 				"Model": [
 					"MJ2T2",
 					"MJ2V2",
@@ -3197,65 +3234,48 @@ module.exports = [
 			},
 			{
 				"CaseMaterial": "Aluminum",
-				"Color": "Gold",
-				"Size": "38mm",
-				"Storage": "8 GB",
-				"Model": []
-			},
-			{
-				"CaseMaterial": "Aluminum",
-				"Color": "Rose Gold",
-				"Size": "38mm",
-				"Storage": "8 GB",
-				"Model": []
-			},
-			{
-				"CaseMaterial": "Aluminum",
 				"Color": "Space Gray",
 				"Size": "38mm",
-				"Storage": "8 GB",
 				"Model": [
 					"MJ2X2"
 				]
 			},
 			{
 				"CaseMaterial": "Stainless Steel",
-				"Color": "Stainless Steel",
+				"Color": "Silver",
 				"Size": "38mm",
-				"Storage": "8 GB",
 				"Model": [
-					"MJ302",
 					"MJ2Y2",
+					"MJ3A2",
+					"MJ3E2",
+					"MJ302",
 					"MJ312",
 					"MJ322",
-					"MJYK2",
 					"MJ332",
 					"MJ362",
-					"MJ3A2",
-					"MJ3E2"
+					"MJYK2"
 				]
 			},
 			{
 				"CaseMaterial": "Stainless Steel",
 				"Color": "Space Black",
 				"Size": "38mm",
-				"Storage": "8 GB",
 				"Model": [
 					"MJ3F2"
 				]
 			},
 			{
 				"CaseMaterial": "Gold",
-				"Color": "Yellow Gold",
+				"Color": "Rose Gold",
 				"Size": "38mm",
-				"Storage": "8 GB",
-				"Model": []
+				"Model": [
+					"MJ3L2"
+				]
 			},
 			{
 				"CaseMaterial": "Gold",
-				"Color": "Rose Gold",
+				"Color": "Yellow Gold",
 				"Size": "38mm",
-				"Storage": "8 GB",
 				"Model": []
 			}
 		]
@@ -3273,9 +3293,24 @@ module.exports = [
 		"Models": [
 			{
 				"CaseMaterial": "Aluminum",
+				"Color": "Gold",
+				"Size": "42mm",
+				"Model": [
+					"MLC72"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Rose Gold",
+				"Size": "42mm",
+				"Model": [
+					"MLC62"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
 				"Color": "Silver",
 				"Size": "42mm",
-				"Storage": "8 GB",
 				"Model": [
 					"MJ3N2",
 					"MJ3Q2",
@@ -3285,53 +3320,32 @@ module.exports = [
 			},
 			{
 				"CaseMaterial": "Aluminum",
-				"Color": "Gold",
-				"Size": "42mm",
-				"Storage": "8 GB",
-				"Model": [
-					"MLC72"
-				]
-			},
-			{
-				"CaseMaterial": "Aluminum",
-				"Color": "Rose Gold",
-				"Size": "42mm",
-				"Storage": "8 GB",
-				"Model": [
-					"MLC62"
-				]
-			},
-			{
-				"CaseMaterial": "Aluminum",
 				"Color": "Space Gray",
 				"Size": "42mm",
-				"Storage": "8 GB",
 				"Model": [
 					"MJ3T2"
 				]
 			},
 			{
 				"CaseMaterial": "Stainless Steel",
-				"Color": "Stainless Steel",
+				"Color": "Silver",
 				"Size": "42mm",
-				"Storage": "8 GB",
 				"Model": [
-					"MJ3V2",
 					"MJ3U2",
+					"MJ3V2",
 					"MJ3X2",
 					"MJ3Y2",
-					"MJYN2",
-					"MJ452",
-					"MJ432",
 					"MJ402",
-					"MJ472"
+					"MJ432",
+					"MJ452",
+					"MJ472",
+					"MJYN2"
 				]
 			},
 			{
 				"CaseMaterial": "Stainless Steel",
 				"Color": "Space Black",
 				"Size": "42mm",
-				"Storage": "8 GB",
 				"Model": [
 					"MJ482",
 					"MLC82"
@@ -3339,17 +3353,17 @@ module.exports = [
 			},
 			{
 				"CaseMaterial": "Gold",
-				"Color": "Yellow Gold",
+				"Color": "Rose Gold",
 				"Size": "42mm",
-				"Storage": "8 GB",
 				"Model": []
 			},
 			{
 				"CaseMaterial": "Gold",
-				"Color": "Rose Gold",
+				"Color": "Yellow Gold",
 				"Size": "42mm",
-				"Storage": "8 GB",
-				"Model": []
+				"Model": [
+					"MKL62"
+				]
 			}
 		]
 	},
@@ -3361,14 +3375,6 @@ module.exports = [
 		"InternalName": "N27dAP",
 		"Identifier": "Watch2,6",
 		"Models": [
-			{
-				"CaseMaterial": "Aluminum",
-				"Color": "Silver",
-				"Size": "38mm",
-				"Model": [
-					"MNNG2"
-				]
-			},
 			{
 				"CaseMaterial": "Aluminum",
 				"Color": "Gold",
@@ -3383,6 +3389,14 @@ module.exports = [
 				"Size": "38mm",
 				"Model": [
 					"MNNH2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "38mm",
+				"Model": [
+					"MNNG2"
 				]
 			},
 			{
@@ -3405,14 +3419,6 @@ module.exports = [
 		"Models": [
 			{
 				"CaseMaterial": "Aluminum",
-				"Color": "Silver",
-				"Size": "42mm",
-				"Model": [
-					"MNNL2"
-				]
-			},
-			{
-				"CaseMaterial": "Aluminum",
 				"Color": "Gold",
 				"Size": "42mm",
 				"Model": [
@@ -3425,6 +3431,14 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MNNM2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "42mm",
+				"Model": [
+					"MNNL2"
 				]
 			},
 			{
@@ -3450,18 +3464,6 @@ module.exports = [
 		"Models": [
 			{
 				"CaseMaterial": "Aluminum",
-				"Color": "Silver",
-				"Size": "38mm",
-				"Model": [
-					"MNNQ2",
-					"MNNW2",
-					"MNNX2",
-					"MNYP2",
-					"MQ172"
-				]
-			},
-			{
-				"CaseMaterial": "Aluminum",
 				"Color": "Gold",
 				"Size": "38mm",
 				"Model": [
@@ -3477,6 +3479,18 @@ module.exports = [
 				"Model": [
 					"MNNY2",
 					"MNP02"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "38mm",
+				"Model": [
+					"MNNQ2",
+					"MNNW2",
+					"MNNX2",
+					"MNYP2",
+					"MQ172"
 				]
 			},
 			{
@@ -3544,18 +3558,6 @@ module.exports = [
 		"Models": [
 			{
 				"CaseMaterial": "Aluminum",
-				"Color": "Silver",
-				"Size": "42mm",
-				"Model": [
-					"MNNT2",
-					"MNPJ2",
-					"MNPK2",
-					"MNYQ2",
-					"MQ192"
-				]
-			},
-			{
-				"CaseMaterial": "Aluminum",
 				"Color": "Gold",
 				"Size": "42mm",
 				"Model": [
@@ -3572,6 +3574,18 @@ module.exports = [
 					"MNPL2",
 					"MNPM2",
 					"MQ142"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "42mm",
+				"Model": [
+					"MNNT2",
+					"MNPJ2",
+					"MNPK2",
+					"MNYQ2",
+					"MQ192"
 				]
 			},
 			{
@@ -3617,6 +3631,290 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MNPQ2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "Apple Watch Series 3",
+		"ANumber": [
+			"A1860",
+			"A1889",
+			"A1890"
+		],
+		"InternalName": "N111sAP",
+		"Identifier": "Watch3,1",
+		"Models": [
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Gold",
+				"Size": "38mm",
+				"Model": [
+					"MQJQ2",
+					"MQJU2",
+					"MQKH2",
+					"MQKL2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "38mm",
+				"Model": [
+					"MQJN2",
+					"MQJR2",
+					"MQKF2",
+					"MQKJ2",
+					"MQL52",
+					"MQL72",
+					"MQM72",
+					"MQM92"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Space Gray",
+				"Size": "38mm",
+				"Model": [
+					"MQJP2",
+					"MQJT2",
+					"MQKK2",
+					"MQKN2",
+					"MQL62",
+					"MQL82",
+					"MQM82",
+					"MQMA2",
+					"MR2W2",
+					"MR2Y2"
+				]
+			},
+			{
+				"CaseMaterial": " Stainless Steel",
+				"Color": "Silver",
+				"Size": "38mm",
+				"Model": [
+					"MQJV2",
+					"MQLJ2",
+					"MQLK2",
+					"MQLM2",
+					"MQLN2",
+					"MQLV2",
+					"MQML2",
+					"MQMM2",
+					"MQMP2",
+					"MQMQ2",
+					"MR1F2",
+					"MR1N2"
+				]
+			},
+			{
+				"CaseMaterial": " Stainless Steel",
+				"Color": "Space Black",
+				"Size": "38mm",
+				"Model": [
+					"MQJW2",
+					"MQLW2",
+					"MR1H2",
+					"MR1Q2"
+				]
+			},
+			{
+				"CaseMaterial": "Ceramic",
+				"Color": "White",
+				"Size": "38mm",
+				"Model": [
+					"MQJY2",
+					"MQM32"
+				]
+			},
+			{
+				"CaseMaterial": "Ceramic",
+				"Color": "Gray",
+				"Size": "38mm",
+				"Model": [
+					"MQK02",
+					"MQM42"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "Apple Watch Series 3",
+		"ANumber": [
+			"A1861",
+			"A1891",
+			"A1892"
+		],
+		"InternalName": "N111bAP",
+		"Identifier": "Watch3,2",
+		"Models": [
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Gold",
+				"Size": "42mm",
+				"Model": [
+					"MQK32",
+					"MQK72",
+					"MQKP2",
+					"MQKT2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "42mm",
+				"Model": [
+					"MQK12",
+					"MQK52",
+					"MQKM2",
+					"MQKQ2",
+					"MQLC2",
+					"MQLE2",
+					"MQME2",
+					"MQMG2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Space Gray",
+				"Size": "42mm",
+				"Model": [
+					"MQK22",
+					"MQK62",
+					"MQKN2",
+					"MQKR2",
+					"MQLD2",
+					"MQLF2",
+					"MQMF2",
+					"MQMH2",
+					"MR2X2",
+					"MR302"
+				]
+			},
+			{
+				"CaseMaterial": " Stainless Steel",
+				"Color": "Silver",
+				"Size": "42mm",
+				"Model": [
+					"MQK82",
+					"MQLP2",
+					"MQLQ2",
+					"MQLR2",
+					"MQLT2",
+					"MQLU2",
+					"MQLY2",
+					"MQMR2",
+					"MQMT2",
+					"MQMU2",
+					"MQMV2",
+					"MQMW2",
+					"MQX62",
+					"MQX72",
+					"MR1J2",
+					"MR1U2"
+				]
+			},
+			{
+				"CaseMaterial": " Stainless Steel",
+				"Color": "Space Black",
+				"Size": "42mm",
+				"Model": [
+					"MQK92",
+					"MQM02",
+					"MR1L2",
+					"MR1V2"
+				]
+			},
+			{
+				"CaseMaterial": "Ceramic",
+				"Color": "White",
+				"Size": "42mm",
+				"Model": [
+					"MQKD2",
+					"MQM52"
+				]
+			},
+			{
+				"CaseMaterial": "Ceramic",
+				"Color": "Gray",
+				"Size": "42mm",
+				"Model": [
+					"MQKE2",
+					"MQM62"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "Apple Watch Series 3",
+		"ANumber": [
+			"A1858"
+		],
+		"InternalName": "N121sAP",
+		"Identifier": "Watch3,3",
+		"Models": [
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Gold",
+				"Size": "38mm",
+				"Model": [
+					"MQKW2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "38mm",
+				"Model": [
+					"MQKU2",
+					"MQKX2"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Space Gray",
+				"Size": "38mm",
+				"Model": [
+					"MQKV2",
+					"MQKY2",
+					"MR352"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "Apple Watch Series 3",
+		"ANumber": [
+			"A1859"
+		],
+		"InternalName": "N121bAP",
+		"Identifier": "Watch3,4",
+		"Models": [
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Gold",
+				"Size": "42mm",
+				"Model": [
+					"MQL22"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Silver",
+				"Size": "42mm",
+				"Model": [
+					"MQL02",
+					"MQL32"
+				]
+			},
+			{
+				"CaseMaterial": "Aluminum",
+				"Color": "Space Gray",
+				"Size": "42mm",
+				"Model": [
+					"MQL12",
+					"MQL42",
+					"MR362"
 				]
 			}
 		]
@@ -5101,7 +5399,7 @@ module.exports = [
 		"Generation": "iPad Pro (12.9-inch, 2nd generation)",
 		"ANumber": "A1670",
 		"Bootrom": "Unknown",
-		"FCCID": "Unknown",
+		"FCCID": "BCGA1670",
 		"InternalName": "J120AP",
 		"Identifier": "iPad7,1",
 		"Models": [
@@ -5172,9 +5470,12 @@ module.exports = [
 	},
 	{
 		"Generation": "iPad Pro (12.9-inch, 2nd generation)",
-		"ANumber": "A1821",
+		"ANumber": [
+			"A1671",
+			"A1821"
+		],
 		"Bootrom": "Unknown",
-		"FCCID": "Unknown",
+		"FCCID": "BCGA1671",
 		"InternalName": "J121AP",
 		"Identifier": "iPad7,2",
 		"Models": [
@@ -5247,7 +5548,7 @@ module.exports = [
 		"Generation": "iPad Pro (10.5-inch)",
 		"ANumber": "A1701",
 		"Bootrom": "Unknown",
-		"FCCID": "Unknown",
+		"FCCID": "BCGA1701",
 		"InternalName": "J207AP",
 		"Identifier": "iPad7,3",
 		"Models": [
@@ -5341,7 +5642,7 @@ module.exports = [
 		"Generation": "iPad Pro (10.5-inch)",
 		"ANumber": "A1709",
 		"Bootrom": "Unknown",
-		"FCCID": "Unknown",
+		"FCCID": "BCGA1709",
 		"InternalName": "J208AP",
 		"Identifier": "iPad7,4",
 		"Models": [
@@ -7185,7 +7486,8 @@ module.exports = [
 					"ME305",
 					"ME323",
 					"ME332",
-					"ME341"
+					"ME341",
+					"MF797"
 				]
 			},
 			{
@@ -8829,6 +9131,341 @@ module.exports = [
 					"MN5C2",
 					"MN5N2"
 				]
+			}
+		]
+	},
+	{
+		"Generation": "iPhone 8",
+		"ANumber": [
+			"A1863",
+			"A1906",
+			"A1907"
+		],
+		"FCCID": [
+			"BCG-E3159A",
+			"BCG-E3171A"
+		],
+		"InternalName": "D20AP",
+		"Identifier": "iPhone10,1",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ6M2",
+					"MQ742",
+					"MQ772"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ7H2",
+					"MQ802",
+					"MQ832"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ6L2",
+					"MQ732",
+					"MQ762"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ7G2",
+					"MQ7Y2",
+					"MQ822"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ6K2",
+					"MQ722",
+					"MQ752"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ7F2",
+					"MQ7X2",
+					"MQ812"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPhone 8",
+		"ANumber": [
+			"A1905"
+		],
+		"FCCID": [
+			"BCG-E3172A"
+		],
+		"InternalName": "D201AP",
+		"Identifier": "iPhone10,4",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ6J2",
+					"MQ6X2",
+					"MQ712"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ7E2",
+					"MQ7T2",
+					"MQ7W2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ6H2",
+					"MQ6W2",
+					"MQ702"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ7D2",
+					"MQ7R2",
+					"MQ7V2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ6G2",
+					"MQ6V2",
+					"MQ6Y2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ7C2",
+					"MQ7Q2",
+					"MQ7U2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPhone 8 Plus",
+		"ANumber": [
+			"A1864",
+			"A1898",
+			"A1899"
+		],
+		"FCCID": [
+			"BCG-E3160A",
+			"BCG-E3173A"
+		],
+		"InternalName": "D21AP",
+		"Identifier": "iPhone10,2",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ8F2",
+					"MQ9F2",
+					"MQ982"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ8J2",
+					"MQ9C2",
+					"MQ9J2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ8E2",
+					"MQ9E2",
+					"MQ972"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ8H2",
+					"MQ9A2",
+					"MQ9H2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ8D2",
+					"MQ9D2",
+					"MQ962"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ8G2",
+					"MQ9G2",
+					"MQ992"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPhone 8 Plus",
+		"ANumber": [
+			"A1897"
+		],
+		"FCCID": [
+			"BCG-E3174A"
+		],
+		"InternalName": "D211AP",
+		"Identifier": "iPhone10,5",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ8N2",
+					"MQ8V2",
+					"MQ922"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ8R2",
+					"MQ8Y2",
+					"MQ952"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ8M2",
+					"MQ8U2",
+					"MQ912"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ8Q2",
+					"MQ8X2",
+					"MQ942"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": [
+					"MQ8L2",
+					"MQ8T2",
+					"MQ902"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": [
+					"MQ8P2",
+					"MQ8W2",
+					"MQ932"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPhone X",
+		"ANumber": [
+			"A1865",
+			"A1902"
+		],
+		"InternalName": "D22AP",
+		"Identifier": "iPhone10,3",
+		"Models": [
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": []
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": []
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": []
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": []
+			}
+		]
+	},
+	{
+		"Generation": "iPhone X",
+		"ANumber": [
+			"A1901"
+		],
+		"InternalName": "D221AP",
+		"Identifier": "iPhone10,6",
+		"Models": [
+			{
+				"Color": "Silver",
+				"Storage": "64 GB",
+				"Model": []
+			},
+			{
+				"Color": "Silver",
+				"Storage": "256 GB",
+				"Model": []
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "64 GB",
+				"Model": []
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "256 GB",
+				"Model": []
 			}
 		]
 	}

@@ -505,7 +505,7 @@
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "ME296", "ME305", "ME323", "ME332", "ME341" ]
+        "Model": [ "ME296", "ME305", "ME323", "ME332", "ME341", "MF797" ]
       },
       {
         "Color": "Space Gray",
@@ -1301,6 +1301,218 @@
         "Color": "Silver",
         "Storage": "256 GB",
         "Model": [ "MN4X2", "MN502", "MN5C2", "MN5N2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 8",
+    "ANumber": [ "A1863", "A1906", "A1907" ],
+    "FCCID": [ "BCG-E3159A", "BCG-E3171A" ],
+    "InternalName": "D20AP",
+    "Identifier": "iPhone10,1",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MQ6M2", "MQ742", "MQ772" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MQ7H2", "MQ802", "MQ832" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MQ6L2", "MQ732", "MQ762" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MQ7G2", "MQ7Y2", "MQ822" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MQ6K2", "MQ722", "MQ752" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MQ7F2", "MQ7X2", "MQ812" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 8",
+    "ANumber": [ "A1905" ],
+    "FCCID": [ "BCG-E3172A" ],
+    "InternalName": "D201AP",
+    "Identifier": "iPhone10,4",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MQ6J2", "MQ6X2", "MQ712" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MQ7E2", "MQ7T2", "MQ7W2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MQ6H2", "MQ6W2", "MQ702" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MQ7D2", "MQ7R2", "MQ7V2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MQ6G2", "MQ6V2", "MQ6Y2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MQ7C2", "MQ7Q2", "MQ7U2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 8 Plus",
+    "ANumber": [ "A1864", "A1898", "A1899" ],
+    "FCCID": [ "BCG-E3160A", "BCG-E3173A" ],
+    "InternalName": "D21AP",
+    "Identifier": "iPhone10,2",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MQ8F2", "MQ9F2", "MQ982" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MQ8J2", "MQ9C2", "MQ9J2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MQ8E2", "MQ9E2", "MQ972" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MQ8H2", "MQ9A2", "MQ9H2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MQ8D2", "MQ9D2", "MQ962" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MQ8G2", "MQ9G2", "MQ992" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 8 Plus",
+    "ANumber": [ "A1897" ],
+    "FCCID": [ "BCG-E3174A" ],
+    "InternalName": "D211AP",
+    "Identifier": "iPhone10,5",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MQ8N2", "MQ8V2", "MQ922" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MQ8R2", "MQ8Y2", "MQ952" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MQ8M2", "MQ8U2", "MQ912" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MQ8Q2", "MQ8X2", "MQ942" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MQ8L2", "MQ8T2", "MQ902" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MQ8P2", "MQ8W2", "MQ932" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone X",
+    "ANumber": [ "A1865", "A1902" ],
+    "InternalName": "D22AP",
+    "Identifier": "iPhone10,3",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone X",
+    "ANumber": [ "A1901" ],
+    "InternalName": "D221AP",
+    "Identifier": "iPhone10,6",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ ]
       }
     ]
   }

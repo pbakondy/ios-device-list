@@ -55,12 +55,31 @@
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ "MGY52", "ML4W2" ]
+        "Model": [ "MGY52", "ML4W2", "MR912" ]
       },
       {
         "Color": "Black",
         "Storage": "64 GB",
         "Model": [ "MLNC2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple TV 4K",
+    "ANumber": "A1842",
+    "FCCID": "BCGA1842",
+    "InternalName": "J105aAP",
+    "Identifier": "AppleTV6,2",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MQD22" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MP7P2" ]
       }
     ]
   }
