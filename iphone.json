@@ -1385,6 +1385,7 @@
   {
     "Generation": "iPhone 8 Plus",
     "ANumber": [ "A1864", "A1898", "A1899" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3160A", "BCG-E3173A" ],
     "InternalName": "D21AP",
     "Identifier": "iPhone10,2",
@@ -1424,6 +1425,7 @@
   {
     "Generation": "iPhone 8 Plus",
     "ANumber": [ "A1897" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3174A" ],
     "InternalName": "D211AP",
     "Identifier": "iPhone10,5",
