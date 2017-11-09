@@ -279,7 +279,7 @@
     "ANumber": [ "A1429", "A1442" ],
     "Bootrom": [ "Bootrom 1145.3" ],
     "FCCID": "BCG‑E2599A",
-    "InternalName": "N41AP",
+    "InternalName": "N42AP",
     "Identifier": "iPhone5,2",
     "Models": [
       {
@@ -1307,6 +1307,7 @@
   {
     "Generation": "iPhone 8",
     "ANumber": [ "A1863", "A1906", "A1907" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3159A", "BCG-E3171A" ],
     "InternalName": "D20AP",
     "Identifier": "iPhone10,1",
@@ -1465,56 +1466,58 @@
   {
     "Generation": "iPhone X",
     "ANumber": [ "A1865", "A1902" ],
+    "FCCID": [ "BCG-E3161A" ],
     "InternalName": "D22AP",
     "Identifier": "iPhone10,3",
     "Models": [
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ ]
+        "Model": [ "MQCT2", "MQCL2" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MQCW2", "MQCP2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ ]
+        "Model": [ "MQCR2", "MQCK2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MQCV2", "MQCN2" ]
       }
     ]
   },
   {
     "Generation": "iPhone X",
     "ANumber": [ "A1901" ],
+    "FCCID": [ "BCG-E3175A" ],
     "InternalName": "D221AP",
     "Identifier": "iPhone10,6",
     "Models": [
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ ]
+        "Model": [ "MQAK2", "MQAR2", "MQAD2" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MQAN2", "MQAV2", "MQAG2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ ]
+        "Model": [ "MQAJ2", "MQAQ2", "MQAC2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "256 GB",
-        "Model": [ ]
+        "Model": [ "MQAM2", "MQAU2", "MQAF2" ]
       }
     ]
   }

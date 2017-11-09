@@ -11,6 +11,7 @@ Sources:
 - https://en.wikipedia.org/wiki/List_of_iOS_devices
 - https://www.theiphonewiki.com/wiki/Models
 - https://developer.apple.com/reference/uikit/uidevice
+- https://support.apple.com/en-ph/HT201296
 
 ## Install
 
