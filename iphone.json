@@ -1473,22 +1473,22 @@
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "MQCT2", "MQCL2" ]
+        "Model": [ "MQCT2", "MQCL2", "MQAY2", "MQA62" ]
       },
       {
         "Color": "Silver",
         "Storage": "256 GB",
-        "Model": [ "MQCW2", "MQCP2" ]
+        "Model": [ "MQCW2", "MQCP2", "MQC22", "MQA92" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "MQCR2", "MQCK2" ]
+        "Model": [ "MQCR2", "MQCK2", "MQAX2", "MQA52" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "256 GB",
-        "Model": [ "MQCV2", "MQCN2" ]
+        "Model": [ "MQCV2", "MQCN2", "MQC12", "MQA82" ]
       }
     ]
   },

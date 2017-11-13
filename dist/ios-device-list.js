@@ -9434,7 +9434,9 @@ module.exports = [
 				"Storage": "64 GB",
 				"Model": [
 					"MQCT2",
-					"MQCL2"
+					"MQCL2",
+					"MQAY2",
+					"MQA62"
 				]
 			},
 			{
@@ -9442,7 +9444,9 @@ module.exports = [
 				"Storage": "256 GB",
 				"Model": [
 					"MQCW2",
-					"MQCP2"
+					"MQCP2",
+					"MQC22",
+					"MQA92"
 				]
 			},
 			{
@@ -9450,7 +9454,9 @@ module.exports = [
 				"Storage": "64 GB",
 				"Model": [
 					"MQCR2",
-					"MQCK2"
+					"MQCK2",
+					"MQAX2",
+					"MQA52"
 				]
 			},
 			{
@@ -9458,7 +9464,9 @@ module.exports = [
 				"Storage": "256 GB",
 				"Model": [
 					"MQCV2",
-					"MQCN2"
+					"MQCN2",
+					"MQC12",
+					"MQA82"
 				]
 			}
 		]
