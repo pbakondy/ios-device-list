@@ -5,7 +5,7 @@
 Searchable collection of Apple devices.
 
 Parameters per device:
-Generation, "A" Number, Bootrom, Variant, FCC ID, Internal Name, Identifier, Case Material, Color, Storage, Model
+Generation, Model number ("A" Number), Bootrom, Variant, FCC ID, Internal Name, Identifier, Case Material, Color, Storage, Model
 
 Sources:
 - https://en.wikipedia.org/wiki/List_of_iOS_devices
