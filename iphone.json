@@ -1347,6 +1347,7 @@
   {
     "Generation": "iPhone 8",
     "ANumber": [ "A1905" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3172A" ],
     "InternalName": "D201AP",
     "Identifier": "iPhone10,4",
@@ -1466,6 +1467,7 @@
   {
     "Generation": "iPhone X",
     "ANumber": [ "A1865", "A1902" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3161A" ],
     "InternalName": "D22AP",
     "Identifier": "iPhone10,3",
@@ -1495,6 +1497,7 @@
   {
     "Generation": "iPhone X",
     "ANumber": [ "A1901" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3175A" ],
     "InternalName": "D221AP",
     "Identifier": "iPhone10,6",

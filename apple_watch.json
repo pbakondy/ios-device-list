@@ -290,6 +290,8 @@
   {
     "Generation": "Apple Watch Series 3",
     "ANumber": [ "A1860", "A1889", "A1890" ],
+    "Bootrom": "Bootrom 2651.0.0.3.3",
+    "FCCID": [ "BCG-A1860", "BCG-A1889", "BCG-A1890" ],
     "InternalName": "N111sAP",
     "Identifier": "Watch3,1",
     "Models": [
@@ -340,6 +342,8 @@
   {
     "Generation": "Apple Watch Series 3",
     "ANumber": [ "A1861", "A1891", "A1892" ],
+    "Bootrom": "Bootrom 2651.0.0.3.3",
+    "FCCID": [ "BCG-A1861", "BCG-A1891", "BCG-A1892" ],
     "InternalName": "N111bAP",
     "Identifier": "Watch3,2",
     "Models": [
@@ -390,6 +394,8 @@
   {
     "Generation": "Apple Watch Series 3",
     "ANumber": [ "A1858" ],
+    "Bootrom": "Bootrom 2651.0.0.3.3",
+    "FCCID": [ "BCG-A1858" ],
     "InternalName": "N121sAP",
     "Identifier": "Watch3,3",
     "Models": [
@@ -416,6 +422,8 @@
   {
     "Generation": "Apple Watch Series 3",
     "ANumber": [ "A1859" ],
+    "Bootrom": "Bootrom 2651.0.0.3.3",
+    "FCCID": [ "BCG-A1859" ],
     "InternalName": "N121bAP",
     "Identifier": "Watch3,4",
     "Models": [

@@ -3172,6 +3172,7 @@ module.exports = [
 	{
 		"Generation": "Apple TV 4K",
 		"ANumber": "A1842",
+		"Bootrom": "Bootrom 3135.0.0.2.3",
 		"FCCID": "BCGA1842",
 		"InternalName": "J105aAP",
 		"Identifier": "AppleTV6,2",
@@ -3642,6 +3643,12 @@ module.exports = [
 			"A1889",
 			"A1890"
 		],
+		"Bootrom": "Bootrom 2651.0.0.3.3",
+		"FCCID": [
+			"BCG-A1860",
+			"BCG-A1889",
+			"BCG-A1890"
+		],
 		"InternalName": "N111sAP",
 		"Identifier": "Watch3,1",
 		"Models": [
@@ -3744,6 +3751,12 @@ module.exports = [
 			"A1861",
 			"A1891",
 			"A1892"
+		],
+		"Bootrom": "Bootrom 2651.0.0.3.3",
+		"FCCID": [
+			"BCG-A1861",
+			"BCG-A1891",
+			"BCG-A1892"
 		],
 		"InternalName": "N111bAP",
 		"Identifier": "Watch3,2",
@@ -3850,6 +3863,10 @@ module.exports = [
 		"ANumber": [
 			"A1858"
 		],
+		"Bootrom": "Bootrom 2651.0.0.3.3",
+		"FCCID": [
+			"BCG-A1858"
+		],
 		"InternalName": "N121sAP",
 		"Identifier": "Watch3,3",
 		"Models": [
@@ -3886,6 +3903,10 @@ module.exports = [
 		"Generation": "Apple Watch Series 3",
 		"ANumber": [
 			"A1859"
+		],
+		"Bootrom": "Bootrom 2651.0.0.3.3",
+		"FCCID": [
+			"BCG-A1859"
 		],
 		"InternalName": "N121bAP",
 		"Identifier": "Watch3,4",
@@ -5398,7 +5419,7 @@ module.exports = [
 	{
 		"Generation": "iPad Pro (12.9-inch, 2nd generation)",
 		"ANumber": "A1670",
-		"Bootrom": "Unknown",
+		"Bootrom": "Bootrom 3135.0.0.2.3",
 		"FCCID": "BCGA1670",
 		"InternalName": "J120AP",
 		"Identifier": "iPad7,1",
@@ -5474,7 +5495,7 @@ module.exports = [
 			"A1671",
 			"A1821"
 		],
-		"Bootrom": "Unknown",
+		"Bootrom": "Bootrom 3135.0.0.2.3",
 		"FCCID": "BCGA1671",
 		"InternalName": "J121AP",
 		"Identifier": "iPad7,2",
@@ -5547,7 +5568,7 @@ module.exports = [
 	{
 		"Generation": "iPad Pro (10.5-inch)",
 		"ANumber": "A1701",
-		"Bootrom": "Unknown",
+		"Bootrom": "Bootrom 3135.0.0.2.3",
 		"FCCID": "BCGA1701",
 		"InternalName": "J207AP",
 		"Identifier": "iPad7,3",
@@ -5641,7 +5662,7 @@ module.exports = [
 	{
 		"Generation": "iPad Pro (10.5-inch)",
 		"ANumber": "A1709",
-		"Bootrom": "Unknown",
+		"Bootrom": "Bootrom 3135.0.0.2.3",
 		"FCCID": "BCGA1709",
 		"InternalName": "J208AP",
 		"Identifier": "iPad7,4",
@@ -9212,6 +9233,9 @@ module.exports = [
 		"ANumber": [
 			"A1905"
 		],
+		"Bootrom": [
+			"Bootrom 3332.0.0.1.23"
+		],
 		"FCCID": [
 			"BCG-E3172A"
 		],
@@ -9423,6 +9447,9 @@ module.exports = [
 			"A1865",
 			"A1902"
 		],
+		"Bootrom": [
+			"Bootrom 3332.0.0.1.23"
+		],
 		"FCCID": [
 			"BCG-E3161A"
 		],
@@ -9475,6 +9502,9 @@ module.exports = [
 		"Generation": "iPhone X",
 		"ANumber": [
 			"A1901"
+		],
+		"Bootrom": [
+			"Bootrom 3332.0.0.1.23"
 		],
 		"FCCID": [
 			"BCG-E3175A"

@@ -67,6 +67,7 @@
   {
     "Generation": "Apple TV 4K",
     "ANumber": "A1842",
+    "Bootrom": "Bootrom 3135.0.0.2.3",
     "FCCID": "BCGA1842",
     "InternalName": "J105aAP",
     "Identifier": "AppleTV6,2",

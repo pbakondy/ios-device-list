@@ -1067,7 +1067,7 @@
   {
     "Generation": "iPad Pro (12.9-inch, 2nd generation)",
     "ANumber": "A1670",
-    "Bootrom": "Unknown",
+    "Bootrom": "Bootrom 3135.0.0.2.3",
     "FCCID": "BCGA1670",
     "InternalName": "J120AP",
     "Identifier": "iPad7,1",
@@ -1122,7 +1122,7 @@
   {
     "Generation": "iPad Pro (12.9-inch, 2nd generation)",
     "ANumber": [ "A1671", "A1821" ],
-    "Bootrom": "Unknown",
+    "Bootrom": "Bootrom 3135.0.0.2.3",
     "FCCID": "BCGA1671",
     "InternalName": "J121AP",
     "Identifier": "iPad7,2",
@@ -1177,7 +1177,7 @@
   {
     "Generation": "iPad Pro (10.5-inch)",
     "ANumber": "A1701",
-    "Bootrom": "Unknown",
+    "Bootrom": "Bootrom 3135.0.0.2.3",
     "FCCID": "BCGA1701",
     "InternalName": "J207AP",
     "Identifier": "iPad7,3",
@@ -1247,7 +1247,7 @@
   {
     "Generation": "iPad Pro (10.5-inch)",
     "ANumber": "A1709",
-    "Bootrom": "Unknown",
+    "Bootrom": "Bootrom 3135.0.0.2.3",
     "FCCID": "BCGA1709",
     "InternalName": "J208AP",
     "Identifier": "iPad7,4",

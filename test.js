@@ -73,7 +73,7 @@ test('anumbers()', t => {
 test('fccids()', t => {
   t.is(typeof devices.fccids, 'function');
   t.truthy(Array.isArray(devices.fccids()));
-  t.is(devices.fccids().length, 90);
+  t.is(devices.fccids().length, 97);
   t.is(devices.fccids('iphone').length, 35);
   t.throws(function() { devices.fccids('invalidType') });
 });
