@@ -1,0 +1,374 @@
+[
+  {
+    "name": "AirPods",
+    "model": "AirPods1,1"
+  },
+  {
+    "name": "Apple TV (2nd generation)",
+    "model": "AppleTV2,1"
+  },
+  {
+    "name": "Apple TV (3rd generation)",
+    "model": "AppleTV3,1"
+  },
+  {
+    "name": "Apple TV (3rd generation)",
+    "model": "AppleTV3,2"
+  },
+  {
+    "name": "Apple TV (4th generation)",
+    "model": "AppleTV5,3"
+  },
+  {
+    "name": "Apple TV 4K",
+    "model": "AppleTV6,2"
+  },
+  {
+    "name": "Apple Watch (1st generation)",
+    "model": "Watch1,1"
+  },
+  {
+    "name": "Apple Watch (1st generation)",
+    "model": "Watch1,2"
+  },
+  {
+    "name": "Apple Watch Series 1",
+    "model": "Watch2,6"
+  },
+  {
+    "name": "Apple Watch Series 1",
+    "model": "Watch2,7"
+  },
+  {
+    "name": "Apple Watch Series 2",
+    "model": "Watch2,3"
+  },
+  {
+    "name": "Apple Watch Series 2",
+    "model": "Watch2,4"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,1"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,2"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,3"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,4"
+  },
+  {
+    "name": "HomePod",
+    "model": "AudioAccessory1,1"
+  },
+  {
+    "name": "iPad",
+    "model": "iPad1,1"
+  },
+  {
+    "name": "iPad",
+    "model": "iPad1,1"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,1"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,2"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,3"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,4"
+  },
+  {
+    "name": "iPad (3rd generation)",
+    "model": "iPad3,1"
+  },
+  {
+    "name": "iPad (3rd generation)",
+    "model": "iPad3,2"
+  },
+  {
+    "name": "iPad (3rd generation)",
+    "model": "iPad3,3"
+  },
+  {
+    "name": "iPad (4th generation)",
+    "model": "iPad3,4"
+  },
+  {
+    "name": "iPad (4th generation)",
+    "model": "iPad3,5"
+  },
+  {
+    "name": "iPad (4th generation)",
+    "model": "iPad3,6"
+  },
+  {
+    "name": "iPad Air",
+    "model": "iPad4,1"
+  },
+  {
+    "name": "iPad Air",
+    "model": "iPad4,2"
+  },
+  {
+    "name": "iPad Air",
+    "model": "iPad4,3"
+  },
+  {
+    "name": "iPad Air 2",
+    "model": "iPad5,3"
+  },
+  {
+    "name": "iPad Air 2",
+    "model": "iPad5,4"
+  },
+  {
+    "name": "iPad Pro (12.9-inch)",
+    "model": "iPad6,7"
+  },
+  {
+    "name": "iPad Pro (12.9-inch)",
+    "model": "iPad6,8"
+  },
+  {
+    "name": "iPad Pro (9.7-inch)",
+    "model": "iPad6,3"
+  },
+  {
+    "name": "iPad Pro (9.7-inch)",
+    "model": "iPad6,4"
+  },
+  {
+    "name": "iPad (5th generation)",
+    "model": "iPad6,11"
+  },
+  {
+    "name": "iPad (5th generation)",
+    "model": "iPad6,12"
+  },
+  {
+    "name": "iPad Pro (12.9-inch, 2nd generation)",
+    "model": "iPad7,1"
+  },
+  {
+    "name": "iPad Pro (12.9-inch, 2nd generation)",
+    "model": "iPad7,2"
+  },
+  {
+    "name": "iPad Pro (10.5-inch)",
+    "model": "iPad7,3"
+  },
+  {
+    "name": "iPad Pro (10.5-inch)",
+    "model": "iPad7,4"
+  },
+  {
+    "name": "iPad (6th generation)",
+    "model": "iPad7,5"
+  },
+  {
+    "name": "iPad (6th generation)",
+    "model": "iPad7,6"
+  },
+  {
+    "name": "iPad mini",
+    "model": "iPad2,5"
+  },
+  {
+    "name": "iPad mini",
+    "model": "iPad2,6"
+  },
+  {
+    "name": "iPad mini",
+    "model": "iPad2,7"
+  },
+  {
+    "name": "iPad mini 2",
+    "model": "iPad4,4"
+  },
+  {
+    "name": "iPad mini 2",
+    "model": "iPad4,5"
+  },
+  {
+    "name": "iPad mini 2",
+    "model": "iPad4,6"
+  },
+  {
+    "name": "iPad mini 3",
+    "model": "iPad4,7"
+  },
+  {
+    "name": "iPad mini 3",
+    "model": "iPad4,8"
+  },
+  {
+    "name": "iPad mini 3",
+    "model": "iPad4,9"
+  },
+  {
+    "name": "iPad mini 4",
+    "model": "iPad5,1"
+  },
+  {
+    "name": "iPad mini 4",
+    "model": "iPad5,2"
+  },
+  {
+    "name": "iPhone",
+    "model": "iPhone1,1"
+  },
+  {
+    "name": "iPhone 3G",
+    "model": "iPhone1,2"
+  },
+  {
+    "name": "iPhone 3GS",
+    "model": "iPhone2,1"
+  },
+  {
+    "name": "iPhone 4",
+    "model": "iPhone3,1"
+  },
+  {
+    "name": "iPhone 4",
+    "model": "iPhone3,2"
+  },
+  {
+    "name": "iPhone 4",
+    "model": "iPhone3,3"
+  },
+  {
+    "name": "iPhone 4S",
+    "model": "iPhone4,1"
+  },
+  {
+    "name": "iPhone 5",
+    "model": "iPhone5,1"
+  },
+  {
+    "name": "iPhone 5",
+    "model": "iPhone5,2"
+  },
+  {
+    "name": "iPhone 5c",
+    "model": "iPhone5,3"
+  },
+  {
+    "name": "iPhone 5c",
+    "model": "iPhone5,4"
+  },
+  {
+    "name": "iPhone 5s",
+    "model": "iPhone6,1"
+  },
+  {
+    "name": "iPhone 5s",
+    "model": "iPhone6,2"
+  },
+  {
+    "name": "iPhone SE",
+    "model": "iPhone8,4"
+  },
+  {
+    "name": "iPhone 6",
+    "model": "iPhone7,2"
+  },
+  {
+    "name": "iPhone 6 Plus",
+    "model": "iPhone7,1"
+  },
+  {
+    "name": "iPhone 6s",
+    "model": "iPhone8,1"
+  },
+  {
+    "name": "iPhone 6s Plus",
+    "model": "iPhone8,2"
+  },
+  {
+    "name": "iPhone 7",
+    "model": "iPhone9,1"
+  },
+  {
+    "name": "iPhone 7",
+    "model": "iPhone9,3"
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "model": "iPhone9,2"
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "model": "iPhone9,4"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,1"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,4"
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "model": "iPhone10,2"
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "model": "iPhone10,5"
+  },
+  {
+    "name": "iPhone X",
+    "model": "iPhone10,3"
+  },
+  {
+    "name": "iPhone X",
+    "model": "iPhone10,6"
+  },
+  {
+    "name": "iPod touch",
+    "model": "iPod1,1"
+  },
+  {
+    "name": "iPod touch (2nd generation)",
+    "model": "iPod2,1"
+  },
+  {
+    "name": "iPod touch (2nd generation)",
+    "model": "iPod2,1"
+  },
+  {
+    "name": "iPod touch (3rd generation)",
+    "model": "iPod3,1"
+  },
+  {
+    "name": "iPod touch (4th generation)",
+    "model": "iPod4,1"
+  },
+  {
+    "name": "iPod touch (5th generation)",
+    "model": "iPod5,1"
+  },
+  {
+    "name": "iPod touch (5th generation)",
+    "model": "iPod5,1"
+  },
+  {
+    "name": "iPod touch (6th generation)",
+    "model": "iPod7,1"
+  }
+]

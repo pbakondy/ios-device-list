@@ -100,7 +100,7 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MC773" ]
+        "Model": [ "MC773", "MC957" ]
       },
       {
         "Color": "Black",
@@ -115,7 +115,7 @@
       {
         "Color": "White",
         "Storage": "16 GB",
-        "Model": [ "MC982" ]
+        "Model": [ "MC982", "MC992" ]
       },
       {
         "Color": "White",
@@ -180,7 +180,7 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MC954", "MC988" ]
+        "Model": [ "MC954", "MC960", "MC988" ]
       },
       {
         "Color": "White",
@@ -210,22 +210,22 @@
       {
         "Color": "Black",
         "Storage": "64 GB",
-        "Model": [ "MC707" ]
+        "Model": [ "MC707", "MD335" ]
       },
       {
         "Color": "White",
         "Storage": "16 GB",
-        "Model": [ "MD328" ]
+        "Model": [ "MD328", "MD336" ]
       },
       {
         "Color": "White",
         "Storage": "32 GB",
-        "Model": [ "MD329" ]
+        "Model": [ "MD329", "MD337" ]
       },
       {
         "Color": "White",
         "Storage": "64 GB",
-        "Model": [ "MD330" ]
+        "Model": [ "MD330", "MD338" ]
       }
     ]
   },
@@ -280,32 +280,32 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MD366" ]
+        "Model": [ "MD366", "MD404" ]
       },
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ "MD367" ]
+        "Model": [ "MD367", "MD405" ]
       },
       {
         "Color": "Black",
         "Storage": "64 GB",
-        "Model": [ "MD368" ]
+        "Model": [ "MD368", "MD406" ]
       },
       {
         "Color": "White",
         "Storage": "16 GB",
-        "Model": [ "MD369" ]
+        "Model": [ "MD369", "MD407" ]
       },
       {
         "Color": "White",
         "Storage": "32 GB",
-        "Model": [ "MD370" ]
+        "Model": [ "MD370", "MD408" ]
       },
       {
         "Color": "White",
         "Storage": "64 GB",
-        "Model": [ "MD371" ]
+        "Model": [ "MD371", "MD409" ]
       }
     ]
   },
@@ -370,7 +370,7 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MD516" ]
+        "Model": [ "MD516", "MG932" ]
       },
       {
         "Color": "Black",
@@ -390,7 +390,7 @@
       {
         "Color": "White",
         "Storage": "16 GB",
-        "Model": [ "MD519" ]
+        "Model": [ "MD519", "MG942" ]
       },
       {
         "Color": "White",
@@ -1311,6 +1311,82 @@
         "Color": "Space Gray",
         "Storage": "512 GB",
         "Model": [ "MPME2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (6th generation)",
+    "ANumber": "A1893",
+    "InternalName": "J71bAP",
+    "Identifier": "iPad7,5",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MRJN2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MRJP2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MR7G2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MR7K2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MR7F2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MR7J2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (6th generation)",
+    "ANumber": "A1954",
+    "InternalName": "J72bAP",
+    "Identifier": "iPad7,6",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MRM52" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MRM82" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MR702" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MR7D2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MR6Y2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MR7C2" ]
       }
     ]
   }

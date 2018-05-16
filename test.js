@@ -7,7 +7,7 @@ const devices = require('./index');
 test('deviceTypes()', t => {
   t.is(typeof devices.deviceTypes, 'function');
   t.truthy(Array.isArray(devices.deviceTypes()));
-  t.is(devices.deviceTypes().length, 6);
+  t.is(devices.deviceTypes().length, 8);
 });
 
 test('devices()', t => {
@@ -57,7 +57,7 @@ test('devices() device', t => {
 test('generations()', t => {
   t.is(typeof devices.generations, 'function');
   t.truthy(Array.isArray(devices.generations()));
-  t.is(devices.generations().length, 47);
+  t.is(devices.generations().length, 50);
   t.is(devices.generations('iphone').length, 18);
   t.throws(function() { devices.generations('invalidType') });
 });
@@ -65,7 +65,7 @@ test('generations()', t => {
 test('anumbers()', t => {
   t.is(typeof devices.anumbers, 'function');
   t.truthy(Array.isArray(devices.anumbers()));
-  t.is(devices.anumbers().length, 128);
+  t.is(devices.anumbers().length, 134);
   t.is(devices.anumbers('iphone').length, 60);
   t.throws(function() { devices.anumbers('invalidType') });
 });
@@ -73,7 +73,7 @@ test('anumbers()', t => {
 test('fccids()', t => {
   t.is(typeof devices.fccids, 'function');
   t.truthy(Array.isArray(devices.fccids()));
-  t.is(devices.fccids().length, 97);
+  t.is(devices.fccids().length, 101);
   t.is(devices.fccids('iphone').length, 35);
   t.throws(function() { devices.fccids('invalidType') });
 });
@@ -81,7 +81,7 @@ test('fccids()', t => {
 test('internalNames()', t => {
   t.is(typeof devices.internalNames, 'function');
   t.truthy(Array.isArray(devices.internalNames()));
-  t.is(devices.internalNames().length, 90);
+  t.is(devices.internalNames().length, 94);
   t.is(devices.internalNames('iphone').length, 31);
   t.throws(function() { devices.internalNames('invalidType') });
 });
@@ -89,7 +89,7 @@ test('internalNames()', t => {
 test('identifiers()', t => {
   t.is(typeof devices.identifiers, 'function');
   t.truthy(Array.isArray(devices.identifiers()));
-  t.is(devices.identifiers().length, 86);
+  t.is(devices.identifiers().length, 90);
   t.is(devices.identifiers('iphone').length, 28);
   t.throws(function() { devices.identifiers('invalidType') });
 });

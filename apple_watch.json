@@ -11,49 +11,49 @@
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "38mm",
-        "Model": [ ]
+        "Model": [ "MLCJ2", "MMEC2", "MMF52" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Rose Gold",
         "Size": "38mm",
-        "Model": [ "MLCH2" ]
+        "Model": [ "MLCH2", "MMF42" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "38mm",
-        "Model": [ "MJ2T2", "MJ2V2", "MJ2U2", "MJ2W2" ]
+        "Model": [ "MJ2T2", "MJ2V2", "MJ2U2", "MJ2W2", "MLCF2", "MLCG2", "MME92", "MMF02", "MMF12", "MMF22", "MMF32" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Gray",
         "Size": "38mm",
-        "Model": [ "MJ2X2" ]
+        "Model": [ "MJ2X2", "MMF62" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Silver",
         "Size": "38mm",
-        "Model": [ "MJ2Y2", "MJ3A2", "MJ3E2", "MJ302", "MJ312", "MJ322", "MJ332", "MJ362", "MJYK2" ]
+        "Model": [ "MJ2Y2", "MJ3A2", "MJ3E2", "MJ302", "MJ312", "MJ322", "MJ332", "MJ362", "MJYK2", "MLCL2", "MLCN2", "MLCP2", "MLC02", "MLC22", "MLC32", "MLE62", "MLLD2", "MMF82", "MMFD2", "MMF92", "MMFH2", "MMFK2" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Space Black",
         "Size": "38mm",
-        "Model": [ "MJ3F2" ]
+        "Model": [ "MJ3F2", "MLCK2" ]
       },
       {
         "CaseMaterial": "Gold",
         "Color": "Rose Gold",
         "Size": "38mm",
-        "Model": [ "MJ3L2" ]
+        "Model": [ "MJ3K2", "MJ3L2", "MJ8P2" ]
       },
       {
         "CaseMaterial": "Gold",
         "Color": "Yellow Gold",
         "Size": "38mm",
-        "Model": [ ]
+        "Model": [ "MJ3G2", "MKL52" ]
       }
     ]
   },
@@ -69,49 +69,49 @@
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "42mm",
-        "Model": [ "MLC72" ]
+        "Model": [ "MLC72", "MMEE2", "MMFQ2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Rose Gold",
         "Size": "42mm",
-        "Model": [ "MLC62" ]
+        "Model": [ "MLC62", "MMFP2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "42mm",
-        "Model": [ "MJ3N2", "MJ3Q2", "MJ3P2", "MJ3R2" ]
+        "Model": [ "MJ3N2", "MJ3Q2", "MJ3P2", "MJ3R2", "MLC42", "MLC52", "MMED2", "MMFE2", "MMFL2", "MMFM2", "MMFN2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Gray",
         "Size": "42mm",
-        "Model": [ "MJ3T2" ]
+        "Model": [ "MJ3T2", "MMFR2" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Silver",
         "Size": "42mm",
-        "Model": [ "MJ3U2", "MJ3V2", "MJ3X2", "MJ3Y2", "MJ402", "MJ432", "MJ452", "MJ472", "MJYN2" ]
+        "Model": [ "MJ3U2", "MJ3V2", "MJ3X2", "MJ3Y2", "MJ402", "MJ432", "MJ452", "MJ472", "MJYN2", "MLCC2", "MLCD2", "MLCE2", "MLC92", "MLFA2", "MLFC2", "MLLE2", "MMFU2", "MMFV2", "MMFX2", "MMG02" ]
       },
       {
         "CaseMaterial": "Stainless Steel",
         "Color": "Space Black",
         "Size": "42mm",
-        "Model": [ "MJ482", "MLC82" ]
+        "Model": [ "MJ482", "MLC82", "MMG22" ]
       },
       {
         "CaseMaterial": "Gold",
         "Color": "Rose Gold",
         "Size": "42mm",
-        "Model": [ ]
+        "Model": [ "MJ4A2", "MLE52" ]
       },
       {
         "CaseMaterial": "Gold",
         "Color": "Yellow Gold",
         "Size": "42mm",
-        "Model": [ "MKL62" ]
+        "Model": [ "MJ8Q2", "MJVT2", "MKL62", "MLFH2" ]
       }
     ]
   },
@@ -127,7 +127,7 @@
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "38mm",
-        "Model": [ "MNNJ2" ]
+        "Model": [ "MNNJ2", "MQ102" ]
       },
       {
         "CaseMaterial": "Aluminum",
@@ -161,13 +161,13 @@
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "42mm",
-        "Model": [ "MNNN2" ]
+        "Model": [ "MNNN2", "MQ122" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Rose Gold",
         "Size": "42mm",
-        "Model": [ "MNNM2" ]
+        "Model": [ "MNNM2", "MQ112" ]
       },
       {
         "CaseMaterial": "Aluminum",
@@ -299,43 +299,43 @@
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "38mm",
-        "Model": [ "MQJQ2", "MQJU2", "MQKH2", "MQKL2" ]
+        "Model": [ "MQJQ2", "MQJU2", "MQKH2", "MQKL2", "MQQG2", "MQQK2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "38mm",
-        "Model": [ "MQJN2", "MQJR2", "MQKF2", "MQKJ2", "MQL52", "MQL72", "MQM72", "MQM92" ]
+        "Model": [ "MQJN2", "MQJR2", "MQKF2", "MQKJ2", "MQL52", "MQL72", "MQM72", "MQM92", "MQQE2", "MQQH2", "MQR42", "MQR62" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Gray",
         "Size": "38mm",
-        "Model": [ "MQJP2", "MQJT2", "MQKK2", "MQKN2", "MQL62", "MQL82", "MQM82", "MQMA2", "MR2W2", "MR2Y2" ]
+        "Model": [ "MQJP2", "MQJT2", "MQKK2", "MQKN2", "MQL62", "MQL82", "MQM82", "MQMA2", "MR2W2", "MR2Y2", "MR332", "MQQF2", "MQQJ2", "MQR52", "MQR72" ]
       },
       {
         "CaseMaterial": " Stainless Steel",
         "Color": "Silver",
         "Size": "38mm",
-        "Model": [ "MQJV2", "MQLJ2", "MQLK2", "MQLM2", "MQLN2", "MQLV2", "MQML2", "MQMM2", "MQMP2", "MQMQ2", "MR1F2", "MR1N2" ]
+        "Model": [ "MQJV2", "MQLJ2", "MQLK2", "MQLM2", "MQLN2", "MQLV2", "MQML2", "MQMM2", "MQMP2", "MQMQ2", "MQQL2", "MQRA2", "MQRE2", "MQRF2", "MQX92", "MR1F2", "MR1N2", "MR212" ]
       },
       {
         "CaseMaterial": " Stainless Steel",
         "Color": "Space Black",
         "Size": "38mm",
-        "Model": [ "MQJW2", "MQLW2", "MR1H2", "MR1Q2" ]
+        "Model": [ "MQJW2", "MQLW2", "MQQM2", "MR1H2", "MR1Q2", "MR222" ]
       },
       {
         "CaseMaterial": "Ceramic",
         "Color": "White",
         "Size": "38mm",
-        "Model": [ "MQJY2", "MQM32" ]
+        "Model": [ "MQJY2", "MQM32", "MQQP2" ]
       },
       {
         "CaseMaterial": "Ceramic",
         "Color": "Gray",
         "Size": "38mm",
-        "Model": [ "MQK02", "MQM42" ]
+        "Model": [ "MQK02", "MQM42", "MQQQ2" ]
       }
     ]
   },
@@ -351,43 +351,43 @@
         "CaseMaterial": "Aluminum",
         "Color": "Gold",
         "Size": "42mm",
-        "Model": [ "MQK32", "MQK72", "MQKP2", "MQKT2" ]
+        "Model": [ "MQK32", "MQK72", "MQKP2", "MQKT2", "MQQU2", "MQQX2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "42mm",
-        "Model": [ "MQK12", "MQK52", "MQKM2", "MQKQ2", "MQLC2", "MQLE2", "MQME2", "MQMG2" ]
+        "Model": [ "MQK12", "MQK52", "MQKM2", "MQKQ2", "MQLC2", "MQLE2", "MQME2", "MQMG2", "MQQR2", "MQQV2", "MQRG2", "MQRJ2" ]
       },
       {
         "CaseMaterial": "Aluminum",
         "Color": "Space Gray",
         "Size": "42mm",
-        "Model": [ "MQK22", "MQK62", "MQKN2", "MQKR2", "MQLD2", "MQLF2", "MQMF2", "MQMH2", "MR2X2", "MR302" ]
+        "Model": [ "MQK22", "MQK62", "MQKN2", "MQKR2", "MQLD2", "MQLF2", "MQMF2", "MQMH2", "MQQT2", "MQQW2", "MR2X2", "MR302", "MR342", "MQRH2", "MQRK2" ]
       },
       {
         "CaseMaterial": " Stainless Steel",
         "Color": "Silver",
         "Size": "42mm",
-        "Model": [ "MQK82", "MQLP2", "MQLQ2", "MQLR2", "MQLT2", "MQLU2", "MQLY2", "MQMR2", "MQMT2", "MQMU2", "MQMV2", "MQMW2", "MQX62", "MQX72", "MR1J2", "MR1U2" ]
+        "Model": [ "MQK82", "MQLP2", "MQLQ2", "MQLR2", "MQLT2", "MQLU2", "MQLY2", "MQMR2", "MQMT2", "MQMU2", "MQMV2", "MQMW2", "MQQY2", "MQRN2", "MQRP2", "MQRQ2", "MQRR2", "MQRT2", "MQX62", "MQX72", "MQX92", "MR1J2", "MR1U2", "MR232" ]
       },
       {
         "CaseMaterial": " Stainless Steel",
         "Color": "Space Black",
         "Size": "42mm",
-        "Model": [ "MQK92", "MQM02", "MR1L2", "MR1V2" ]
+        "Model": [ "MQK92", "MQM02", "MQR02", "MR1L2", "MR1V2", "MR242" ]
       },
       {
         "CaseMaterial": "Ceramic",
         "Color": "White",
         "Size": "42mm",
-        "Model": [ "MQKD2", "MQM52" ]
+        "Model": [ "MQKD2", "MQM52", "MQR22" ]
       },
       {
         "CaseMaterial": "Ceramic",
         "Color": "Gray",
         "Size": "42mm",
-        "Model": [ "MQKE2", "MQM62" ]
+        "Model": [ "MQKE2", "MQM62", "MQR32" ]
       }
     ]
   },

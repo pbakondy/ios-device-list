@@ -1,5 +1,18 @@
 [
   {
+    "name": "AirPods",
+    "model": "AirPods1,1",
+    "ANumber": [
+      "A1523",
+      "A1722",
+      "A1602"
+    ],
+    "FCCID": [
+      "BCG-A1523",
+      "BCG-A1722"
+    ]
+  },
+  {
     "name": "Apple TV (2nd generation)",
     "model": "AppleTV2,1",
     "ANumber": "A1378",
@@ -121,6 +134,12 @@
     "FCCID": [
       "BCG-A1859"
     ]
+  },
+  {
+    "name": "HomePod",
+    "model": "AudioAccessory1,1",
+    "ANumber": "A1639",
+    "FCCID": "BCG-A1639"
   },
   {
     "name": "iPad",
@@ -289,6 +308,16 @@
     "model": "iPad7,4",
     "ANumber": "A1709",
     "FCCID": "BCGA1709"
+  },
+  {
+    "name": "iPad (6th generation)",
+    "model": "iPad7,5",
+    "ANumber": "A1893"
+  },
+  {
+    "name": "iPad (6th generation)",
+    "model": "iPad7,6",
+    "ANumber": "A1954"
   },
   {
     "name": "iPad mini",

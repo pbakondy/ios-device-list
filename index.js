@@ -5,8 +5,10 @@ const uniq = require('lodash.uniq');
 const cloneDeep = require('lodash.clonedeep');
 const flatten = require('lodash.flatten');
 
+const airpods = require('./airpods.json');
 const apple_tv = require('./apple_tv.json');
 const apple_watch = require('./apple_watch.json');
+const homepod = require('./homepod.json');
 const ipad = require('./ipad.json');
 const ipad_mini = require('./ipad_mini.json');
 const iphone = require('./iphone.json');
@@ -16,8 +18,10 @@ const all = (() => {
   let l = [];
 
   let total = [].concat(
+    airpods.map(v => { v.Type = 'airpods'; return v; }),
     apple_tv.map(v => { v.Type = 'apple_tv'; return v; }),
     apple_watch.map(v => { v.Type = 'apple_watch'; return v; }),
+    homepod.map(v => { v.Type = 'homepod'; return v; }),
     ipad.map(v => { v.Type = 'ipad'; return v; }),
     ipad_mini.map(v => { v.Type = 'ipad_mini'; return v; }),
     iphone.map(v => { v.Type = 'iphone'; return v; }),
@@ -52,7 +56,7 @@ const all = (() => {
 })();
 
 function deviceTypes() {
-  return 'apple_tv,apple_watch,ipad,ipad_mini,iphone,ipod_touch'.split(',');
+  return 'airpods,apple_tv,apple_watch,homepod,ipad,ipad_mini,iphone,ipod_touch'.split(',');
 }
 
 function devices(type) {

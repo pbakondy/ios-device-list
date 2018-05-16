@@ -73,7 +73,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 10);
+/******/ 	return __webpack_require__(__webpack_require__.s = 12);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -1834,7 +1834,7 @@ function stubFalse() {
 }
 
 module.exports = cloneDeep;
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0), __webpack_require__(11)(module)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0), __webpack_require__(13)(module)))
 
 /***/ }),
 /* 2 */
@@ -3093,6 +3093,35 @@ module.exports = uniq;
 
 module.exports = [
 	{
+		"Generation": "AirPods",
+		"ANumber": [
+			"A1523",
+			"A1722",
+			"A1602"
+		],
+		"FCCID": [
+			"BCG-A1523",
+			"BCG-A1722"
+		],
+		"InternalName": "B188AP",
+		"Identifier": "AirPods1,1",
+		"Models": [
+			{
+				"Color": "White",
+				"Model": [
+					"MMEF2"
+				]
+			}
+		]
+	}
+];
+
+/***/ }),
+/* 5 */
+/***/ (function(module, exports) {
+
+module.exports = [
+	{
 		"Generation": "Apple TV (2nd generation)",
 		"ANumber": "A1378",
 		"Bootrom": "Bootrom 574.4",
@@ -3196,7 +3225,7 @@ module.exports = [
 ];
 
 /***/ }),
-/* 5 */
+/* 6 */
 /***/ (function(module, exports) {
 
 module.exports = [
@@ -3212,14 +3241,19 @@ module.exports = [
 				"CaseMaterial": "Aluminum",
 				"Color": "Gold",
 				"Size": "38mm",
-				"Model": []
+				"Model": [
+					"MLCJ2",
+					"MMEC2",
+					"MMF52"
+				]
 			},
 			{
 				"CaseMaterial": "Aluminum",
 				"Color": "Rose Gold",
 				"Size": "38mm",
 				"Model": [
-					"MLCH2"
+					"MLCH2",
+					"MMF42"
 				]
 			},
 			{
@@ -3230,7 +3264,14 @@ module.exports = [
 					"MJ2T2",
 					"MJ2V2",
 					"MJ2U2",
-					"MJ2W2"
+					"MJ2W2",
+					"MLCF2",
+					"MLCG2",
+					"MME92",
+					"MMF02",
+					"MMF12",
+					"MMF22",
+					"MMF32"
 				]
 			},
 			{
@@ -3238,7 +3279,8 @@ module.exports = [
 				"Color": "Space Gray",
 				"Size": "38mm",
 				"Model": [
-					"MJ2X2"
+					"MJ2X2",
+					"MMF62"
 				]
 			},
 			{
@@ -3254,7 +3296,20 @@ module.exports = [
 					"MJ322",
 					"MJ332",
 					"MJ362",
-					"MJYK2"
+					"MJYK2",
+					"MLCL2",
+					"MLCN2",
+					"MLCP2",
+					"MLC02",
+					"MLC22",
+					"MLC32",
+					"MLE62",
+					"MLLD2",
+					"MMF82",
+					"MMFD2",
+					"MMF92",
+					"MMFH2",
+					"MMFK2"
 				]
 			},
 			{
@@ -3262,7 +3317,8 @@ module.exports = [
 				"Color": "Space Black",
 				"Size": "38mm",
 				"Model": [
-					"MJ3F2"
+					"MJ3F2",
+					"MLCK2"
 				]
 			},
 			{
@@ -3270,14 +3326,19 @@ module.exports = [
 				"Color": "Rose Gold",
 				"Size": "38mm",
 				"Model": [
-					"MJ3L2"
+					"MJ3K2",
+					"MJ3L2",
+					"MJ8P2"
 				]
 			},
 			{
 				"CaseMaterial": "Gold",
 				"Color": "Yellow Gold",
 				"Size": "38mm",
-				"Model": []
+				"Model": [
+					"MJ3G2",
+					"MKL52"
+				]
 			}
 		]
 	},
@@ -3297,7 +3358,9 @@ module.exports = [
 				"Color": "Gold",
 				"Size": "42mm",
 				"Model": [
-					"MLC72"
+					"MLC72",
+					"MMEE2",
+					"MMFQ2"
 				]
 			},
 			{
@@ -3305,7 +3368,8 @@ module.exports = [
 				"Color": "Rose Gold",
 				"Size": "42mm",
 				"Model": [
-					"MLC62"
+					"MLC62",
+					"MMFP2"
 				]
 			},
 			{
@@ -3316,7 +3380,14 @@ module.exports = [
 					"MJ3N2",
 					"MJ3Q2",
 					"MJ3P2",
-					"MJ3R2"
+					"MJ3R2",
+					"MLC42",
+					"MLC52",
+					"MMED2",
+					"MMFE2",
+					"MMFL2",
+					"MMFM2",
+					"MMFN2"
 				]
 			},
 			{
@@ -3324,7 +3395,8 @@ module.exports = [
 				"Color": "Space Gray",
 				"Size": "42mm",
 				"Model": [
-					"MJ3T2"
+					"MJ3T2",
+					"MMFR2"
 				]
 			},
 			{
@@ -3340,7 +3412,18 @@ module.exports = [
 					"MJ432",
 					"MJ452",
 					"MJ472",
-					"MJYN2"
+					"MJYN2",
+					"MLCC2",
+					"MLCD2",
+					"MLCE2",
+					"MLC92",
+					"MLFA2",
+					"MLFC2",
+					"MLLE2",
+					"MMFU2",
+					"MMFV2",
+					"MMFX2",
+					"MMG02"
 				]
 			},
 			{
@@ -3349,21 +3432,28 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MJ482",
-					"MLC82"
+					"MLC82",
+					"MMG22"
 				]
 			},
 			{
 				"CaseMaterial": "Gold",
 				"Color": "Rose Gold",
 				"Size": "42mm",
-				"Model": []
+				"Model": [
+					"MJ4A2",
+					"MLE52"
+				]
 			},
 			{
 				"CaseMaterial": "Gold",
 				"Color": "Yellow Gold",
 				"Size": "42mm",
 				"Model": [
-					"MKL62"
+					"MJ8Q2",
+					"MJVT2",
+					"MKL62",
+					"MLFH2"
 				]
 			}
 		]
@@ -3381,7 +3471,8 @@ module.exports = [
 				"Color": "Gold",
 				"Size": "38mm",
 				"Model": [
-					"MNNJ2"
+					"MNNJ2",
+					"MQ102"
 				]
 			},
 			{
@@ -3423,7 +3514,8 @@ module.exports = [
 				"Color": "Gold",
 				"Size": "42mm",
 				"Model": [
-					"MNNN2"
+					"MNNN2",
+					"MQ122"
 				]
 			},
 			{
@@ -3431,7 +3523,8 @@ module.exports = [
 				"Color": "Rose Gold",
 				"Size": "42mm",
 				"Model": [
-					"MNNM2"
+					"MNNM2",
+					"MQ112"
 				]
 			},
 			{
@@ -3660,7 +3753,9 @@ module.exports = [
 					"MQJQ2",
 					"MQJU2",
 					"MQKH2",
-					"MQKL2"
+					"MQKL2",
+					"MQQG2",
+					"MQQK2"
 				]
 			},
 			{
@@ -3675,7 +3770,11 @@ module.exports = [
 					"MQL52",
 					"MQL72",
 					"MQM72",
-					"MQM92"
+					"MQM92",
+					"MQQE2",
+					"MQQH2",
+					"MQR42",
+					"MQR62"
 				]
 			},
 			{
@@ -3692,7 +3791,12 @@ module.exports = [
 					"MQM82",
 					"MQMA2",
 					"MR2W2",
-					"MR2Y2"
+					"MR2Y2",
+					"MR332",
+					"MQQF2",
+					"MQQJ2",
+					"MQR52",
+					"MQR72"
 				]
 			},
 			{
@@ -3710,8 +3814,14 @@ module.exports = [
 					"MQMM2",
 					"MQMP2",
 					"MQMQ2",
+					"MQQL2",
+					"MQRA2",
+					"MQRE2",
+					"MQRF2",
+					"MQX92",
 					"MR1F2",
-					"MR1N2"
+					"MR1N2",
+					"MR212"
 				]
 			},
 			{
@@ -3721,8 +3831,10 @@ module.exports = [
 				"Model": [
 					"MQJW2",
 					"MQLW2",
+					"MQQM2",
 					"MR1H2",
-					"MR1Q2"
+					"MR1Q2",
+					"MR222"
 				]
 			},
 			{
@@ -3731,7 +3843,8 @@ module.exports = [
 				"Size": "38mm",
 				"Model": [
 					"MQJY2",
-					"MQM32"
+					"MQM32",
+					"MQQP2"
 				]
 			},
 			{
@@ -3740,7 +3853,8 @@ module.exports = [
 				"Size": "38mm",
 				"Model": [
 					"MQK02",
-					"MQM42"
+					"MQM42",
+					"MQQQ2"
 				]
 			}
 		]
@@ -3769,7 +3883,9 @@ module.exports = [
 					"MQK32",
 					"MQK72",
 					"MQKP2",
-					"MQKT2"
+					"MQKT2",
+					"MQQU2",
+					"MQQX2"
 				]
 			},
 			{
@@ -3784,7 +3900,11 @@ module.exports = [
 					"MQLC2",
 					"MQLE2",
 					"MQME2",
-					"MQMG2"
+					"MQMG2",
+					"MQQR2",
+					"MQQV2",
+					"MQRG2",
+					"MQRJ2"
 				]
 			},
 			{
@@ -3800,8 +3920,13 @@ module.exports = [
 					"MQLF2",
 					"MQMF2",
 					"MQMH2",
+					"MQQT2",
+					"MQQW2",
 					"MR2X2",
-					"MR302"
+					"MR302",
+					"MR342",
+					"MQRH2",
+					"MQRK2"
 				]
 			},
 			{
@@ -3821,10 +3946,18 @@ module.exports = [
 					"MQMU2",
 					"MQMV2",
 					"MQMW2",
+					"MQQY2",
+					"MQRN2",
+					"MQRP2",
+					"MQRQ2",
+					"MQRR2",
+					"MQRT2",
 					"MQX62",
 					"MQX72",
+					"MQX92",
 					"MR1J2",
-					"MR1U2"
+					"MR1U2",
+					"MR232"
 				]
 			},
 			{
@@ -3834,8 +3967,10 @@ module.exports = [
 				"Model": [
 					"MQK92",
 					"MQM02",
+					"MQR02",
 					"MR1L2",
-					"MR1V2"
+					"MR1V2",
+					"MR242"
 				]
 			},
 			{
@@ -3844,7 +3979,8 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MQKD2",
-					"MQM52"
+					"MQM52",
+					"MQR22"
 				]
 			},
 			{
@@ -3853,7 +3989,8 @@ module.exports = [
 				"Size": "42mm",
 				"Model": [
 					"MQKE2",
-					"MQM62"
+					"MQM62",
+					"MQR32"
 				]
 			}
 		]
@@ -3943,7 +4080,35 @@ module.exports = [
 ];
 
 /***/ }),
-/* 6 */
+/* 7 */
+/***/ (function(module, exports) {
+
+module.exports = [
+	{
+		"Generation": "HomePod",
+		"ANumber": "A1639",
+		"FCCID": "BCG-A1639",
+		"InternalName": "B238aAP",
+		"Identifier": "AudioAccessory1,1",
+		"Models": [
+			{
+				"Color": "Space Gray",
+				"Model": [
+					"MQHW2"
+				]
+			},
+			{
+				"Color": "White",
+				"Model": [
+					"MQHV2"
+				]
+			}
+		]
+	}
+];
+
+/***/ }),
+/* 8 */
 /***/ (function(module, exports) {
 
 module.exports = [
@@ -4074,7 +4239,8 @@ module.exports = [
 				"Color": "Black",
 				"Storage": "16 GB",
 				"Model": [
-					"MC773"
+					"MC773",
+					"MC957"
 				]
 			},
 			{
@@ -4095,7 +4261,8 @@ module.exports = [
 				"Color": "White",
 				"Storage": "16 GB",
 				"Model": [
-					"MC982"
+					"MC982",
+					"MC992"
 				]
 			},
 			{
@@ -4179,6 +4346,7 @@ module.exports = [
 				"Storage": "16 GB",
 				"Model": [
 					"MC954",
+					"MC960",
 					"MC988"
 				]
 			},
@@ -4219,28 +4387,32 @@ module.exports = [
 				"Color": "Black",
 				"Storage": "64 GB",
 				"Model": [
-					"MC707"
+					"MC707",
+					"MD335"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "16 GB",
 				"Model": [
-					"MD328"
+					"MD328",
+					"MD336"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "32 GB",
 				"Model": [
-					"MD329"
+					"MD329",
+					"MD337"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "64 GB",
 				"Model": [
-					"MD330"
+					"MD330",
+					"MD338"
 				]
 			}
 		]
@@ -4309,42 +4481,48 @@ module.exports = [
 				"Color": "Black",
 				"Storage": "16 GB",
 				"Model": [
-					"MD366"
+					"MD366",
+					"MD404"
 				]
 			},
 			{
 				"Color": "Black",
 				"Storage": "32 GB",
 				"Model": [
-					"MD367"
+					"MD367",
+					"MD405"
 				]
 			},
 			{
 				"Color": "Black",
 				"Storage": "64 GB",
 				"Model": [
-					"MD368"
+					"MD368",
+					"MD406"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "16 GB",
 				"Model": [
-					"MD369"
+					"MD369",
+					"MD407"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "32 GB",
 				"Model": [
-					"MD370"
+					"MD370",
+					"MD408"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "64 GB",
 				"Model": [
-					"MD371"
+					"MD371",
+					"MD409"
 				]
 			}
 		]
@@ -4427,7 +4605,8 @@ module.exports = [
 				"Color": "Black",
 				"Storage": "16 GB",
 				"Model": [
-					"MD516"
+					"MD516",
+					"MG932"
 				]
 			},
 			{
@@ -4456,7 +4635,8 @@ module.exports = [
 				"Color": "White",
 				"Storage": "16 GB",
 				"Model": [
-					"MD519"
+					"MD519",
+					"MG942"
 				]
 			},
 			{
@@ -5752,11 +5932,111 @@ module.exports = [
 				]
 			}
 		]
+	},
+	{
+		"Generation": "iPad (6th generation)",
+		"ANumber": "A1893",
+		"InternalName": "J71bAP",
+		"Identifier": "iPad7,5",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "32 GB",
+				"Model": [
+					"MRJN2"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "128 GB",
+				"Model": [
+					"MRJP2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "32 GB",
+				"Model": [
+					"MR7G2"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "128 GB",
+				"Model": [
+					"MR7K2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "32 GB",
+				"Model": [
+					"MR7F2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "128 GB",
+				"Model": [
+					"MR7J2"
+				]
+			}
+		]
+	},
+	{
+		"Generation": "iPad (6th generation)",
+		"ANumber": "A1954",
+		"InternalName": "J72bAP",
+		"Identifier": "iPad7,6",
+		"Models": [
+			{
+				"Color": "Gold",
+				"Storage": "32 GB",
+				"Model": [
+					"MRM52"
+				]
+			},
+			{
+				"Color": "Gold",
+				"Storage": "128 GB",
+				"Model": [
+					"MRM82"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "32 GB",
+				"Model": [
+					"MR702"
+				]
+			},
+			{
+				"Color": "Silver",
+				"Storage": "128 GB",
+				"Model": [
+					"MR7D2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "32 GB",
+				"Model": [
+					"MR6Y2"
+				]
+			},
+			{
+				"Color": "Space Gray",
+				"Storage": "128 GB",
+				"Model": [
+					"MR7C2"
+				]
+			}
+		]
 	}
 ];
 
 /***/ }),
-/* 7 */
+/* 9 */
 /***/ (function(module, exports) {
 
 module.exports = [
@@ -5772,7 +6052,8 @@ module.exports = [
 				"Color": "Black",
 				"Storage": "16 GB",
 				"Model": [
-					"MD528"
+					"MD528",
+					"MF432"
 				]
 			},
 			{
@@ -5824,42 +6105,51 @@ module.exports = [
 				"Color": "Black",
 				"Storage": "16 GB",
 				"Model": [
-					"MD534"
+					"MD534",
+					"ME030",
+					"MF442",
+					"MF743"
 				]
 			},
 			{
 				"Color": "Black",
 				"Storage": "32 GB",
 				"Model": [
-					"MD535"
+					"MD535",
+					"ME031"
 				]
 			},
 			{
 				"Color": "Black",
 				"Storage": "64 GB",
 				"Model": [
-					"MD536"
+					"MD536",
+					"ME032"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "16 GB",
 				"Model": [
-					"MD537"
+					"MD537",
+					"ME033",
+					"MF746"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "32 GB",
 				"Model": [
-					"MD538"
+					"MD538",
+					"ME034"
 				]
 			},
 			{
 				"Color": "White",
 				"Storage": "64 GB",
 				"Model": [
-					"MD539"
+					"MD539",
+					"ME035"
 				]
 			}
 		]
@@ -5877,7 +6167,9 @@ module.exports = [
 				"Storage": "16 GB",
 				"Model": [
 					"MD540",
-					"ME215"
+					"ME215",
+					"MF450",
+					"MF453"
 				]
 			},
 			{
@@ -6002,14 +6294,21 @@ module.exports = [
 				"Model": [
 					"ME814",
 					"ME818",
-					"MF074"
+					"MF074",
+					"MF075",
+					"MF076",
+					"MF544"
 				]
 			},
 			{
 				"Color": "Silver",
 				"Storage": "32 GB",
 				"Model": [
-					"ME824"
+					"ME824",
+					"MF083",
+					"MF084",
+					"MF085",
+					"MF569"
 				]
 			},
 			{
@@ -6017,14 +6316,21 @@ module.exports = [
 				"Storage": "64 GB",
 				"Model": [
 					"ME832",
-					"MF091"
+					"MF089",
+					"MF090",
+					"MF091",
+					"MF580"
 				]
 			},
 			{
 				"Color": "Silver",
 				"Storage": "128 GB",
 				"Model": [
-					"ME840"
+					"ME840",
+					"MF120",
+					"MF121",
+					"MF123",
+					"MF594"
 				]
 			},
 			{
@@ -6032,28 +6338,44 @@ module.exports = [
 				"Storage": "16 GB",
 				"Model": [
 					"ME800",
-					"MF078"
+					"MF066",
+					"MF069",
+					"MF070",
+					"MF078",
+					"MF519"
 				]
 			},
 			{
 				"Color": "Space Gray",
 				"Storage": "32 GB",
 				"Model": [
-					"ME820"
+					"ME820",
+					"MF080",
+					"MF081",
+					"MF082",
+					"MF552"
 				]
 			},
 			{
 				"Color": "Space Gray",
 				"Storage": "64 GB",
 				"Model": [
-					"ME828"
+					"ME828",
+					"MF086",
+					"MF087",
+					"MF088",
+					"MF575"
 				]
 			},
 			{
 				"Color": "Space Gray",
 				"Storage": "128 GB",
 				"Model": [
-					"ME836"
+					"ME836",
+					"MF116",
+					"MF117",
+					"MF118",
+					"MF585"
 				]
 			}
 		]
@@ -6556,7 +6878,7 @@ module.exports = [
 ];
 
 /***/ }),
-/* 8 */
+/* 10 */
 /***/ (function(module, exports) {
 
 module.exports = [
@@ -9191,6 +9513,24 @@ module.exports = [
 				]
 			},
 			{
+				"Color": "Red",
+				"Storage": "64 GB",
+				"Model": [
+					"MRRK2",
+					"MRRR2",
+					"MRRT2"
+				]
+			},
+			{
+				"Color": "Red",
+				"Storage": "256 GB",
+				"Model": [
+					"MRRL2",
+					"MRRW2",
+					"MRRX2"
+				]
+			},
+			{
 				"Color": "Silver",
 				"Storage": "64 GB",
 				"Model": [
@@ -9258,6 +9598,24 @@ module.exports = [
 					"MQ7E2",
 					"MQ7T2",
 					"MQ7W2"
+				]
+			},
+			{
+				"Color": "Red",
+				"Storage": "64 GB",
+				"Model": [
+					"MRRM2",
+					"MRRP2",
+					"MRRQ2"
+				]
+			},
+			{
+				"Color": "Red",
+				"Storage": "256 GB",
+				"Model": [
+					"MRRN2",
+					"MRRU2",
+					"MRRV2"
 				]
 			},
 			{
@@ -9334,6 +9692,24 @@ module.exports = [
 				]
 			},
 			{
+				"Color": "Red",
+				"Storage": "64 GB",
+				"Model": [
+					"MRTG2",
+					"MRTJ2",
+					"MRT72"
+				]
+			},
+			{
+				"Color": "Red",
+				"Storage": "256 GB",
+				"Model": [
+					"MRTH2",
+					"MRTK2",
+					"MRT82"
+				]
+			},
+			{
 				"Color": "Silver",
 				"Storage": "64 GB",
 				"Model": [
@@ -9401,6 +9777,24 @@ module.exports = [
 					"MQ8R2",
 					"MQ8Y2",
 					"MQ952"
+				]
+			},
+			{
+				"Color": "Red",
+				"Storage": "64 GB",
+				"Model": [
+					"MRTC2",
+					"MRTE2",
+					"MRT92"
+				]
+			},
+			{
+				"Color": "Red",
+				"Storage": "256 GB",
+				"Model": [
+					"MRTA2",
+					"MRTD2",
+					"MRTF2"
 				]
 			},
 			{
@@ -9553,7 +9947,7 @@ module.exports = [
 ];
 
 /***/ }),
-/* 9 */
+/* 11 */
 /***/ (function(module, exports) {
 
 module.exports = [
@@ -10088,7 +10482,7 @@ module.exports = [
 ];
 
 /***/ }),
-/* 10 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -10099,20 +10493,26 @@ var uniq = __webpack_require__(3);
 var cloneDeep = __webpack_require__(1);
 var flatten = __webpack_require__(2);
 
-var apple_tv = __webpack_require__(4);
-var apple_watch = __webpack_require__(5);
-var ipad = __webpack_require__(6);
-var ipad_mini = __webpack_require__(7);
-var iphone = __webpack_require__(8);
-var ipod_touch = __webpack_require__(9);
+var airpods = __webpack_require__(4);
+var apple_tv = __webpack_require__(5);
+var apple_watch = __webpack_require__(6);
+var homepod = __webpack_require__(7);
+var ipad = __webpack_require__(8);
+var ipad_mini = __webpack_require__(9);
+var iphone = __webpack_require__(10);
+var ipod_touch = __webpack_require__(11);
 
 var all = function () {
   var l = [];
 
-  var total = [].concat(apple_tv.map(function (v) {
+  var total = [].concat(airpods.map(function (v) {
+    v.Type = 'airpods';return v;
+  }), apple_tv.map(function (v) {
     v.Type = 'apple_tv';return v;
   }), apple_watch.map(function (v) {
     v.Type = 'apple_watch';return v;
+  }), homepod.map(function (v) {
+    v.Type = 'homepod';return v;
   }), ipad.map(function (v) {
     v.Type = 'ipad';return v;
   }), ipad_mini.map(function (v) {
@@ -10151,7 +10551,7 @@ var all = function () {
 }();
 
 function deviceTypes() {
-  return 'apple_tv,apple_watch,ipad,ipad_mini,iphone,ipod_touch'.split(',');
+  return 'airpods,apple_tv,apple_watch,homepod,ipad,ipad_mini,iphone,ipod_touch'.split(',');
 }
 
 function devices(type) {
@@ -10484,7 +10884,7 @@ module.exports = {
 };
 
 /***/ }),
-/* 11 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";

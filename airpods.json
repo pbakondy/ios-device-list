@@ -1,0 +1,15 @@
+[
+  {
+    "Generation": "AirPods",
+    "ANumber": [ "A1523", "A1722", "A1602" ],
+    "FCCID": [ "BCG-A1523", "BCG-A1722" ],
+    "InternalName": "B188AP",
+    "Identifier": "AirPods1,1",
+    "Models": [
+      {
+        "Color": "White",
+        "Model": [ "MMEF2" ]
+      }
+    ]
+  }
+]

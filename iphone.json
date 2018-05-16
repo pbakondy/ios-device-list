@@ -1323,6 +1323,16 @@
         "Model": [ "MQ7H2", "MQ802", "MQ832" ]
       },
       {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRRK2", "MRRR2", "MRRT2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRRL2", "MRRW2", "MRRX2" ]
+      },
+      {
         "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MQ6L2", "MQ732", "MQ762" ]
@@ -1361,6 +1371,16 @@
         "Color": "Gold",
         "Storage": "256 GB",
         "Model": [ "MQ7E2", "MQ7T2", "MQ7W2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRRM2", "MRRP2", "MRRQ2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRRN2", "MRRU2", "MRRV2" ]
       },
       {
         "Color": "Silver",
@@ -1403,6 +1423,16 @@
         "Model": [ "MQ8J2", "MQ9C2", "MQ9J2" ]
       },
       {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRTG2", "MRTJ2", "MRT72" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRTH2", "MRTK2", "MRT82" ]
+      },
+      {
         "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MQ8E2", "MQ9E2", "MQ972" ]
@@ -1441,6 +1471,16 @@
         "Color": "Gold",
         "Storage": "256 GB",
         "Model": [ "MQ8R2", "MQ8Y2", "MQ952" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRTC2", "MRTE2", "MRT92" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRTA2", "MRTD2", "MRTF2" ]
       },
       {
         "Color": "Silver",

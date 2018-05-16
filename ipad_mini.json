@@ -10,7 +10,7 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MD528" ]
+        "Model": [ "MD528", "MF432" ]
       },
       {
         "Color": "Black",
@@ -50,32 +50,32 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MD534" ]
+        "Model": [ "MD534", "ME030", "MF442", "MF743" ]
       },
       {
         "Color": "Black",
         "Storage": "32 GB",
-        "Model": [ "MD535" ]
+        "Model": [ "MD535", "ME031" ]
       },
       {
         "Color": "Black",
         "Storage": "64 GB",
-        "Model": [ "MD536" ]
+        "Model": [ "MD536", "ME032" ]
       },
       {
         "Color": "White",
         "Storage": "16 GB",
-        "Model": [ "MD537" ]
+        "Model": [ "MD537", "ME033", "MF746" ]
       },
       {
         "Color": "White",
         "Storage": "32 GB",
-        "Model": [ "MD538" ]
+        "Model": [ "MD538", "ME034" ]
       },
       {
         "Color": "White",
         "Storage": "64 GB",
-        "Model": [ "MD539" ]
+        "Model": [ "MD539", "ME035" ]
       }
     ]
   },
@@ -90,7 +90,7 @@
       {
         "Color": "Black",
         "Storage": "16 GB",
-        "Model": [ "MD540", "ME215" ]
+        "Model": [ "MD540", "ME215", "MF450", "MF453" ]
       },
       {
         "Color": "Black",
@@ -180,42 +180,42 @@
       {
         "Color": "Silver",
         "Storage": "16 GB",
-        "Model": [ "ME814", "ME818", "MF074" ]
+        "Model": [ "ME814", "ME818", "MF074", "MF075", "MF076", "MF544" ]
       },
       {
         "Color": "Silver",
         "Storage": "32 GB",
-        "Model": [ "ME824" ]
+        "Model": [ "ME824", "MF083", "MF084", "MF085", "MF569" ]
       },
       {
         "Color": "Silver",
         "Storage": "64 GB",
-        "Model": [ "ME832", "MF091" ]
+        "Model": [ "ME832", "MF089", "MF090", "MF091", "MF580" ]
       },
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "ME840" ]
+        "Model": [ "ME840", "MF120", "MF121", "MF123", "MF594" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "ME800", "MF078" ]
+        "Model": [ "ME800", "MF066", "MF069", "MF070", "MF078", "MF519" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "32 GB",
-        "Model": [ "ME820" ]
+        "Model": [ "ME820", "MF080", "MF081", "MF082", "MF552" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "64 GB",
-        "Model": [ "ME828" ]
+        "Model": [ "ME828", "MF086", "MF087", "MF088", "MF575" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "128 GB",
-        "Model": [ "ME836" ]
+        "Model": [ "ME836", "MF116", "MF117", "MF118", "MF585" ]
       }
     ]
   },

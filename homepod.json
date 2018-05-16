@@ -1,0 +1,19 @@
+[
+  {
+    "Generation": "HomePod",
+    "ANumber": "A1639",
+    "FCCID": "BCG-A1639",
+    "InternalName": "B238aAP",
+    "Identifier": "AudioAccessory1,1",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Model": [ "MQHW2" ]
+      },
+      {
+        "Color": "White",
+        "Model": [ "MQHV2" ]
+      }
+    ]
+  }
+]
