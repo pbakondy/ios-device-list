@@ -136,10 +136,58 @@
     ]
   },
   {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,1",
+    "ANumber": [
+      "A1977"
+    ],
+    "FCCID": [
+      "Unknown"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,2",
+    "ANumber": [
+      "A1978"
+    ],
+    "FCCID": [
+      "Unknown"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,3",
+    "ANumber": [
+      "A1975",
+      "A2007"
+    ],
+    "FCCID": [
+      "Unknown"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,4",
+    "ANumber": [
+      "A1976",
+      "A2008"
+    ],
+    "FCCID": [
+      "Unknown"
+    ]
+  },
+  {
     "name": "HomePod",
     "model": "AudioAccessory1,1",
     "ANumber": "A1639",
     "FCCID": "BCG-A1639"
+  },
+  {
+    "name": "HomePod",
+    "model": "AudioAccessory1,2",
+    "ANumber": "Unknown",
+    "FCCID": "Unknown"
   },
   {
     "name": "iPad",
@@ -614,6 +662,29 @@
   },
   {
     "name": "iPhone 8",
+    "model": "iPhone10,1",
+    "ANumber": [
+      "A1863",
+      "A1906",
+      "A1907"
+    ],
+    "FCCID": [
+      "BCG-E3159A",
+      "BCG-E3171A"
+    ]
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,4",
+    "ANumber": [
+      "A1905"
+    ],
+    "FCCID": [
+      "BCG-E3172A"
+    ]
+  },
+  {
+    "name": "iPhone 8",
     "model": "iPhone10,4",
     "ANumber": [
       "A1905"
@@ -664,6 +735,57 @@
     ],
     "FCCID": [
       "BCG-E3175A"
+    ]
+  },
+  {
+    "name": "iPhone XR",
+    "model": "iPhone11,8",
+    "ANumber": [
+      "Unknown"
+    ],
+    "FCCID": [
+      "Unknown"
+    ]
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2",
+    "ANumber": [
+      "A2097"
+    ],
+    "FCCID": [
+      "BCG-E3232A"
+    ]
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2",
+    "ANumber": [
+      "A2098"
+    ],
+    "FCCID": [
+      "BCG-E3233A"
+    ]
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,4",
+    "ANumber": [
+      "A1921",
+      "A2103"
+    ],
+    "FCCID": [
+      "BCG-E3219A"
+    ]
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,6",
+    "ANumber": [
+      "A2104"
+    ],
+    "FCCID": [
+      "BCG-E3219A"
     ]
   },
   {

@@ -446,5 +446,153 @@
         "Model": [ "MQL12", "MQL42", "MR362" ]
       }
     ]
+  },
+  {
+    "Generation": "Apple Watch Series 4",
+    "ANumber": [ "A1977" ],
+    "Bootrom": "Unknown",
+    "FCCID": [ "Unknown" ],
+    "InternalName": "N131sAP",
+    "Identifier": "Watch4,1",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MU682", "MU692" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MU682", "MU692" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MU662", "MU672", "MU6J2", "MU7G2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 4",
+    "ANumber": [ "A1978" ],
+    "Bootrom": "Unknown",
+    "FCCID": [ "Unknown" ],
+    "InternalName": "N131bAP",
+    "Identifier": "Watch4,2",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MU6F2", "MU6G2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MU6A2", "MU6C2", "MU6K2", "MU7H2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "MU6D2", "MU6E2", "MU6L2", "MU7J2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 4",
+    "ANumber": [ "A1975", "A2007" ],
+    "Bootrom": "Unknown",
+    "FCCID": [ "Unknown" ],
+    "InternalName": "N141sAP",
+    "Identifier": "Watch4,3",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MTUJ2", "MTUK2", "MTVG2", "MTVH2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MTUD2", "MTUF2", "MTV92", "MTX72", "MTVA2", "MTVC2", "MTX62", "MTXF2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MTUG2", "MTUN2", "MTX82", "MTX92", "MTVD2", "MTVF2", "MTXG2", "MTXH2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MTUR2", "MTUT2", "MTVN2", "MTVQ2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MTUL2", "MTUM2", "MU7K2", "MU6R2", "MU6N2", "MU6Q2", "MU6P2", "MU6M2", "MTVJ2", "MTVK2", "MU7L2", "MU732", "MU702", "MU722", "MU712", "MU6Y2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "40mm",
+        "Model": [ "MTUN2", "MTUQ2", "MTVL2", "MTVM2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 4",
+    "ANumber": [ "A1976", "A2008" ],
+    "Bootrom": "Unknown",
+    "FCCID": [ "Unknown" ],
+    "InternalName": "N141bAP",
+    "Identifier": "Watch4,4",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MTV02", "MTV12", "MTVW2", "MTVX2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MTUU2", "MTUV2", "MU6X2", "MTXC2", "MTXA2", "MTVR2", "MTVT2", "MTXK2", "MTXJ2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "MTUW2", "MTUX2", "MTXE2", "MTXD2", "MTVU2", "MTVV2", "MTXM2", "MTXL2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MTV72", "MTV82", "MTX42", "MTX52" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MTV22", "MTV42", "MU6W2", "MU6V2", "MU9D2", "MU9D2", "MU6U2", "MU6T2", "MU782", "MU772", "MU762", "MU9E2", "MU752", "MU742" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "44mm",
+        "Model": [ "MTV52", "MTV62", "MTX22", "MTX32" ]
+      }
+    ]
   }
 ]

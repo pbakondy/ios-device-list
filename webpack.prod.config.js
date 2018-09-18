@@ -8,15 +8,17 @@ module.exports = {
     library: "iosDeviceList",
     libraryTarget: "umd"
   },
+  mode: 'production',
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.js$/,
-        loader: 'babel-loader?presets[]=es2015'
-      },
-      {
-        test: /\.json$/,
-        loader: 'json-loader'
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env']
+          }
+        }
       }
     ]
   }

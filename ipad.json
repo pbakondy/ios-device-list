@@ -989,7 +989,7 @@
     "ANumber": "A1822",
     "Bootrom": "Bootrom 2234.0.0.3.3",
     "FCCID": "BCGA1822",
-    "InternalName": "J71sAP",
+    "InternalName": [ "J71sAP", "J71tAP" ],
     "Identifier": "iPad6,11",
     "Models": [
       {
@@ -1029,7 +1029,7 @@
     "ANumber": "A1823",
     "Bootrom": "Bootrom 2234.0.0.3.3",
     "FCCID": "BCGA1823",
-    "InternalName": "J72sAP",
+    "InternalName": [ "J72sAP", "J72tAP" ],
     "Identifier": "iPad6,12",
     "Models": [
       {

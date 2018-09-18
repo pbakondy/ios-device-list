@@ -64,8 +64,28 @@
     "model": "Watch3,4"
   },
   {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,1"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,2"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,3"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,4"
+  },
+  {
     "name": "HomePod",
     "model": "AudioAccessory1,1"
+  },
+  {
+    "name": "HomePod",
+    "model": "AudioAccessory1,2"
   },
   {
     "name": "iPad",
@@ -321,6 +341,14 @@
   },
   {
     "name": "iPhone 8",
+    "model": "iPhone10,1"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,4"
+  },
+  {
+    "name": "iPhone 8",
     "model": "iPhone10,4"
   },
   {
@@ -338,6 +366,26 @@
   {
     "name": "iPhone X",
     "model": "iPhone10,6"
+  },
+  {
+    "name": "iPhone XR",
+    "model": "iPhone11,8"
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2"
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2"
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,4"
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,6"
   },
   {
     "name": "iPod touch",

@@ -680,7 +680,7 @@
       {
         "Color": "Gold",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MQ3E2" ]
       },
       {
         "Color": "Gold",
@@ -715,7 +715,7 @@
       {
         "Color": "Space Gray",
         "Storage": "32 GB",
-        "Model": [ ]
+        "Model": [ "MQ3D2", "MQ462" ]
       },
       {
         "Color": "Space Gray",
@@ -1323,16 +1323,6 @@
         "Model": [ "MQ7H2", "MQ802", "MQ832" ]
       },
       {
-        "Color": "Red",
-        "Storage": "64 GB",
-        "Model": [ "MRRK2", "MRRR2", "MRRT2" ]
-      },
-      {
-        "Color": "Red",
-        "Storage": "256 GB",
-        "Model": [ "MRRL2", "MRRW2", "MRRX2" ]
-      },
-      {
         "Color": "Silver",
         "Storage": "64 GB",
         "Model": [ "MQ6L2", "MQ732", "MQ762" ]
@@ -1356,6 +1346,26 @@
   },
   {
     "Generation": "iPhone 8",
+    "ANumber": [ "A1863", "A1906", "A1907" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
+    "FCCID": [ "BCG-E3159A", "BCG-E3171A" ],
+    "InternalName": "D20AAP",
+    "Identifier": "iPhone10,1",
+    "Models": [
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRRK2", "MRRR2", "MRRT2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRRL2", "MRRW2", "MRRX2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 8",
     "ANumber": [ "A1905" ],
     "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
     "FCCID": [ "BCG-E3172A" ],
@@ -1371,16 +1381,6 @@
         "Color": "Gold",
         "Storage": "256 GB",
         "Model": [ "MQ7E2", "MQ7T2", "MQ7W2" ]
-      },
-      {
-        "Color": "Red",
-        "Storage": "64 GB",
-        "Model": [ "MRRM2", "MRRP2", "MRRQ2" ]
-      },
-      {
-        "Color": "Red",
-        "Storage": "256 GB",
-        "Model": [ "MRRN2", "MRRU2", "MRRV2" ]
       },
       {
         "Color": "Silver",
@@ -1401,6 +1401,26 @@
         "Color": "Space Gray",
         "Storage": "256 GB",
         "Model": [ "MQ7C2", "MQ7Q2", "MQ7U2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 8",
+    "ANumber": [ "A1905" ],
+    "Bootrom": [ "Bootrom 3332.0.0.1.23" ],
+    "FCCID": [ "BCG-E3172A" ],
+    "InternalName": "D201AAP",
+    "Identifier": "iPhone10,4",
+    "Models": [
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRRM2", "MRRP2", "MRRQ2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRRN2", "MRRU2", "MRRV2" ]
       }
     ]
   },
@@ -1563,5 +1583,50 @@
         "Model": [ "MQAM2", "MQAU2", "MQAF2" ]
       }
     ]
+  },
+  {
+    "Generation": "iPhone XR",
+    "ANumber": [ "Unknown" ],
+    "Bootrom": [ "Unknown" ],
+    "FCCID": [ "Unknown" ],
+    "InternalName": "N841AP",
+    "Identifier": "iPhone11,8",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPhone XS",
+    "ANumber": [ "A2097" ],
+    "Bootrom": [ "Unknown" ],
+    "FCCID": [ "BCG-E3232A" ],
+    "InternalName": "D321AP",
+    "Identifier": "iPhone11,2",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPhone XS",
+    "ANumber": [ "A2098" ],
+    "Bootrom": [ "Unknown" ],
+    "FCCID": [ "BCG-E3233A" ],
+    "InternalName": "D321AP",
+    "Identifier": "iPhone11,2",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPhone XS Max",
+    "ANumber": [ "A1921", "A2103" ],
+    "Bootrom": [ "Unknown" ],
+    "FCCID": [ "BCG-E3219A" ],
+    "InternalName": "D331AP",
+    "Identifier": "iPhone11,4",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPhone XS Max",
+    "ANumber": [ "A2104" ],
+    "Bootrom": [ "Unknown" ],
+    "FCCID": [ "BCG-E3219A" ],
+    "InternalName": "D331pAP",
+    "Identifier": "iPhone11,6",
+    "Models": [ ]
   }
 ]

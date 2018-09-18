@@ -15,5 +15,22 @@
         "Model": [ "MQHV2" ]
       }
     ]
+  },
+  {
+    "Generation": "HomePod",
+    "ANumber": "Unknown",
+    "FCCID": "Unknown",
+    "InternalName": "B238AP",
+    "Identifier": "AudioAccessory1,2",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Model": [ ]
+      },
+      {
+        "Color": "White",
+        "Model": [ ]
+      }
+    ]
   }
 ]
