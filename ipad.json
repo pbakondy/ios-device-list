@@ -700,7 +700,7 @@
       {
         "Color": "Gold",
         "Storage": "64 GB",
-        "Model": [ "MH172", "MH2P2" ]
+        "Model": [ "MH2P2", "MH172", "MHWP2" ]
       },
       {
         "Color": "Gold",
@@ -1317,6 +1317,7 @@
   {
     "Generation": "iPad (6th generation)",
     "ANumber": "A1893",
+    "FCCID": "BCGA1893",
     "InternalName": "J71bAP",
     "Identifier": "iPad7,5",
     "Models": [
@@ -1355,6 +1356,7 @@
   {
     "Generation": "iPad (6th generation)",
     "ANumber": "A1954",
+    "FCCID": "BCGA1954",
     "InternalName": "J72bAP",
     "Identifier": "iPad7,6",
     "Models": [
@@ -1387,6 +1389,470 @@
         "Color": "Space Gray",
         "Storage": "128 GB",
         "Model": [ "MR7C2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A1980",
+    "FCCID": "BCGA1980",
+    "InternalName": "J317AP",
+    "Identifier": "iPad8,1",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MTXP2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MTXR2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MTXU2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MTXN2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MTXQ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MTXT2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A1980",
+    "FCCID": "BCGA1980",
+    "InternalName": "J317xAP",
+    "Identifier": "iPad8,2",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MTXW2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MTXV2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A1934",
+    "FCCID": "BCGA1934",
+    "InternalName": "J318AP",
+    "Identifier": "iPad8,3",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MU0U2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MU172" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MU1M2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MU0M2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MU102" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MU1F2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A1934",
+    "FCCID": "BCGA1934",
+    "InternalName": "J318xAP",
+    "Identifier": "iPad8,4",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MU222" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MU1V2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A1979",
+    "FCCID": "BCGA1934",
+    "InternalName": "J318AP",
+    "Identifier": "iPad8,3",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MU0X2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MU1C2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MU1T2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MU0Q2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MU152" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MU1J2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A1979",
+    "FCCID": "BCGA1934",
+    "InternalName": "J318xAP",
+    "Identifier": "iPad8,4",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MU272" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MU1Y2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A2013",
+    "FCCID": "BCGA2013",
+    "InternalName": "J318AP",
+    "Identifier": "iPad8,3",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MU0Y2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MU1D2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MU1U2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MU0T2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MU162" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MU1K2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch)",
+    "ANumber": "A2013",
+    "FCCID": "BCGA2013",
+    "InternalName": "J318xAP",
+    "Identifier": "iPad8,4",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MU282" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MU202" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A1876",
+    "FCCID": "BCGA1876",
+    "InternalName": "J320AP",
+    "Identifier": "iPad8,5",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MTEM2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MTFN2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MTFQ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MTEL2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MTFL2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MTFP2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A1876",
+    "FCCID": "BCGA1876",
+    "InternalName": "J320xAP",
+    "Identifier": "iPad8,6",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MTFT2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MTFR2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A1895",
+    "FCCID": "BCGA1985",
+    "InternalName": "J321AP",
+    "Identifier": "iPad8,7",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MTHP2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MTJ62" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MTJJ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MTHJ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MTHV2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MTJD2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A1895",
+    "FCCID": "BCGA1985",
+    "InternalName": "J321xAP",
+    "Identifier": "iPad8,8",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MTJV2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MTJP2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A1983",
+    "FCCID": "BCGA1985",
+    "InternalName": "J321AP",
+    "Identifier": "iPad8,7",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MTHT2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MTJ92" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MTJM2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MTHM2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MTHY2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MTJG2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A1983",
+    "FCCID": "BCGA1985",
+    "InternalName": "J321xAP",
+    "Identifier": "iPad8,8",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MTJY2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MTJT2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A2014",
+    "FCCID": "BCGA2014",
+    "InternalName": "J321AP",
+    "Identifier": "iPad8,7",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MTHU2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MTJA2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MTJN2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MTHN2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MTJ02" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MTJH2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "ANumber": "A2014",
+    "FCCID": "BCGA2014",
+    "InternalName": "J321xAP",
+    "Identifier": "iPad8,8",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MTL02" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MTJU2" ]
       }
     ]
   }

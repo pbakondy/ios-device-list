@@ -451,7 +451,7 @@
     "Generation": "Apple Watch Series 4",
     "ANumber": [ "A1977" ],
     "Bootrom": "Unknown",
-    "FCCID": [ "Unknown" ],
+    "FCCID": [ "BCG-A1977" ],
     "InternalName": "N131sAP",
     "Identifier": "Watch4,1",
     "Models": [
@@ -465,7 +465,7 @@
         "CaseMaterial": "Aluminum",
         "Color": "Silver",
         "Size": "40mm",
-        "Model": [ "MU682", "MU692" ]
+        "Model": [ "MU642", "MU652", "MU6H2", "MU7F2" ]
       },
       {
         "CaseMaterial": "Aluminum",
@@ -479,7 +479,7 @@
     "Generation": "Apple Watch Series 4",
     "ANumber": [ "A1978" ],
     "Bootrom": "Unknown",
-    "FCCID": [ "Unknown" ],
+    "FCCID": [ "BCG-A1978" ],
     "InternalName": "N131bAP",
     "Identifier": "Watch4,2",
     "Models": [
@@ -507,7 +507,7 @@
     "Generation": "Apple Watch Series 4",
     "ANumber": [ "A1975", "A2007" ],
     "Bootrom": "Unknown",
-    "FCCID": [ "Unknown" ],
+    "FCCID": [ "BCG-A1975", "BCG-A2007" ],
     "InternalName": "N141sAP",
     "Identifier": "Watch4,3",
     "Models": [
@@ -553,7 +553,7 @@
     "Generation": "Apple Watch Series 4",
     "ANumber": [ "A1976", "A2008" ],
     "Bootrom": "Unknown",
-    "FCCID": [ "Unknown" ],
+    "FCCID": [ "BCG‑A1976", "BCG-A2008" ],
     "InternalName": "N141bAP",
     "Identifier": "Watch4,4",
     "Models": [

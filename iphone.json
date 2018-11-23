@@ -1586,47 +1586,842 @@
   },
   {
     "Generation": "iPhone XR",
-    "ANumber": [ "Unknown" ],
-    "Bootrom": [ "Unknown" ],
-    "FCCID": [ "Unknown" ],
+    "ANumber": [ "A1984" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3220A" ],
     "InternalName": "N841AP",
     "Identifier": "iPhone11,8",
-    "Models": [ ]
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MT3K2", "MT2E2", "MT302", "MT472" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MT3T2", "MT2L2", "MT362", "MT4G2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MT402", "MT2T2", "MT3D2", "MT4R2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MT3R2", "MT2K2", "MT352", "MT4F2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MT3Y2", "MT2R2", "MT3C2", "MT4Q2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MT462", "MT2Y2", "MT3J2", "MT4Y2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "64 GB",
+        "Model": [ "MT3Q2", "MT2J2", "MT342", "MT4D2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "128 GB",
+        "Model": [ "MT3X2", "MT2Q2", "MT3A2", "MT4N2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "256 GB",
+        "Model": [ "MT452", "MT2X2", "MT3H2", "MT4X2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MT3M2", "MT2G2", "MT322", "MT492" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MT3V2", "MT2N2", "MT382", "MT4J2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MT422", "MT2V2", "MT3F2", "MT4V2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MT3L2", "MT2F2", "MT312", "MT482" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MT3U2", "MT2M2", "MT372", "MT4H2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MT412", "MT2U2", "MT3E2", "MT4U2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MT3N2", "MT2H2", "MT332", "MT4A2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MT3W2", "MT2P2", "MT392", "MT4L2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MT442", "MT2W2", "MT3G2", "MT4W2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XR",
+    "ANumber": [ "A2105" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3237A" ],
+    "InternalName": "N841AP",
+    "Identifier": "iPhone11,8",
+    "Models": [ 
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MRY42" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MRY92" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MRYJ2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MRYA2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MRYH2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MRYQ2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "64 GB",
+        "Model": [ "MRY82" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "128 GB",
+        "Model": [ "MRYG2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "256 GB",
+        "Model": [ "MRYP2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MRY62" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MRYE2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MRYM2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MRY52" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MRYD2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MRYL2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MRY72" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MRYF2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MRYN2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XR",
+    "ANumber": [ "A2106" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3238A" ],
+    "InternalName": "N841AP",
+    "Identifier": "iPhone11,8",
+    "Models": [ 
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MT002" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MT0G2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MT0V2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MT0E2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MT0U2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MT112" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "64 GB",
+        "Model": [ "MT0A2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "128 GB",
+        "Model": [ "MT0T2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "256 GB",
+        "Model": [ "MT102" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MT062" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MT0N2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MT0X2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MT032" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MT0J2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MT0W2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MT082" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MT0Q2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MT0Y2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XR",
+    "ANumber": [ "A2108" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3220A" ],
+    "InternalName": "N841AP",
+    "Identifier": "iPhone11,8",
+    "Models": [ 
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MT122" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MT192" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MT1H2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MT182" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MT1G2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MT1Q2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "64 GB",
+        "Model": [ "MT172" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "128 GB",
+        "Model": [ "MT1F2" ]
+      },
+      {
+        "Color": "Coral",
+        "Storage": "256 GB",
+        "Model": [ "MT1P2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MT142" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MT1D2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MT1L2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MT132" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MT1A2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MT1J2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MT162" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MT1E2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MT1M2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XS",
+    "ANumber": [ "A1920" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3218A" ],
+    "InternalName": "D321AP",
+    "Identifier": "iPhone11,2",
+    "Models": [ 
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT8W2", "MTA22", "MT8L2", "MTAJ2", "MT962" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT902", "MTA92", "MT8P2", "MTAQ2", "MT992" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT932", "MTAF2", "MT8T2", "MTAV2", "MT9D2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT8V2", "MTA12", "MT8K2", "MTAH2", "MT952" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT8Y2", "MTA82", "MT8N2", "MTAN2", "MT982" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT922", "MTAD2", "MT8R2", "MTAU2", "MT9C2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT8U2", "MTA02", "MT8J2", "MTAG2", "MT942" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT8X2", "MTA72", "MT8M2", "MTAL2", "MT972" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT912", "MTAA2", "MT8Q2", "MTAR2", "MT9A2" ]
+      }
+    ]
   },
   {
     "Generation": "iPhone XS",
     "ANumber": [ "A2097" ],
-    "Bootrom": [ "Unknown" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
     "FCCID": [ "BCG-E3232A" ],
     "InternalName": "D321AP",
     "Identifier": "iPhone11,2",
-    "Models": [ ]
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT9G2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT9K2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT9N2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT9F2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT9J2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT9M2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT9E2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT9H2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT9L2" ]
+      }
+    ]
   },
   {
     "Generation": "iPhone XS",
     "ANumber": [ "A2098" ],
-    "Bootrom": [ "Unknown" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
     "FCCID": [ "BCG-E3233A" ],
     "InternalName": "D321AP",
     "Identifier": "iPhone11,2",
-    "Models": [ ]
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MTAY2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MTE22" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MTE52" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MTAX2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MTE12" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MTE42" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MTAW2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MTE02" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MTE32" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XS",
+    "ANumber": [ "A2100" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3218A" ],
+    "InternalName": "D321AP",
+    "Identifier": "iPhone11,2",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT9R2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT9V2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT9Y2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT9Q2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT9U2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT9X2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT9P2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT9T2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT9W2" ]
+      }
+    ]
   },
   {
     "Generation": "iPhone XS Max",
-    "ANumber": [ "A1921", "A2103" ],
-    "Bootrom": [ "Unknown" ],
+    "ANumber": [ "A1921" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
     "FCCID": [ "BCG-E3219A" ],
     "InternalName": "D331AP",
     "Identifier": "iPhone11,4",
-    "Models": [ ]
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT5X2", "MT672", "MT5M2", "MT6H2", "MT5C2", "3D897" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT612", "MT6A2", "MT5Q2", "MT6L2", "MT5F2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT642", "MT6E2", "MT5U2", "MT6P2", "MT5J2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT5W2", "MT662", "MT5L2", "MT6G2", "MT5A2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT602", "MT692", "MT5P2", "MT6K2", "MT5E2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT632", "MT6D2", "MT5T2", "MT6N2", "MT5H2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT5V2", "MT652", "MT5K2", "MT6F2", "MT592" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT5Y2", "MT682", "MT5N2", "MT6J2", "MT5D2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT622", "MT6C2", "MT5R2", "MT6M2", "MT5G2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XS Max",
+    "ANumber": [ "A2101" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3234A" ],
+    "InternalName": "D331AP",
+    "Identifier": "iPhone11,4",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT522", "3D879" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT552" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT582" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT512" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT542" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT572" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT502" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT532" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT562" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone XS Max",
+    "ANumber": [ "A2102" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
+    "FCCID": [ "BCG-E3235A" ],
+    "InternalName": "D331AP",
+    "Identifier": "iPhone11,4",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT6T2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT6W2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT702" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT6R2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT6V2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT6Y2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT6Q2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT6U2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT6X2" ]
+      }
+    ]
   },
   {
     "Generation": "iPhone XS Max",
     "ANumber": [ "A2104" ],
-    "Bootrom": [ "Unknown" ],
+    "Bootrom": [ "Bootrom 3865.0.0.4.7" ],
     "FCCID": [ "BCG-E3219A" ],
     "InternalName": "D331pAP",
     "Identifier": "iPhone11,6",
-    "Models": [ ]
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MT732" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MT762" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MT792" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MT722" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MT752" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MT782" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MT712" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MT742" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MT772" ]
+      }
+    ]
   }
 ]
