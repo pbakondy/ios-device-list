@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 'use strict';
 
 const fs = require('fs');
@@ -38,7 +36,7 @@ function fetch () {
       console.log('Content saved to ' + MODELS_FILE);
     });
   })
-  .catch(err => console.log(err));
+    .catch(err => console.log(err));
 }
 
 function removeComments(el) {

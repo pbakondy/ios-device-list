@@ -8,7 +8,7 @@ module.exports = {
     library: "iosDeviceList",
     libraryTarget: "umd"
   },
-  mode: 'production',
+  mode: 'development',
   module: {
     rules: [
       {

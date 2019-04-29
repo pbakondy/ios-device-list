@@ -1317,6 +1317,7 @@
   {
     "Generation": "iPad (6th generation)",
     "ANumber": "A1893",
+    "Bootrom": "Bootrom 2696.0.0.1.33",
     "FCCID": "BCGA1893",
     "InternalName": "J71bAP",
     "Identifier": "iPad7,5",
@@ -1853,6 +1854,86 @@
         "Color": "Space Gray",
         "Storage": "1 TB",
         "Model": [ "MTJU2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air (3rd generation)",
+    "ANumber": "A2152",
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": "BCGA2152",
+    "InternalName": "J217AP",
+    "Identifier": "iPad11,3",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MUUL2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MUUT2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MUUK2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MUUR2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MUUJ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MUUQ2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air (3rd generation)",
+    "ANumber": [ "A2123", "A2153", "A2154" ],
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": [ "BCGA2123", "BCGA2153" ],
+    "InternalName": "J218AP",
+    "Identifier": "iPad11,4",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MV172", "MV0F2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MV1G2", "MV0Q2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MV162", "MV0E2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MV1F2", "MV0P2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MV152", "MV0D2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MV1D2", "MV0N2" ]
       }
     ]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "name": "AirPods",
+    "name": "AirPods (1st generation)",
     "model": "AirPods1,1",
     "ANumber": [
       "A1523",
@@ -10,6 +10,19 @@
     "FCCID": [
       "BCG-A1523",
       "BCG-A1722"
+    ]
+  },
+  {
+    "name": "AirPods (2nd generation)",
+    "model": "AirPods2,1",
+    "ANumber": [
+      "A2031",
+      "A2032",
+      "A1938"
+    ],
+    "FCCID": [
+      "BCG-A2031",
+      "BCG-A2032"
     ]
   },
   {
@@ -468,6 +481,25 @@
     "FCCID": "BCGA2014"
   },
   {
+    "name": "iPad Air (3rd generation)",
+    "model": "iPad11,3",
+    "ANumber": "A2152",
+    "FCCID": "BCGA2152"
+  },
+  {
+    "name": "iPad Air (3rd generation)",
+    "model": "iPad11,4",
+    "ANumber": [
+      "A2123",
+      "A2153",
+      "A2154"
+    ],
+    "FCCID": [
+      "BCGA2123",
+      "BCGA2153"
+    ]
+  },
+  {
     "name": "iPad mini",
     "model": "iPad2,5",
     "ANumber": "A1432",
@@ -532,6 +564,25 @@
     "model": "iPad5,2",
     "ANumber": "A1550",
     "FCCID": "BCGA1550"
+  },
+  {
+    "name": "iPad mini (5th generation)",
+    "model": "iPad11,1",
+    "ANumber": "A2133",
+    "FCCID": "BCGA2133"
+  },
+  {
+    "name": "iPad mini (5th generation)",
+    "model": "iPad11,2",
+    "ANumber": [
+      "A2124",
+      "A2125",
+      "A2126"
+    ],
+    "FCCID": [
+      "BCGA2124",
+      "BCGA2126"
+    ]
   },
   {
     "name": "iPhone",

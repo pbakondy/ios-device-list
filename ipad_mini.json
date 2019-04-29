@@ -573,5 +573,85 @@
         "Model": [ "MK762", "MK8D2" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad mini (5th generation)",
+    "ANumber": "A2133",
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": "BCGA2133",
+    "InternalName": "J210AP",
+    "Identifier": "iPad11,1",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MUQY2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MUU62" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MUQX2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MUU52" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MUQW2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MUU32" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad mini (5th generation)",
+    "ANumber": [ "A2124", "A2125", "A2126" ],
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": [ "BCGA2124", "BCGA2126" ],
+    "InternalName": "J211AP",
+    "Identifier": "iPad11,2",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MUXH2", "MUX72" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MUXP2", "MUXE2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MUXG2", "MUX62" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MUXN2", "MUXD2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MUXF2", "MUX52" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MUXM2", "MUXC2" ]
+      }
+    ]
   }
 ]
