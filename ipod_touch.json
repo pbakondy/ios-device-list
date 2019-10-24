@@ -388,5 +388,105 @@
         "Model": [ "MKWU2" ]
       }
     ]
+  },
+  {
+    "Generation": "iPod touch (7th generation)",
+    "ANumber": "A2178",
+    "Bootrom": "Bootrom 2696.0.0.1.33",
+    "FCCID": "BCGA2178",
+    "InternalName": "N112AP",
+    "Identifier": "iPod9,1",
+    "Models": [
+      {
+        "Color": "Blue",
+        "Storage": "32 GB",
+        "Model": [ "MVHU2" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MVJ32" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MVJC2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MVHT2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MVJ22" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MVJ92" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "32 GB",
+        "Model": [ "MVHR2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "128 GB",
+        "Model": [ "MVHY2" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MVJ82" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "32 GB",
+        "Model": [ "MVHX2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MVJ72" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MVJF2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MVHV2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MVJ52" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MVJD2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MVHW2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MVJ62" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MVJE2" ]
+      }
+    ]
   }
 ]

@@ -1060,7 +1060,7 @@
       {
         "Color": "Space Gray",
         "Storage": "128 GB",
-        "Model": [ "MP2D2" ]
+        "Model": [ "MP2D2", "MP262" ]
       }
     ]
   },
@@ -1397,6 +1397,7 @@
     "Generation": "iPad Pro (11-inch)",
     "ANumber": "A1980",
     "FCCID": "BCGA1980",
+    "Bootrom": [ "Bootrom 4172.0.0.100.14" ],
     "InternalName": "J317AP",
     "Identifier": "iPad8,1",
     "Models": [
@@ -1628,6 +1629,7 @@
   {
     "Generation": "iPad Pro (12.9-inch) (3rd generation)",
     "ANumber": "A1876",
+    "Bootrom": [ "Bootrom 4172.0.0.100.14" ],
     "FCCID": "BCGA1876",
     "InternalName": "J320AP",
     "Identifier": "iPad8,5",
