@@ -1061,5 +1061,11 @@
     "model": "iPod7,1",
     "ANumber": "A1574",
     "FCCID": "BCGA1574"
+  },
+  {
+    "name": "iPod touch (7th generation)",
+    "model": "iPod9,1",
+    "ANumber": "A2178",
+    "FCCID": "BCGA2178"
   }
 ]
