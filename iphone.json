@@ -710,7 +710,7 @@
       {
         "Color": "Space Gray",
         "Storage": "16 GB",
-        "Model": [ "MG3A2", "MG4N2", "MG472", "MG5W2", "MG542", "MG692" ]
+        "Model": [ "MG3A2", "MG4N2", "MG472", "MG5H2", "MG5W2", "MG542", "MG692" ]
       },
       {
         "Color": "Space Gray",
@@ -2421,6 +2421,726 @@
         "Color": "Space Gray",
         "Storage": "512 GB",
         "Model": [ "MT772" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11",
+    "ANumber": [ "A2111" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "N104AP",
+    "Identifier": "iPhone12,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MWHT2", "MWK02", "MWJE2", "MWKM2", "MWL72" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MWJ02", "MWK72", "MWJL2", "MWKU2", "MWLE2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MWJ62", "MWKF2", "MWJT2", "MWL12", "MWLL2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "64 GB",
+        "Model": [ "MWHY2", "MWK62", "MWJK2", "MWKT2", "MWLD2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "128 GB",
+        "Model": [ "MWJ52", "MWKE2", "MWJR2", "MWL02", "MWLK2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "256 GB",
+        "Model": [ "MWJD2", "MWKL2", "MWJY2", "MWL62", "MWLR2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MWHV2", "MWK22", "MWJG2", "MWKP2", "MWL92" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MWJ22", "MWK92", "MWJN2", "MWKW2", "MWLG2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MWJ92", "MWKH2", "MWJV2", "MWL32", "MWLN2" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MWHX2", "MWK52", "MWJJ2", "MWKR2", "MWLC2" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "128 GB",
+        "Model": [ "MWJ42", "MWKD2", "MWJQ2", "MWKY2", "MWLJ2" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MWJC2", "MWKK2", "MWJX2", "MWL52", "MWLQ2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MWHU2", "MWK12", "MWJF2", "MWKN2", "MWL82" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MWJ12", "MWK82", "MWJM2", "MWKV2", "MWLF2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MWJ72", "MWKG2", "MWJU2", "MWL22", "MWLM2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MWHW2", "MWK32", "MWJH2", "MWKQ2", "MWLA2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MWJ32", "MWKC2", "MWJP2", "MWKX2", "MWLH2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MWJA2", "MWKJ2", "MWJW2", "MWL42", "MWLP2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11",
+    "ANumber": [ "A2221" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "N104AP",
+    "Identifier": "iPhone12,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MWLT2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MWM02" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MWM72" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "64 GB",
+        "Model": [ "MWLY2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "128 GB",
+        "Model": [ "MWM62" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "256 GB",
+        "Model": [ "MWMD2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MWLV2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MWM32" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MWM92" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MWLX2" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "128 GB",
+        "Model": [ "MWM52" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MWMC2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MWLU2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MWM22" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MWM82" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MWLW2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MWM42" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MWMA2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11",
+    "ANumber": [ "A2223" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "N104AP",
+    "Identifier": "iPhone12,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MWN02" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MWN72" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MWNF2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "64 GB",
+        "Model": [ "MWN62" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "128 GB",
+        "Model": [ "MWNE2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "256 GB",
+        "Model": [ "MWNL2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MWN22" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MWN92" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MWNH2" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MWN52" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "128 GB",
+        "Model": [ "MWND2" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MWNK2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MWN12" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MWN82" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MWNG2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "64 GB",
+        "Model": [ "MWN32" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "128 GB",
+        "Model": [ "MWNC2" ]
+      },
+      {
+        "Color": "Yellow",
+        "Storage": "256 GB",
+        "Model": [ "MWNJ2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11 Pro",
+    "ANumber": [ "A2160" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D421AP",
+    "Identifier": "iPhone12,3",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MW9E2", "MWA82", "MW9T2", "MWAQ2", "MWCK2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MW9J2", "MWAE2", "MW9X2", "MWAV2", "MWCP2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MW9N2", "MWAJ2", "MWA42", "MWC02", "MWCU2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "64 GB",
+        "Model": [ "MW9F2", "MWA92", "MW9U2", "MWAR2", "MWCL2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "256 GB",
+        "Model": [ "MW9K2", "MWAF2", "MW9Y2", "MWAW2", "MWCQ2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "512 GB",
+        "Model": [ "MW9P2", "MWAL2", "MWA52", "MWC12", "MWCV2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MW9D2", "MWA72", "MW9R2", "MWAP2", "MWCJ2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MW9H2", "MWAD2", "MW9W2", "MWAU2", "MWCN2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MW9M2", "MWAH2", "MWA32", "MWAY2", "MWCT2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MW9C2", "MWA62", "MW9Q2", "MWAM2", "MWCH2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MW9G2", "MWAA2", "MW9V2", "MWAT2", "MWCM2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MW9L2", "MWAG2", "MWA12", "MWAX2", "MWCR2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11 Pro",
+    "ANumber": [ "A2215" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D421AP",
+    "Identifier": "iPhone12,3",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MWC52" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MWC92" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MWCF2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "64 GB",
+        "Model": [ "MWC62" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "256 GB",
+        "Model": [ "MWCC2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "512 GB",
+        "Model": [ "MWCG2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MWC32" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MWC82" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MWCE2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MWC22" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MWC72" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MWCD" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11 Pro",
+    "ANumber": [ "A2217" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D421AP",
+    "Identifier": "iPhone12,3",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MWDC2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MWDG2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MWDL2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "64 GB",
+        "Model": [ "MWDD2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "256 GB",
+        "Model": [ "MWDH2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "512 GB",
+        "Model": [ "MWDM2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MWDA2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MWDF2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MWDK2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MWD92" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MWDE2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MWDJ2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11 Pro Max",
+    "ANumber": [ "A2161" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D431AP",
+    "Identifier": "iPhone12,5",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MWFC2", "MWG42", "MWFQ2", "MWGH2", "MWH12" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MWFG2", "MWG82", "MWFV2", "MWGM2", "MWH62" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MWFL2", "MWGD2", "MWG02", "MWGR2", "MWHA2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "64 GB",
+        "Model": [ "MWFD2", "MWG52", "MWFR2", "MWGJ2", "MWH22" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "256 GB",
+        "Model": [ "MWFH2", "MWG92", "MWFW2", "MWGN2", "MWH72" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "512 GB",
+        "Model": [ "MWFM2", "MWGE2", "MWG12", "MWGT2", "MWHC2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MWFA2", "MWG32", "MWFP2", "MWGG2", "MWH02" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MWFF2", "MWG72", "MWFU2", "MWGL2", "MWH52" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MWFK2", "MWGC2", "MWFY2", "MWGQ2", "MWH92" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MWF92", "MWG22", "MWFN2", "MWGF2", "MWGY2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MWFE2", "MWG62", "MWFT2", "MWGK2", "MWH42" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MWFJ2", "MWGA2", "MWFX2", "MWGP2", "MWH82" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11 Pro Max",
+    "ANumber": [ "A2220" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D431AP",
+    "Identifier": "iPhone12,5",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MWHG2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MWHL2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MWHQ2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "64 GB",
+        "Model": [ "MWHH2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "256 GB",
+        "Model": [ "MWHM2" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "512 GB",
+        "Model": [ "MWHR2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MWHF2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MWHK2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MWHP2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MWHD2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MWHJ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MWHN2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 11 Pro Max",
+    "ANumber": [ "A2218" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D431AP",
+    "Identifier": "iPhone12,5",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MWEX2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MWF32" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MWF72" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "64 GB",
+        "Model": [ "MWF02" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "256 GB",
+        "Model": [ "MWF42" ]
+      },
+      {
+        "Color": "Midnight Green",
+        "Storage": "512 GB",
+        "Model": [ "MWF82" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MWEW2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MWF22" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MWF62" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MWEV2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MWF12" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": [ "MWF52" ]
       }
     ]
   }

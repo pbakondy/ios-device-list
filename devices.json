@@ -26,6 +26,19 @@
     ]
   },
   {
+    "name": "AirPods Pro",
+    "model": "iProd8,1",
+    "ANumber": [
+      "A2083",
+      "A2084",
+      "A2190"
+    ],
+    "FCCID": [
+      "BCG-A2083",
+      "BCG-A2084"
+    ]
+  },
+  {
     "name": "Apple TV (2nd generation)",
     "model": "AppleTV2,1",
     "ANumber": "A1378",
@@ -1006,6 +1019,96 @@
     ],
     "FCCID": [
       "BCG-E3219A"
+    ]
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1",
+    "ANumber": [
+      "A2111"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1",
+    "ANumber": [
+      "A2221"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1",
+    "ANumber": [
+      "A2223"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3",
+    "ANumber": [
+      "A2160"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3",
+    "ANumber": [
+      "A2215"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3",
+    "ANumber": [
+      "A2217"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5",
+    "ANumber": [
+      "A2161"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5",
+    "ANumber": [
+      "A2220"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5",
+    "ANumber": [
+      "A2218"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
     ]
   },
   {

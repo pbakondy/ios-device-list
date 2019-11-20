@@ -24,5 +24,18 @@
         "Model": [ "MRXJ2", "MV7N2", "MR8U2" ]
       }
     ]
+  },
+  {
+    "Generation": "AirPods Pro",
+    "ANumber": [ "A2083", "A2084", "A2190" ],
+    "FCCID": [ "BCG-A2083", "BCG-A2084" ],
+    "InternalName": "B298AP",
+    "Identifier": "iProd8,1",
+    "Models": [
+      {
+        "Color": "White",
+        "Model": [ "MWP22" ]
+      }
+    ]
   }
 ]

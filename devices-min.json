@@ -8,6 +8,10 @@
     "model": "AirPods2,1"
   },
   {
+    "name": "AirPods Pro",
+    "model": "iProd8,1"
+  },
+  {
     "name": "Apple TV (2nd generation)",
     "model": "AppleTV2,1"
   },
@@ -500,6 +504,42 @@
     "model": "iPhone11,6"
   },
   {
+    "name": "iPhone 11",
+    "model": "iPhone12,1"
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1"
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3"
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5"
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5"
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5"
+  },
+  {
     "name": "iPod touch",
     "model": "iPod1,1"
   },
@@ -530,5 +570,9 @@
   {
     "name": "iPod touch (6th generation)",
     "model": "iPod7,1"
+  },
+  {
+    "name": "iPod touch (7th generation)",
+    "model": "iPod9,1"
   }
 ]
