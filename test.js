@@ -1,13 +1,12 @@
 /* eslint sourceType: module */
 
-import test from 'ava';
-
+const test = require('ava');
 const devices = require('./index');
 
 test('deviceTypes()', t => {
   t.is(typeof devices.deviceTypes, 'function');
   t.truthy(Array.isArray(devices.deviceTypes()));
-  t.is(devices.deviceTypes().length, 8);
+  t.is(devices.deviceTypes().length, 10);
 });
 
 test('devices()', t => {
@@ -57,55 +56,55 @@ test('devices() device', t => {
 test('generations()', t => {
   t.is(typeof devices.generations, 'function');
   t.truthy(Array.isArray(devices.generations()));
-  t.is(devices.generations().length, 60);
-  t.is(devices.generations('iphone').length, 21);
+  t.is(devices.generations().length, 70);
+  t.is(devices.generations('iphone').length, 25);
   t.throws(function() { devices.generations('invalidType') });
 });
 
 test('anumbers()', t => {
   t.is(typeof devices.anumbers, 'function');
   t.truthy(Array.isArray(devices.anumbers()));
-  t.is(devices.anumbers().length, 172);
-  t.is(devices.anumbers('iphone').length, 72);
+  t.is(devices.anumbers().length, 196);
+  t.is(devices.anumbers('iphone').length, 82);
   t.throws(function() { devices.anumbers('invalidType') });
 });
 
 test('fccids()', t => {
   t.is(typeof devices.fccids, 'function');
   t.truthy(Array.isArray(devices.fccids()));
-  t.is(devices.fccids().length, 132);
-  t.is(devices.fccids('iphone').length, 44);
+  t.is(devices.fccids().length, 146);
+  t.is(devices.fccids('iphone').length, 46);
   t.throws(function() { devices.fccids('invalidType') });
 });
 
 test('internalNames()', t => {
   t.is(typeof devices.internalNames, 'function');
   t.truthy(Array.isArray(devices.internalNames()));
-  t.is(devices.internalNames().length, 120);
-  t.is(devices.internalNames('iphone').length, 37);
+  t.is(devices.internalNames().length, 136);
+  t.is(devices.internalNames('iphone').length, 41);
   t.throws(function() { devices.internalNames('invalidType') });
 });
 
 test('identifiers()', t => {
   t.is(typeof devices.identifiers, 'function');
   t.truthy(Array.isArray(devices.identifiers()));
-  t.is(devices.identifiers().length, 112);
-  t.is(devices.identifiers('iphone').length, 32);
+  t.is(devices.identifiers().length, 128);
+  t.is(devices.identifiers('iphone').length, 36);
   t.throws(function() { devices.identifiers('invalidType') });
 });
 
 test('colors()', t => {
   t.is(typeof devices.colors, 'function');
   t.truthy(Array.isArray(devices.colors()));
-  t.is(devices.colors().length, 17);
-  t.is(devices.colors('iphone').length, 13);
+  t.is(devices.colors().length, 21);
+  t.is(devices.colors('iphone').length, 15);
   t.throws(function() { devices.colors('invalidType') });
 });
 
 test('storages()', t => {
   t.is(typeof devices.storages, 'function');
   t.truthy(Array.isArray(devices.storages()));
-  t.is(devices.storages().length, 10);
+  t.is(devices.storages().length, 13);
   t.is(devices.storages('iphone').length, 8);
   t.throws(function() { devices.storages('invalidType') });
 });
@@ -242,7 +241,7 @@ test('deviceByColor()', t => {
   t.is(typeof devices.deviceByColor(find), 'object');
   t.is(devices.deviceByColor(find).length > 0, true);
   t.is(devices.deviceByColor(find, 'iphone').length > 0, true);
-  t.is(devices.deviceByColor(find, 'ipad').length > 0, true);
+  t.is(devices.deviceByColor(find, 'ipad').length > 0, false);
   t.throws(function() { devices.deviceByColor(find, 'invalidType') });
 
   t.is(devices.deviceByColor(find.substr(0, 8)).length, 0);

@@ -38,7 +38,7 @@ In browser:
 
 ### `.deviceTypes()` : Array
 
-Returns the device type list: airpods, apple_tv, apple_watch, homepod, ipad, ipad_mini, iphone, ipod_touch
+Returns the device type list: airpods, apple_tv, apple_watch, homepod, ipad, ipad_air, ipad_pro, ipad_mini, iphone, ipod_touch
 
 ### `.devices([type])` : Array
 

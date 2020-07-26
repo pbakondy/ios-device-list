@@ -9,6 +9,8 @@ const apple_tv = require('./apple_tv.json');
 const apple_watch = require('./apple_watch.json');
 const homepod = require('./homepod.json');
 const ipad = require('./ipad.json');
+const ipad_air = require('./ipad_air.json');
+const ipad_pro = require('./ipad_pro.json');
 const ipad_mini = require('./ipad_mini.json');
 const iphone = require('./iphone.json');
 const ipod_touch = require('./ipod_touch.json');
@@ -22,6 +24,8 @@ const all = (() => {
     apple_watch.map(v => { v.Type = 'apple_watch'; return v; }),
     homepod.map(v => { v.Type = 'homepod'; return v; }),
     ipad.map(v => { v.Type = 'ipad'; return v; }),
+    ipad_air.map(v => { v.Type = 'ipad_air'; return v; }),
+    ipad_pro.map(v => { v.Type = 'ipad_pro'; return v; }),
     ipad_mini.map(v => { v.Type = 'ipad_mini'; return v; }),
     iphone.map(v => { v.Type = 'iphone'; return v; }),
     ipod_touch.map(v => { v.Type = 'ipod_touch'; return v; })
@@ -55,7 +59,7 @@ const all = (() => {
 })();
 
 function deviceTypes() {
-  return 'airpods,apple_tv,apple_watch,homepod,ipad,ipad_mini,iphone,ipod_touch'.split(',');
+  return 'airpods,apple_tv,apple_watch,homepod,ipad,ipad_air,ipad_pro,ipad_mini,iphone,ipod_touch'.split(',');
 }
 
 function devices(type) {

@@ -1,5 +1,22 @@
 [
   {
+    "Generation": "Apple TV (1st generation)",
+    "ANumber": "A1218",
+    "Identifier": "AppleTV1,1",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "40 GB",
+        "Model": [ "MA711" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "160 GB",
+        "Model": [ "MB189" ]
+      }
+    ]
+  },
+  {
     "Generation": "Apple TV (2nd generation)",
     "ANumber": "A1378",
     "Bootrom": "Bootrom 574.4",

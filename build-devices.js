@@ -8,6 +8,8 @@ const apple_tv = require('./apple_tv.json');
 const apple_watch = require('./apple_watch.json');
 const homepod = require('./homepod.json');
 const ipad = require('./ipad.json');
+const ipad_air = require('./ipad_air.json');
+const ipad_pro = require('./ipad_pro.json');
 const ipad_mini = require('./ipad_mini.json');
 const iphone = require('./iphone.json');
 const ipod_touch = require('./ipod_touch.json');
@@ -53,6 +55,8 @@ function build() {
   apple_watch.forEach(addDevice);
   homepod.forEach(addDevice);
   ipad.forEach(addDevice);
+  ipad_air.forEach(addDevice);
+  ipad_pro.forEach(addDevice);
   ipad_mini.forEach(addDevice);
   iphone.forEach(addDevice);
   ipod_touch.forEach(addDevice);

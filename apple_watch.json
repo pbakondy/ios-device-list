@@ -450,7 +450,7 @@
   {
     "Generation": "Apple Watch Series 4",
     "ANumber": [ "A1977" ],
-    "Bootrom": "Unknown",
+    "Bootrom": "Bootrom 3988.0.0.2.12",
     "FCCID": [ "BCG-A1977" ],
     "InternalName": "N131sAP",
     "Identifier": "Watch4,1",
@@ -592,6 +592,190 @@
         "Color": "Space Black",
         "Size": "44mm",
         "Model": [ "MTV52", "MTV62", "MTX22", "MTX32" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 5",
+    "ANumber": [ "A2092" ],
+    "Bootrom": "Bootrom 3988.0.0.2.12",
+    "FCCID": [ "BCG-A2092" ],
+    "InternalName": "N144sAP",
+    "Identifier": "Watch5,1",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MWRY2", "MWV72" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MWRX2", "MX3R2", "MWV62" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MWT02", "MWV82" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 5",
+    "ANumber": [ "A2093" ],
+    "Bootrom": "Bootrom 3988.0.0.2.12",
+    "FCCID": [ "BCG-A2093" ],
+    "InternalName": "N144bAP",
+    "Identifier": "Watch5,2",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MWT42" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MWVD2", "MX3V2", "MWT62", "MWT32" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "MWT52", "MWVF2", "MWT72" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 5",
+    "ANumber": [ "A2094", "A2156" ],
+    "Bootrom": "Bootrom 3988.0.0.2.12",
+    "FCCID": [ "BCG-A2094", "BCG-A2156" ],
+    "InternalName": "N146sAP",
+    "Identifier": "Watch5,3",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MWPU2", "MWQ72" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MWWN2", "MWX12", "MX372", "MX3C2", "MWPT2", "MWQ62", "MWQG2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MWPV2", "MWQ82", "MWWQ2", "MWX32", "MWQ42", "MWQH2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MWPW2", "MWX62", "MWWV2", "MWWU2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Stainless Steel",
+        "Size": "40mm",
+        "Model": [ "MWPX2", "MWQA2", "MX5L2", "MX5K2", "MWWT2", "MWX52", "MWQJ2", "MX5M2", "MX5N2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "40mm",
+        "Model": [ "MWPY2", "MWQC2", "MWX02", "MWXC2", "MWXA2" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "40mm",
+        "Model": [ "MWQ12", "MWQE2" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Space Black",
+        "Size": "40mm",
+        "Model": [ "MWQ02", "MWQD2" ]
+      },
+      {
+        "CaseMaterial": "Ceramic",
+        "Color": "White",
+        "Size": "40mm",
+        "Model": [ "MWQ22", "MWQF2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 5",
+    "ANumber": [ "A2095", "A2157" ],
+    "Bootrom": "Bootrom 3988.0.0.2.12",
+    "FCCID": [ "BCG-A2095", "BCG-A2157" ],
+    "InternalName": "N146bAP",
+    "Identifier": "Watch5,4",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MWQL2", "MWR02" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MWVY2", "MWWC2", "MX392", "MX3E2", "MWQV2", "MXR12", "MWQK2", "MWQY2", "MWR82" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "MWQM2", "MWR12", "MWW12", "MWWE2", "MWQW2", "MX3A2", "MWR92" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MWQN2", "MWWH2", "MWW62", "MWW52", "MWR22", "MWWJ2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Stainless Steel",
+        "Size": "44mm",
+        "Model": [ "MWQP2", "MWR32", "MWQX2", "MWW32", "MWWG2", "MWRA2", "MX5C2" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "44mm",
+        "Model": [ "MWQQ2", "MWR42", "MWW92", "MWWM2" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "44mm",
+        "Model": [ "MWQT2", "MWR62" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Space Black",
+        "Size": "44mm",
+        "Model": [ "MWQR2", "MWR52" ]
+      },
+      {
+        "CaseMaterial": "Ceramic",
+        "Color": "White",
+        "Size": "44mm",
+        "Model": [ "MWQU2", "MWR72" ]
       }
     ]
   }

@@ -2,6 +2,7 @@
   {
     "Generation": "HomePod",
     "ANumber": "A1639",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
     "FCCID": "BCG-A1639",
     "InternalName": "B238aAP",
     "Identifier": "AudioAccessory1,1",
@@ -19,6 +20,7 @@
   {
     "Generation": "HomePod",
     "ANumber": "Unknown",
+    "Bootrom": "Bootrom 1992.0.0.1.19",
     "FCCID": "Unknown",
     "InternalName": "B238AP",
     "Identifier": "AudioAccessory1,2",

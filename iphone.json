@@ -575,7 +575,7 @@
     ]
   },
   {
-    "Generation": "iPhone SE",
+    "Generation": "iPhone SE (1st generation)",
     "ANumber": [ "A1662", "A1723", "A1724" ],
     "Bootrom": [ "Bootrom 2234.0.0.3.3 (S8000)", "Bootrom 2234.0.0.2.22 (S8003)" ],
     "FCCID": "BCG‑E2945A",
@@ -3141,6 +3141,61 @@
         "Color": "Space Gray",
         "Storage": "512 GB",
         "Model": [ "MWF52" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone SE (2nd generation)",
+    "ANumber": "",
+    "Bootrom": "Bootrom 4479.0.0.100.4 ",
+    "FCCID": "",
+    "InternalName": "D79AP",
+    "Identifier": "iPhone12,8",
+    "Models": [
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MX9T2", "MX9A2", "MX9H2", "MX9E2", "MX9L2", "MX9P2", "MXAN2" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MXD12", "MXCJ2", "MXCQ2", "MXCM2", "MXCU2", "MXCX2", "MXD72" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MXVU2", "MXVC2", "MXVJ2", "MXVF2", "MXVM2", "MXVQ2", "MXW12" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MX9R2", "MX992", "MX9G2", "MX9D2", "MX9K2", "MX9N2", "MXAM2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MXD02", "MXCH2", "MXCP2", "MXCL2", "MXCT2", "MXCW2", "MXD62" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MXVT2", "MXVA2", "MXVH2", "MXVE2", "MXVL2", "MXVP2", "MXW02" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MX9U2", "MX9C2", "MX9J2", "MX9F2", "MX9M2", "MX9Q2", "MXAP2" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MXD22", "MXCK2", "MXCR2", "MXCN2", "MXCV2", "MXCY2", "MXD82" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MXVV2", "MXVD2", "MXVK2", "MXVG2", "MXVN2", "MXVR2", "MXW22" ]
       }
     ]
   }

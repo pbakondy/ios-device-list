@@ -1,0 +1,372 @@
+[
+  {
+    "Generation": "iPad Air",
+    "ANumber": "A1474",
+    "Bootrom": "Bootrom 1704.10",
+    "FCCID": "BCGA1474",
+    "InternalName": "J71AP",
+    "Identifier": "iPad4,1",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MD788" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MD789" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MD790" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "ME906" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MD785" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MD786" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MD787" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "ME898" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air",
+    "ANumber": "A1475",
+    "Bootrom": "Bootrom 1704.10",
+    "FCCID": "BCGA1475",
+    "InternalName": "J72AP",
+    "Identifier": "iPad4,2",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MD794", "ME997", "ME999", "MF021", "MF502" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MD795", "MF025", "MF527", "MF529", "MF532" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MD796", "MF012", "MF013", "MF027", "MF539" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "ME988", "MF018", "MF019", "MF029", "MF563" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MD791", "ME991", "ME993", "MF020", "MF496" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MD792", "MF003", "MF004", "MF024", "MF520" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MD793", "MF009", "MF010", "MF026", "MF534" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "ME987", "MF015", "MF016", "MF028", "MF558" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air",
+    "ANumber": "A1476",
+    "Bootrom": "Bootrom 1704.10",
+    "FCCID": "BCGA1476",
+    "InternalName": "J73AP",
+    "Identifier": "iPad4,3",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MF230" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MF233" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MF234" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MF236" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MD797" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MD798" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MD799" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MF235" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air 2",
+    "ANumber": "A1566",
+    "Bootrom": "Bootrom 1991.0.0.2.16",
+    "FCCID": "BCGA1566",
+    "InternalName": "J81AP",
+    "Identifier": "iPad5,3",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "16 GB",
+        "Model": [ "MH0W2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MNV72" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MH182" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MH1J2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MGLW2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MNV62" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MGKM2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MGTY2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MGL12" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MNV22" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MGKL2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MGTX2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air 2",
+    "ANumber": "A1567",
+    "Bootrom": "Bootrom 1991.0.0.2.16",
+    "FCCID": "BCGA1567",
+    "InternalName": "J82AP",
+    "Identifier": "iPad5,4",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "16 GB",
+        "Model": [ "MH1C2", "MH2W2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MNW32" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MH2P2", "MH172", "MHWP2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MH1G2", "MH2D2", "MH332" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "16 GB",
+        "Model": [ "MGHC2", "MH2V2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MNW22" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MGHY2", "MGK02", "MH2N2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MGWM2", "MH322" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "16 GB",
+        "Model": [ "MGGX2", "MGH62", "MH2U2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MNW12" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MGHX2", "MGJY2", "MH2M2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MGWL2", "MH312" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air (3rd generation)",
+    "ANumber": "A2152",
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": "BCGA2152",
+    "InternalName": "J217AP",
+    "Identifier": "iPad11,3",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MUUL2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MUUT2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MUUK2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MUUR2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MUUJ2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MUUQ2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air (3rd generation)",
+    "ANumber": [ "A2123", "A2153", "A2154" ],
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": [ "BCGA2123", "BCGA2153" ],
+    "InternalName": "J218AP",
+    "Identifier": "iPad11,4",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MV172", "MV0F2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MV1G2", "MV0Q2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MV162", "MV0E2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MV1F2", "MV0P2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MV152", "MV0D2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MV1D2", "MV0N2" ]
+      }
+    ]
+  }
+]
