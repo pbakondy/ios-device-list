@@ -778,5 +778,335 @@
         "Model": [ "MWQU2", "MWR72" ]
       }
     ]
+  },
+  {
+    "Generation": "Apple Watch SE",
+    "ANumber": [ "A2351" ],
+    "FCCID": [ "BCG-A2351" ],
+    "InternalName": "N140sAP",
+    "Identifier": "Watch5,9",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MYDY2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MYDX2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MYE02" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch SE",
+    "ANumber": [ "A2352" ],
+    "FCCID": [ "BCG-A2352" ],
+    "InternalName": "N140bAP",
+    "Identifier": "Watch5,10",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MYE22" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MYE12" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "MYE32" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch SE",
+    "ANumber": [ "A2353", "A2355" ],
+    "FCCID": [ "BCG-A2353", "BCG-A2355" ],
+    "InternalName": "N142sAP",
+    "Identifier": "Watch5,11",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MYF32", "MYF62" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MYF22", "MYF52" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MYF42", "MYF72" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch SE",
+    "ANumber": [ "A2354", "A2356" ],
+    "FCCID": [ "BCG-A2354", "BCG-A2355" ],
+    "InternalName": "N142bAP",
+    "Identifier": "Watch5,12",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "MYF92", "MYFD2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "MYF82", "MYFC2" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "MYFA2", "MYFE2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 6",
+    "ANumber": [ "A2291" ],
+    "FCCID": [ "BCG-A2291" ],
+    "InternalName": "N157sAP",
+    "Identifier": "Watch6,1",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "MG193" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "MG183" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "MG1A3" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Blue",
+        "Size": "40mm",
+        "Model": [ "MG2A3" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "40mm",
+        "Model": [ "M02C3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 6",
+    "ANumber": [ "A2292" ],
+    "FCCID": [ "BCG-A2292" ],
+    "InternalName": "N157bAP",
+    "Identifier": "Watch6,2",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "M02E3" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "M02D3" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "M02F3" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Blue",
+        "Size": "44mm",
+        "Model": [ "M02G3" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "44mm",
+        "Model": [ "M02H3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 6",
+    "ANumber": [ "A2293", "A2375" ],
+    "FCCID": [ "BCG-A2293", "BCG-A2375" ],
+    "InternalName": "N158sAP",
+    "Identifier": "Watch6,3",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "M0DP3", "M0D53" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "M0DM3", "M0D23" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "40mm",
+        "Model": [ "M0DQ3", "M0D63" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Blue",
+        "Size": "40mm",
+        "Model": [ "M0DR3", "M0D73" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "40mm",
+        "Model": [ "M0DT3", "M0D83" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "40mm",
+        "Model": [ "M0DU3", "M0D93" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "40mm",
+        "Model": [ "M0DV3", "M0DC3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "40mm",
+        "Model": [ "M0DW3", "M0DF3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "40mm",
+        "Model": [ "MG363", "MG303" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "40mm",
+        "Model": [ "M0DY3", "M0DH3" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Space Black",
+        "Size": "40mm",
+        "Model": [ "M0DX3", "M0DG3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 6",
+    "ANumber": [ "A2294", "A2376" ],
+    "FCCID": [ "BCG-A2294", "BCG-A2376" ],
+    "InternalName": "N158bAP",
+    "Identifier": "Watch6,4",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "M0GQ3", "M0G73" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "M0GP3", "M0G63" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Space Gray",
+        "Size": "44mm",
+        "Model": [ "M0GR3", "M0G83" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Blue",
+        "Size": "44mm",
+        "Model": [ "M0GT3", "M0G93" ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "44mm",
+        "Model": [ "M0GU3", "M0GC3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "44mm",
+        "Model": [ "M0GV3", "M0GD3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "44mm",
+        "Model": [ "M0GW3", "M0GF3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "44mm",
+        "Model": [ "M0GX3", "M0GG3" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "44mm",
+        "Model": [ "M0H23", "M0GJ3" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Space Black",
+        "Size": "44mm",
+        "Model": [ "M0H13", "M0GH3" ]
+      }
+    ]
   }
 ]

@@ -108,12 +108,48 @@
     "model": "Watch5,4"
   },
   {
+    "name": "Apple Watch SE",
+    "model": "Watch5,9"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,10"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,11"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,12"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,1"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,2"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,3"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,4"
+  },
+  {
     "name": "HomePod",
     "model": "AudioAccessory1,1"
   },
   {
     "name": "HomePod",
     "model": "AudioAccessory1,2"
+  },
+  {
+    "name": "HomePod mini",
+    "model": "AudioAccessory5,1"
   },
   {
     "name": "iPad",
@@ -188,6 +224,14 @@
     "model": "iPad7,12"
   },
   {
+    "name": "iPad (8th generation)",
+    "model": "iPad11,6"
+  },
+  {
+    "name": "iPad (8th generation)",
+    "model": "iPad11,7"
+  },
+  {
     "name": "iPad Air",
     "model": "iPad4,1"
   },
@@ -214,6 +258,14 @@
   {
     "name": "iPad Air (3rd generation)",
     "model": "iPad11,4"
+  },
+  {
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,1"
+  },
+  {
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,2"
   },
   {
     "name": "iPad Pro (12.9-inch)",
@@ -586,6 +638,22 @@
   {
     "name": "iPhone SE (2nd generation)",
     "model": "iPhone12,8"
+  },
+  {
+    "name": "iPhone 12 mini",
+    "model": "iPhone13,1"
+  },
+  {
+    "name": "iPhone 12",
+    "model": "iPhone13,2"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "model": "iPhone13,3"
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "model": "iPhone13,4"
   },
   {
     "name": "iPod touch",

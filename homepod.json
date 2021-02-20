@@ -34,5 +34,23 @@
         "Model": [ ]
       }
     ]
+  },
+  {
+    "Generation": "HomePod mini",
+    "ANumber": "Unknown",
+    "Bootrom": "Unknown",
+    "FCCID": "Unknown",
+    "InternalName": "B520AP",
+    "Identifier": "AudioAccessory5,1",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Model": [ "MY5G2" ]
+      },
+      {
+        "Color": "White",
+        "Model": [ "MY5H2" ]
+      }
+    ]
   }
 ]

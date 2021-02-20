@@ -368,5 +368,125 @@
         "Model": [ "MV1D2", "MV0N2" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad Air (4th generation)",
+    "ANumber": [ "?" ],
+    "Bootrom": "Bootrom 5281.0.0.100.45",
+    "FCCID": [ "?" ],
+    "InternalName": "J307AP",
+    "Identifier": "iPad13,1",
+    "Models": [
+      {
+        "Color": "Rose Gold",
+        "Storage": "64 GB",
+        "Model": [ "MYFP2" ]
+      },
+      {
+        "Color": "Rose Gold",
+        "Storage": "256 GB",
+        "Model": [ "MYFX2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MYFN2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MYFW2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MYFM2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MYFT2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "64 GB",
+        "Model": [ "MYFR2" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "256 GB",
+        "Model": [ "MYG02" ]
+      },
+      {
+        "Color": "Sky Blue",
+        "Storage": "64 GB",
+        "Model": [ "MYFQ2" ]
+      },
+      {
+        "Color": "Sky Blue",
+        "Storage": "256 GB",
+        "Model": [ "MYFY2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air (4th generation)",
+    "ANumber": [ "A2324", "A2072" ],
+    "Bootrom": "Bootrom 5281.0.0.100.45",
+    "FCCID": [ "BCGA2324", "BCGA2153" ],
+    "InternalName": "J308AP",
+    "Identifier": "iPad13,2",
+    "Models": [
+      {
+        "Color": "Rose Gold",
+        "Storage": "64 GB",
+        "Model": [ "MYGY2", "MYJ02" ]
+      },
+      {
+        "Color": "Rose Gold",
+        "Storage": "256 GB",
+        "Model": [ "MYH52", "MYJ52" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MYGX2", "MYHY2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MYH42", "MYJ42" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MYGW2", "MYHX2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MYH22", "MYJ32" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "64 GB",
+        "Model": [ "MYH12", "MYJ22" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "256 GB",
+        "Model": [ "MYH72", "MYJ72" ]
+      },
+      {
+        "Color": "Sky Blue",
+        "Storage": "64 GB",
+        "Model": [ "MYH02", "MYJ12" ]
+      },
+      {
+        "Color": "Sky Blue",
+        "Storage": "256 GB",
+        "Model": [ "MYH62", "MYJ62" ]
+      }
+    ]
   }
 ]

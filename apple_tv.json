@@ -2,6 +2,7 @@
   {
     "Generation": "Apple TV (1st generation)",
     "ANumber": "A1218",
+    "Bootrom": "None",
     "Identifier": "AppleTV1,1",
     "Models": [
       {

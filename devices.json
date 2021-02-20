@@ -255,6 +255,94 @@
     ]
   },
   {
+    "name": "Apple Watch SE",
+    "model": "Watch5,9",
+    "ANumber": [
+      "A2351"
+    ],
+    "FCCID": [
+      "BCG-A2351"
+    ]
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,10",
+    "ANumber": [
+      "A2352"
+    ],
+    "FCCID": [
+      "BCG-A2352"
+    ]
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,11",
+    "ANumber": [
+      "A2353",
+      "A2355"
+    ],
+    "FCCID": [
+      "BCG-A2353",
+      "BCG-A2355"
+    ]
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,12",
+    "ANumber": [
+      "A2354",
+      "A2356"
+    ],
+    "FCCID": [
+      "BCG-A2354",
+      "BCG-A2355"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,1",
+    "ANumber": [
+      "A2291"
+    ],
+    "FCCID": [
+      "BCG-A2291"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,2",
+    "ANumber": [
+      "A2292"
+    ],
+    "FCCID": [
+      "BCG-A2292"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,3",
+    "ANumber": [
+      "A2293",
+      "A2375"
+    ],
+    "FCCID": [
+      "BCG-A2293",
+      "BCG-A2375"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,4",
+    "ANumber": [
+      "A2294",
+      "A2376"
+    ],
+    "FCCID": [
+      "BCG-A2294",
+      "BCG-A2376"
+    ]
+  },
+  {
     "name": "HomePod",
     "model": "AudioAccessory1,1",
     "ANumber": "A1639",
@@ -263,6 +351,12 @@
   {
     "name": "HomePod",
     "model": "AudioAccessory1,2",
+    "ANumber": "Unknown",
+    "FCCID": "Unknown"
+  },
+  {
+    "name": "HomePod mini",
+    "model": "AudioAccessory5,1",
     "ANumber": "Unknown",
     "FCCID": "Unknown"
   },
@@ -381,6 +475,25 @@
     ]
   },
   {
+    "name": "iPad (8th generation)",
+    "model": "iPad11,6",
+    "ANumber": "A2270",
+    "FCCID": "BCGA2270"
+  },
+  {
+    "name": "iPad (8th generation)",
+    "model": "iPad11,7",
+    "ANumber": [
+      "A2428",
+      "A2429",
+      "A2430"
+    ],
+    "FCCID": [
+      "BCGA2428",
+      "BCGA2429"
+    ]
+  },
+  {
     "name": "iPad Air",
     "model": "iPad4,1",
     "ANumber": "A1474",
@@ -426,6 +539,28 @@
     ],
     "FCCID": [
       "BCGA2123",
+      "BCGA2153"
+    ]
+  },
+  {
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,1",
+    "ANumber": [
+      "?"
+    ],
+    "FCCID": [
+      "?"
+    ]
+  },
+  {
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,2",
+    "ANumber": [
+      "A2324",
+      "A2072"
+    ],
+    "FCCID": [
+      "BCGA2324",
       "BCGA2153"
     ]
   },
@@ -582,26 +717,40 @@
   {
     "name": "iPad Pro (11-inch) (2nd generation)",
     "model": "iPad8,9",
-    "ANumber": "",
-    "FCCID": ""
+    "ANumber": "A2228",
+    "FCCID": "BCGA2228"
   },
   {
     "name": "iPad Pro (11-inch) (2nd generation)",
     "model": "iPad8,10",
-    "ANumber": "",
-    "FCCID": ""
+    "ANumber": [
+      "A2068",
+      "A2230",
+      "A2231"
+    ],
+    "FCCID": [
+      "BCGA2068",
+      "BCGA2230"
+    ]
   },
   {
     "name": "iPad Pro (12.9-inch) (4th generation)",
     "model": "iPad8,11",
-    "ANumber": "",
-    "FCCID": ""
+    "ANumber": "A2229",
+    "FCCID": "BCGA2229"
   },
   {
     "name": "iPad Pro (12.9-inch) (4th generation)",
     "model": "iPad8,12",
-    "ANumber": "",
-    "FCCID": ""
+    "ANumber": [
+      "A2069",
+      "A2232",
+      "A2233"
+    ],
+    "FCCID": [
+      "BCGA2069",
+      "BCGA2232"
+    ]
   },
   {
     "name": "iPad mini",
@@ -1205,8 +1354,55 @@
   {
     "name": "iPhone SE (2nd generation)",
     "model": "iPhone12,8",
-    "ANumber": "",
-    "FCCID": ""
+    "ANumber": [
+      "A2275",
+      "A2296",
+      "A2298"
+    ],
+    "FCCID": [
+      "E3500A",
+      "E3501A"
+    ]
+  },
+  {
+    "name": "iPhone 12 mini",
+    "model": "iPhone13,1",
+    "ANumber": [
+      "A2176"
+    ],
+    "FCCID": [
+      "BCG-E3539A"
+    ]
+  },
+  {
+    "name": "iPhone 12",
+    "model": "iPhone13,2",
+    "ANumber": [
+      "A2172"
+    ],
+    "FCCID": [
+      "BCG-E3542A"
+    ]
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "model": "iPhone13,3",
+    "ANumber": [
+      "A2341"
+    ],
+    "FCCID": [
+      "BCG-E3545A"
+    ]
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "model": "iPhone13,4",
+    "ANumber": [
+      "A2342"
+    ],
+    "FCCID": [
+      "BCG-E3548A"
+    ]
   },
   {
     "name": "iPod touch",

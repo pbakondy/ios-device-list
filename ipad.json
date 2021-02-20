@@ -698,5 +698,83 @@
         "Model": [ "MW6E2", "MW6T2", "MW702" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad (8th generation)",
+    "ANumber": "A2270",
+    "FCCID": "BCGA2270",
+    "InternalName": "J171aAP",
+    "Identifier": "iPad11,6",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MYLC2" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MYLF2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MYLA2" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MYLE2" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MYL92" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MYLD2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (8th generation)",
+    "ANumber": [ "A2428", "A2429", "A2430" ],
+    "FCCID": [ "BCGA2428", "BCGA2429" ],
+    "InternalName": "J172aAP",
+    "Identifier": "iPad11,7",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MYMK2", "MYN62" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MYMN2", "MYN92" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "32 GB",
+        "Model": [ "MYMJ2", "MYN52" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MYMM2", "MYN82" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "32 GB",
+        "Model": [ "MYMH2", "MYN32" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": [ "MYML2", "MYN72" ]
+      }
+    ]
   }
 ]

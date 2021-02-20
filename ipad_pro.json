@@ -966,9 +966,9 @@
   },
   {
     "Generation": "iPad Pro (11-inch) (2nd generation)",
-    "ANumber": "",
+    "ANumber": "A2228",
     "Bootrom": "Bootrom 4172.0.0.100.14",
-    "FCCID": "",
+    "FCCID": "BCGA2228",
     "InternalName": "J417AP",
     "Identifier": "iPad8,9",
     "Models": [
@@ -1016,9 +1016,9 @@
   },
   {
     "Generation": "iPad Pro (11-inch) (2nd generation)",
-    "ANumber": "",
+    "ANumber": [ "A2068", "A2230", "A2231" ],
     "Bootrom": "Bootrom 4172.0.0.100.14",
-    "FCCID": "",
+    "FCCID": [ "BCGA2068", "BCGA2230" ],
     "InternalName": "J418AP",
     "Identifier": "iPad8,10",
     "Models": [
@@ -1066,9 +1066,9 @@
   },
   {
     "Generation": "iPad Pro (12.9-inch) (4th generation)",
-    "ANumber": "",
+    "ANumber": "A2229",
     "Bootrom": "Bootrom 4172.0.0.100.14",
-    "FCCID": "",
+    "FCCID": "BCGA2229",
     "InternalName": "J420AP",
     "Identifier": "iPad8,11",
     "Models": [
@@ -1116,9 +1116,9 @@
   },
   {
     "Generation": "iPad Pro (12.9-inch) (4th generation)",
-    "ANumber": "",
+    "ANumber": [ "A2069", "A2232", "A2233" ],
     "Bootrom": "Bootrom 4172.0.0.100.14",
-    "FCCID": "",
+    "FCCID": [ "BCGA2069", "BCGA2232" ],
     "InternalName": "J421AP",
     "Identifier": "iPad8,12",
     "Models": [
