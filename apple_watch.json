@@ -1108,5 +1108,233 @@
         "Model": [ "M0H13", "M0GH3" ]
       }
     ]
+  },
+  {
+    "Generation": "Apple Watch Series 7",
+    "ANumber": [ "A2473" ],
+    "FCCID": [ "BCG-A2473" ],
+    "InternalName": "N187sAP",
+    "Identifier": "Watch6,6",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Green",
+        "Size": "41mm",
+        "Model": [ "MKNF3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Starlight",
+        "Size": "41mm",
+        "Model": [ "MKNP3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Midnight",
+        "Size": "41mm",
+        "Model": [ "MKMX3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Blue",
+        "Size": "41mm",
+        "Model": [ "MKNH3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Red",
+        "Size": "41mm",
+        "Model": [ "MKNJ3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 7",
+    "ANumber": [ "A2474" ],
+    "FCCID": [ "BCG-A2474" ],
+    "InternalName": "N187bAP",
+    "Identifier": "Watch6,7",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Green",
+        "Size": "45mm",
+        "Model": [ "MKNQ3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Starlight",
+        "Size": "45mm",
+        "Model": [ "MKNP3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Midnight",
+        "Size": "45mm",
+        "Model": [ "MKN53" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Blue",
+        "Size": "45mm",
+        "Model": [ "MKNR3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Red",
+        "Size": "45mm",
+        "Model": [ "MKNT3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 7",
+    "ANumber": [ "A2475", "A2476" ],
+    "FCCID": [ "BCG-A2475", "BCG-A2476" ],
+    "InternalName": "N188sAP",
+    "Identifier": "Watch6,8",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Green",
+        "Size": "41mm",
+        "Model": [ "MKLA3", "MKLP3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Starlight",
+        "Size": "41mm",
+        "Model": [ "MKL93", "MKLN3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Midnight",
+        "Size": "41mm",
+        "Model": [ "MKH73", "MKHQ3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Blue",
+        "Size": "41mm",
+        "Model": [ "MKLC3", "MKLQ3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Red",
+        "Size": "41mm",
+        "Model": [ "MKLD3", "MKLR3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "41mm",
+        "Model": [ "MKLE3", "MKLT3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ "MKLF3", "MKHX3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "41mm",
+        "Model": [ "MKHK3", "MKJ23" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "41mm",
+        "Model": [ "MKLL3", "MKM23" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "41mm",
+        "Model": [ "ML8U3", "ML913" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Space Black",
+        "Size": "41mm",
+        "Model": [ "ML8V3", "ML903" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 7",
+    "ANumber": [ "A2477", "A2478" ],
+    "FCCID": [ "BCG-A2477", "BCG-A2478" ],
+    "InternalName": "N188bAP",
+    "Identifier": "Watch6,9",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Green",
+        "Size": "45mm",
+        "Model": [ "MKM63", "MKML3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Starlight",
+        "Size": "45mm",
+        "Model": [ "MKM53", "MKMK3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Midnight",
+        "Size": "45mm",
+        "Model": [ "MKJ73", "MKJP3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Blue",
+        "Size": "45mm",
+        "Model": [ "MKM73", "MKMM3" ]
+      },
+      {
+        "CaseMaterial": "Aluminium",
+        "Color": "Red",
+        "Size": "45mm",
+        "Model": [ "MKM83", "MKMN3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "45mm",
+        "Model": [ "MKM93", "ML7W3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ "MKJE3", "MKJW3" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "45mm",
+        "Model": [ "MKJJ3", "MKL33" ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "45mm",
+        "Model": [ "MKMH3", "MKMW3" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "45mm",
+        "Model": [ "ML8W3", "ML8Y3" ]
+      },
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Space Black",
+        "Size": "45mm",
+        "Model": [ "ML8V3", "ML8X3" ]
+      }
+    ]
   }
 ]
