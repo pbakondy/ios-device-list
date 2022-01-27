@@ -653,5 +653,105 @@
         "Model": [ "MUXM2", "MUXC2" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad mini (6th generation)",
+    "ANumber": [ "A2567" ],
+    "Bootrom": "",
+    "FCCID": [ "BCGA2567" ],
+    "InternalName": "J310AP",
+    "Identifier": "iPad14,1",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MK7M3" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MK7T3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "64 GB",
+        "Model": [ "MLWL3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MLWR3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MK7R3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MK7X3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "64 GB",
+        "Model": [ "MK7P3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MK7V3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad mini (6th generation)",
+    "ANumber": [ "A2568", "A2569" ],
+    "Bootrom": "",
+    "FCCID": [ "BCGA2568", "BCGA2569" ],
+    "InternalName": "J311AP",
+    "Identifier": "iPad14,2",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MK893" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MK8F3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "64 GB",
+        "Model": [ "MLX43" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MLX93" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MK8E3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MK8K3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "64 GB",
+        "Model": [ "MK8C3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MK8H3" ]
+      }
+    ]
   }
 ]
