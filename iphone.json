@@ -3508,5 +3508,455 @@
         "Model": [ "MGCE3", "MGDL3", "MG993", "MGAX3", "MGA43", "MG9N3", "MGCT3" ]
       }
     ]
+  },
+  {
+    "Generation": "iPhone 13 mini",
+    "ANumber": [ "A2481", "A2626", "A2629", "A2630", "A2628" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D16AP",
+    "Identifier": "iPhone14,4",
+    "Models": [
+      {
+        "Color": "White",
+        "Storage": "64 GB",
+        "Model": [ "MGGN3", "MGJ63", "MGEG3", "MGG63", "MGFM3", "MGF53", "MGH73" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "128 GB",
+        "Model": [ "MGGV3", "MGJC3", "MGHD3", "MGET3", "MGGC3", "MGFT3", "MGFA3" ]
+      },
+      {
+        "Color": "White",
+        "Storage": "256 GB",
+        "Model": [ "MGH23", "MGJH3", "MGF03", "MGGH3", "MGG13", "MGFG3", "MGHJ3" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MGGM3", "MGJ53", "MGEF3", "MGG53", "MGFL3", "MGF43", "MGH63" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "128 GB",
+        "Model": [ "MGGU3", "MGJA3", "MGHC3", "MGER3", "MGGA3", "MGFR3", "MGF93" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "256 GB",
+        "Model": [ "MGH13", "MGJG3", "MGHH3", "MGEX3", "MGGG3", "MGG03", "MGFF3" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "64 GB",
+        "Model": [ "MGGP3", "MGJ73", "MGEH3", "MGG73", "MGFN3", "MGF63", "MGH83" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MGGW3", "MGJD3", "MGHE3", "MGEU3", "MGGD3", "MGFW3", "MGFC3" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MGH33", "MGJJ3", "MGF13", "MGGJ3", "MGG23", "MGFH3", "MGHK3" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "64 GB",
+        "Model": [ "MGGT3", "MGJ93", "MGEQ3", "MGG93", "MGFQ3", "MGF83", "MGHA3" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "128 GB",
+        "Model": [ "MGGY3", "MGJF3", "MGHG3", "MGEW3", "MGGF3", "MGFY3", "MGFE3" ]
+      },
+      {
+        "Color": "Green",
+        "Storage": "256 GB",
+        "Model": [ "MGH53", "MGJL3", "MGHM3", "MGF33", "MGGL3", "MGG43", "MGFK3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MGGQ3", "MGJ83", "MGH93", "MGEK3", "MGG83", "MGFP3", "MGF73" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MGGX3", "MGJE3", "MGEV3", "MGGE3", "MGFX3", "MGFD3", "MGHF3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MGH43", "MGJK3", "MGF23", "MGGK3", "MGG33", "MGFJ3", "MGHL3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MJMX3", "MJN73", "MJN43", "MJN13", "MJNE3", "MJNM3", "MJNA3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "128 GB",
+        "Model": [ "MJNF3", "MJMY3", "MJN83", "MJN53", "MJN23", "MJNP3", "MJNC3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MJN03", "MJN93", "MJN63", "MJN33", "MJNG3", "MJNQ3", "MJND3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 13 mini",
+    "ANumber": [ "A2481", "A2626", "A2629", "A2630", "A2628" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D16AP",
+    "Identifier": "iPhone14,4",
+    "Models": [
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MLK33", "MLHQ3", "MLDF3" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MLK83", "MLHW3", "MLDL3" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "512 GB",
+        "Model": [ "MLKE3", "MLJ23", "MLDR3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "128 GB",
+        "Model": [ "MLK33", "MLHQ3", "MLDF3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MLK83", "MLHW3", "MLDL3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "512 GB",
+        "Model": [ "MLKE3", "MLJ23", "MLDR3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "128 GB",
+        "Model": [ "MLK03", "MLHM3", "MLDC3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "256 GB",
+        "Model": [ "MLK53", "MLHT3", "MLDH3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "512 GB",
+        "Model": [ "MLKA3", "MLHY3", "MLDN3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MLK43", "MLHR3", "MLDG3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MLK93", "MLHX3", "MLDM3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "512 GB",
+        "Model": [ "MLKF3", "MLJ33", "MLDT3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "128 GB",
+        "Model": [ "MLK23, MLHP3, MLDE3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MLK73, MLHV3, MLDK3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "512 GB",
+        "Model": [ "MLKD3, MLJ13, MLDQ3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 13",
+    "ANumber": [ "A2482", "A2631", "A2634", "A2635", "A2633" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D17AP",
+    "Identifier": "iPhone14,5",
+    "Models": [
+      {
+        "Color": "Red",
+        "Storage": "128 GB",
+        "Model": [ "MLPJ3", "MLMQ3", "MLDX3" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "256 GB",
+        "Model": [ "MLQ93", "MLN03", "MLE33" ]
+      },
+      {
+        "Color": "Red",
+        "Storage": "512 GB",
+        "Model": [ "MLQF3", "MLN53", "MLEA3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "128 GB",
+        "Model": [ "MLPG3", "MLMM3", "MLDV3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MLQ73", "MLMX3", "MLE13" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "512 GB",
+        "Model": [ "MLQD3", "MLN33", "MLE73" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "128 GB",
+        "Model": [ "MLPF3", "MLML3", "MLDU3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "256 GB",
+        "Model": [ "MLQ63", "MLN23", "MLE03" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "512 GB",
+        "Model": [ "MLQC3", "MLN23", "MLE63" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MLPK3", "MLMT3", "MLDY3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MLQA3", "MLN13", "MLE43" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "512 GB",
+        "Model": [ "MLQG3", "MLN83", "MLEC3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "128 GB",
+        "Model": [ "MLPH3", "MLMN3", "MLDW3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MLQ83", "MLMY3", "MLE23" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "512 GB",
+        "Model": [ "MLQE3", "MLN43", "MLE93" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 13 Pro",
+    "ANumber": [ "A2483", "A2636", "A2639", "A2640", "A2638" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D63AP",
+    "Identifier": "iPhone14,2",
+    "Models": [
+      {
+        "Color": "Graphite",
+        "Storage": "128 GB",
+        "Model": [ "MLV93", "MLTP3", "MLT53" ]
+      },
+      {
+        "Color": "Graphite",
+        "Storage": "256 GB",
+        "Model": [ "MLVE3", "MLTW3", "MLT93" ]
+      },
+      {
+        "Color": "Graphite",
+        "Storage": "512 GB",
+        "Model": [ "MLVH3", "MLU13", "MLTF3" ]
+      },
+      {
+        "Color": "Graphite",
+        "Storage": "1 TB",
+        "Model": [ "MLVV3", "MLU93", "MLTK3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MLVC3", "MLTR3", "MLT73" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MLVK3", "MLTY3", "MLTH3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MLVQ3", "MLU43", "MLTH3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "1 TB",
+        "Model": [ "MLVY3", "MLUC3", "MLTM3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MLVA3", "MLTQ3", "MLT63" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MLVF3", "MLTX3", "MLTC3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MLVN3", "MLU33", "MLTG3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MLVW3", "MLUA3", "MLTL3" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "128 GB",
+        "Model": [ "MLVD3", "MLTT3", "MLT83" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "256 GB",
+        "Model": [ "MLVP3", "MLU03", "MLTE3" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "512 GB",
+        "Model": [ "MLVU3", "MLU73", "MLTJ3" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "1 TB",
+        "Model": [ "MLW03", "MLUD3", "MLTN3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 13 Pro Max",
+    "ANumber": [ "A2484", "A2641", "A2644", "A2645", "A2643" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D64AP",
+    "Identifier": "iPhone14,3",
+    "Models": [
+      {
+        "Color": "Graphite",
+        "Storage": "128 GB",
+        "Model": [ "MLL63", "MLKL3", "MLH43" ]
+      },
+      {
+        "Color": "Graphite",
+        "Storage": "256 GB",
+        "Model": [ "MLLA3", "MLKR3", "MLH83" ]
+      },
+      {
+        "Color": "Graphite",
+        "Storage": "512 GB",
+        "Model": [ "MLLF3", "MLKW3", "MLHD3" ]
+      },
+      {
+        "Color": "Graphite",
+        "Storage": "1 TB",
+        "Model": [ "MLLK3", "MLL23", "MLHH3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MLL83", "MLKN3", "MLH63" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MLLD3", "MLKU3", "MLHA3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MLLH3", "MLKY3", "MLHF3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "1 TB",
+        "Model": [ "MLLM3", "MLL43", "MLHK3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MLL73", "MLKM3", "MLH53" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MLLC3", "MLKT3", "MLH93" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MLLG3", "MLKX3", "MLHE3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MLLL3", "MLL33", "MLHJ3" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "128 GB",
+        "Model": [ "MLL93", "MLKP3", "MLH73" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "256 GB",
+        "Model": [ "MLLE3", "MLKV3", "MLHC3" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "512 GB",
+        "Model": [ "MLLJ3", "MLL03", "MLHG3" ]
+      },
+      {
+        "Color": "Sierra Blue",
+        "Storage": "1 TB",
+        "Model": [ "MLLN3", "MLL53", "MLHL3" ]
+      }
+    ]
   }
 ]
