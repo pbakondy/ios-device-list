@@ -3680,17 +3680,17 @@
       {
         "Color": "Pink",
         "Storage": "128 GB",
-        "Model": [ "MLK23, MLHP3, MLDE3" ]
+        "Model": [ "MLK23", "MLHP3", "MLDE3" ]
       },
       {
         "Color": "Pink",
         "Storage": "256 GB",
-        "Model": [ "MLK73, MLHV3, MLDK3" ]
+        "Model": [ "MLK73", "MLHV3", "MLDK3" ]
       },
       {
         "Color": "Pink",
         "Storage": "512 GB",
-        "Model": [ "MLKD3, MLJ13, MLDQ3" ]
+        "Model": [ "MLKD3", "MLJ13", "MLDQ3" ]
       }
     ]
   },

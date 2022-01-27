@@ -47,7 +47,7 @@
     "Models": [
       {
         "Color": "White",
-        "Model": [ "MGYH3, MGYJ3, MGYL3, MGYM3, MGYN3" ]
+        "Model": [ "MGYH3", "MGYJ3", "MGYL3", "MGYM3", "MGYN3" ]
       }
     ]
   }
