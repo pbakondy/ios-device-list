@@ -1,6 +1,6 @@
 {
-  "name": "ios-device-list",
-  "version": "1.1.35",
+  "name": "@badvolt/ios-device-list",
+  "version": "1.2.0",
   "description": "Searchable collection of Apple devices",
   "main": "index.js",
   "browser": "dist/ios-device-list.min.js",
@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbakondy/ios-device-list.git"
+    "url": "https://github.com/IvanMMM/ios-device-list"
   },
   "bugs": {
-    "url": "https://github.com/pbakondy/ios-device-list/issues"
+    "url": "https://github.com/IvanMMM/ios-device-list/issues"
   },
-  "homepage": "https://github.com/pbakondy/ios-device-list#readme"
+  "homepage": "https://github.com/IvanMMM/ios-device-list#readme"
 }
