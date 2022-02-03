@@ -37,5 +37,18 @@
         "Model": [ "MWP22" ]
       }
     ]
+  },
+  {
+    "Generation": "AirPods Max",
+    "ANumber": [ "A2096" ],
+    "FCCID": [ "BCG-A2096" ],
+    "InternalName": "B515AP",
+    "Identifier": "iProd8,6",
+    "Models": [
+      {
+        "Color": "White",
+        "Model": [ "MGYH3", "MGYJ3", "MGYL3", "MGYM3", "MGYN3" ]
+      }
+    ]
   }
 ]
