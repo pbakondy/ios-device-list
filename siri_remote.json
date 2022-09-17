@@ -1,0 +1,38 @@
+[
+  {
+    "Generation": "Siri Remote",
+    "ANumber": [ "A1513" ],
+    "FCCID": [ "BCGA1513" ],
+    "InternalName": "B239AP",
+    "Identifier": "",
+    "Models": [
+      {
+        "Model": [ "MLLC2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Siri Remote (Rev A)",
+    "ANumber": [ "A1962" ],
+    "FCCID": [ "BCGA1962" ],
+    "InternalName": "B439AP",
+    "Identifier": "",
+    "Models": [
+      {
+        "Model": [ "MQGD2" ]
+      }
+    ]
+  },
+  {
+    "Generation": "Siri Remote (2nd generation)",
+    "ANumber": [ "A2540" ],
+    "FCCID": [ "BCGA2540" ],
+    "InternalName": "",
+    "Identifier": "",
+    "Models": [
+      {
+        "Model": [ "MJFM3" ]
+      }
+    ]
+  }
+]

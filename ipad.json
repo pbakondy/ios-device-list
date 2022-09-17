@@ -515,7 +515,7 @@
       {
         "Color": "Gold",
         "Storage": "128 GB",
-        "Model": [ "MPGC2" ]
+        "Model": [ "MPG52", "MPGC2" ]
       },
       {
         "Color": "Silver",
@@ -525,17 +525,17 @@
       {
         "Color": "Silver",
         "Storage": "128 GB",
-        "Model": [ "MP2E2" ]
+        "Model": [ "MP272", "MP2E2" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "32 GB",
-        "Model": [ "MP242" ]
+        "Model": [ "MP1J2", "MP242" ]
       },
       {
         "Color": "Space Gray",
         "Storage": "128 GB",
-        "Model": [ "MP2D2", "MP262" ]
+        "Model": [ "MP262", "MP2D2" ]
       }
     ]
   },
@@ -774,6 +774,64 @@
         "Color": "Space Gray",
         "Storage": "128 GB",
         "Model": [ "MYML2", "MYN72" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (9th generation)",
+    "ANumber": [ "A2602" ],
+    "FCCID": [ ],
+    "InternalName": "J181AP",
+    "Identifier": "iPad12,1",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MK2L3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MK2P3" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MK2K3" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MK2N3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (9th generation)",
+    "ANumber": [ "A2603", "A2604", "A2605" ],
+    "FCCID": [ "BCGA2603", "BCGA2604", "BCGA2605" ],
+    "InternalName": "J182AP",
+    "Identifier": "iPad12,2",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "64 GB",
+        "Model": [ "MK493", "MK673" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MK4H3", "MK6A3" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MK473", "MK663" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MK4E3", "MK693" ]
       }
     ]
   }

@@ -7,7 +7,6 @@
     "Identifier": "AirPods1,1",
     "Models": [
       {
-        "Color": "White",
         "Model": [ "MMEF2" ]
       }
     ]
@@ -17,24 +16,50 @@
     "ANumber": [ "A2031", "A2032", "A1938" ],
     "FCCID": [ "BCG-A2031", "BCG-A2032" ],
     "InternalName": "B288AP",
-    "Identifier": "AirPods2,1",
+    "Identifier": [ "AirPods2,1", "AirPods2,1" ],
     "Models": [
       {
-        "Color": "White",
         "Model": [ "MRXJ2", "MV7N2", "MR8U2" ]
       }
     ]
+  },
+  {
+    "Generation": "AirPods (3rd generation)",
+    "ANumber": [ "A2564", "A2565", "A2566" ],
+    "FCCID": [ "BCG-A2564", "BCG-A2565" ],
+    "InternalName": "B688AP",
+    "Identifier": [ "AirPods1,3", "Audio2,1" ],
+    "Models": []
   },
   {
     "Generation": "AirPods Pro",
     "ANumber": [ "A2083", "A2084", "A2190" ],
     "FCCID": [ "BCG-A2083", "BCG-A2084" ],
     "InternalName": "B298AP",
-    "Identifier": "iProd8,1",
+    "Identifier": [ "AirPods2,2", "AirPodsPro1,1", "iProd8,1" ],
     "Models": [
       {
-        "Color": "White",
         "Model": [ "MWP22" ]
+      }
+    ]
+  },
+  {
+    "Generation": "AirPods Pro (2nd generation)",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "B698AP",
+    "Identifier": "AirPodsPro1,2",
+    "Models": [ ]
+  },
+  {
+    "Generation": "AirPods Max",
+    "ANumber": [ "A2096" ],
+    "FCCID": [ "BCG-A2096" ],
+    "InternalName": "B515AP",
+    "Identifier": [ "AirPodsMax1,1", "iProd8,6" ],
+    "Models": [
+      {
+        "Model": [ "MGYH3", "MGYJ3", "MGYL3", "MGYM3", "MGYN3" ]
       }
     ]
   }

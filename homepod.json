@@ -37,9 +37,9 @@
   },
   {
     "Generation": "HomePod mini",
-    "ANumber": "Unknown",
-    "Bootrom": "Unknown",
-    "FCCID": "Unknown",
+    "ANumber": "A2374",
+    "Bootrom": "Bootrom 3988.0.0.2.12",
+    "FCCID": "BCG-A2374",
     "InternalName": "B520AP",
     "Identifier": "AudioAccessory5,1",
     "Models": [

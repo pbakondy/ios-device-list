@@ -1163,5 +1163,77 @@
         "Model": [ "MXF92", "MXG22" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J517AP",
+    "Identifier": "iPad13,4",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J517xAP",
+    "Identifier": "iPad13,5",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J518AP",
+    "Identifier": "iPad13,6",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J518xAP",
+    "Identifier": "iPad13,7",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J522AP",
+    "Identifier": "iPad13,8",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J522xAP",
+    "Identifier": "iPad13,9",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J523AP",
+    "Identifier": "iPad13,10",
+    "Models": [ ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [ ],
+    "Bootrom": "",
+    "FCCID": [ ],
+    "InternalName": "J523xAP",
+    "Identifier": "iPad13,11",
+    "Models": [ ]
   }
 ]

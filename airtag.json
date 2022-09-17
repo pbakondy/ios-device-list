@@ -1,0 +1,19 @@
+[
+  {
+    "Generation": "AirTag",
+    "ANumber": [ "A2187" ],
+    "FCCID": [ "BCGA2187" ],
+    "InternalName": "B389AP",
+    "Identifier": "AirTag1,1",
+    "Models": [
+      {
+        "PackSize": "1 pack",
+        "Model": [ "MX532" ]
+      },
+      {
+        "PackSize": "4 pack",
+        "Model": [ "MX542" ]
+      }
+    ]
+  }
+]

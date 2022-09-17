@@ -101,5 +101,25 @@
         "Model": [ "MP7P2" ]
       }
     ]
+  },
+  {
+    "Generation": "Apple TV 4K (2nd generation)",
+    "ANumber": "A2169",
+    "Bootrom": "Bootrom 3865.0.0.4.7",
+    "FCCID": "BCGA2169",
+    "InternalName": "J305AP",
+    "Identifier": "AppleTV11,1",
+    "Models": [
+      {
+        "Color": "Black",
+        "Storage": "32 GB",
+        "Model": [ "MXGY2" ]
+      },
+      {
+        "Color": "Black",
+        "Storage": "64 GB",
+        "Model": [ "MXH02" ]
+      }
+    ]
   }
 ]

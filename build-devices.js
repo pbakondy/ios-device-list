@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const airpods = require('./airpods.json');
+const airtag = require('./airtag.json');
 const apple_tv = require('./apple_tv.json');
 const apple_watch = require('./apple_watch.json');
 const homepod = require('./homepod.json');
@@ -13,6 +14,7 @@ const ipad_pro = require('./ipad_pro.json');
 const ipad_mini = require('./ipad_mini.json');
 const iphone = require('./iphone.json');
 const ipod_touch = require('./ipod_touch.json');
+const siri_remote = require('./siri_remote.json');
 
 const DEVICES_OUTPUT_FILE = path.join( __dirname, 'devices.json');
 const DEVICES_MIN_OUTPUT_FILE = path.join( __dirname, 'devices-min.json');
@@ -51,6 +53,7 @@ function addDevice(d) {
 
 function build() {
   airpods.forEach(addDevice);
+  airtag.forEach(addDevice);
   apple_tv.forEach(addDevice);
   apple_watch.forEach(addDevice);
   homepod.forEach(addDevice);
@@ -60,6 +63,7 @@ function build() {
   ipad_mini.forEach(addDevice);
   iphone.forEach(addDevice);
   ipod_touch.forEach(addDevice);
+  siri_remote.forEach(addDevice);
 }
 
 function write() {
