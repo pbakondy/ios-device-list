@@ -1336,5 +1336,356 @@
         "Model": [ "ML8V3", "ML8X3" ]
       }
     ]
+  },
+  {
+    "Generation": "Apple Watch SE (2nd generation)",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "N143sAP",
+    "Identifier": "Watch6,10",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch SE (2nd generation)",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "N143bAP",
+    "Identifier": "Watch6,11",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch SE (2nd generation)",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "N149sAP",
+    "Identifier": "Watch6,12",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch SE (2nd generation)",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "N149bAP",
+    "Identifier": "Watch6,13",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 8",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "",
+    "Identifier": "Watch6,14",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "41mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 8",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "",
+    "Identifier": "Watch6,15",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "45mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 8",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "",
+    "Identifier": "Watch6,16",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "41mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "41mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Series 8",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "",
+    "Identifier": "Watch6,17",
+    "Models": [
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Midnight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Starlight",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Aluminum",
+        "Color": "Red",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Gold",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Silver",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Graphite",
+        "Size": "45mm",
+        "Model": [ ]
+      },
+      {
+        "CaseMaterial": "Stainless Steel",
+        "Color": "Space Black",
+        "Size": "45mm",
+        "Model": [ ]
+      }
+    ]
+  },
+  {
+    "Generation": "Apple Watch Ultra",
+    "ANumber": [ ],
+    "FCCID": [ ],
+    "InternalName": "N199AP",
+    "Identifier": "Watch6,18",
+    "Models": [
+      {
+        "CaseMaterial": "Titanium",
+        "Color": "Titanium",
+        "Size": "49mm",
+        "Model": [ "MQFY3", "MQG03", "MQG13" ]
+      }
+    ]
   }
 ]

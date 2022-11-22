@@ -45,7 +45,7 @@
   },
   {
     "Generation": "AirPods Pro (2nd generation)",
-    "ANumber": [ ],
+    "ANumber": [ "A2699", "A2698", "A2700" ],
     "FCCID": [ ],
     "InternalName": "B698AP",
     "Identifier": "AirPodsPro1,2",

@@ -44,7 +44,7 @@ test('devices() device', t => {
 test('generations()', t => {
   t.is(typeof devices.generations, 'function');
   t.truthy(Array.isArray(devices.generations()));
-  t.is(devices.generations().length, 98 );
+  t.is(devices.generations().length, 99);
   t.is(devices.generations('iphone').length, 38);
   t.throws(function() { devices.generations('invalidType'); });
 });
@@ -52,7 +52,7 @@ test('generations()', t => {
 test('anumbers()', t => {
   t.is(typeof devices.anumbers, 'function');
   t.truthy(Array.isArray(devices.anumbers()));
-  t.is(devices.anumbers().length, 290);
+  t.is(devices.anumbers().length, 293);
   t.is(devices.anumbers('iphone').length, 126);
   t.throws(function() { devices.anumbers('invalidType'); });
 });
@@ -68,7 +68,7 @@ test('fccids()', t => {
 test('internalNames()', t => {
   t.is(typeof devices.internalNames, 'function');
   t.truthy(Array.isArray(devices.internalNames()));
-  t.is(devices.internalNames().length, 184);
+  t.is(devices.internalNames().length, 185);
   t.is(devices.internalNames('iphone').length, 54);
   t.throws(function() { devices.internalNames('invalidType'); });
 });
@@ -76,7 +76,7 @@ test('internalNames()', t => {
 test('identifiers()', t => {
   t.is(typeof devices.identifiers, 'function');
   t.truthy(Array.isArray(devices.identifiers()));
-  t.is(devices.identifiers().length, 176);
+  t.is(devices.identifiers().length, 177);
   t.is(devices.identifiers('iphone').length, 49);
   t.throws(function() { devices.identifiers('invalidType'); });
 });
@@ -100,7 +100,7 @@ test('storages()', t => {
 test('models()', t => {
   t.is(typeof devices.models, 'function');
   t.truthy(Array.isArray(devices.models()));
-  t.is(devices.models().length, 4147);
+  t.is(devices.models().length, 4150);
   t.is(devices.models('iphone').length, 2652);
   t.throws(function() { devices.models('invalidType'); });
 });
@@ -116,15 +116,15 @@ test('deviceByGeneration()', t => {
   t.is(devices.deviceByGeneration(find, 'ipad').length, 0);
   t.throws(function() { devices.deviceByGeneration(find, 'invalidType'); });
 
-  t.is(devices.deviceByGeneration(find.substr(0, 11)).length, 0);
-  t.is(devices.deviceByGeneration(find.substr(0, 11), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByGeneration(find.substring(0, 11)).length, 0);
+  t.is(devices.deviceByGeneration(find.substring(0, 11), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByGeneration(find.toLowerCase()).length, 0);
   t.is(devices.deviceByGeneration(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByGeneration(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByGeneration(find.substr(0, 11).toLowerCase()).length, 0);
-  t.is(devices.deviceByGeneration(find.substr(0, 11).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByGeneration(find.substr(0, 11).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  t.is(devices.deviceByGeneration(find.substr(0, 11).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByGeneration(find.substring(0, 11).toLowerCase()).length, 0);
+  t.is(devices.deviceByGeneration(find.substring(0, 11).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByGeneration(find.substring(0, 11).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  t.is(devices.deviceByGeneration(find.substring(0, 11).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByANumber()', t => {
@@ -138,15 +138,15 @@ test('deviceByANumber()', t => {
   t.is(devices.deviceByANumber(find, 'ipad').length, 0);
   t.throws(function() { devices.deviceByANumber(find, 'invalidType'); });
 
-  t.is(devices.deviceByANumber(find.substr(0, 4)).length, 0);
-  t.is(devices.deviceByANumber(find.substr(0, 4), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByANumber(find.substring(0, 4)).length, 0);
+  t.is(devices.deviceByANumber(find.substring(0, 4), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByANumber(find.toLowerCase()).length, 0);
   t.is(devices.deviceByANumber(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByANumber(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByANumber(find.substr(0, 4).toLowerCase()).length, 0);
-  t.is(devices.deviceByANumber(find.substr(0, 4).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByANumber(find.substr(0, 4).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  t.is(devices.deviceByANumber(find.substr(0, 4).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByANumber(find.substring(0, 4).toLowerCase()).length, 0);
+  t.is(devices.deviceByANumber(find.substring(0, 4).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByANumber(find.substring(0, 4).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  t.is(devices.deviceByANumber(find.substring(0, 4).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByFCCID()', t => {
@@ -160,17 +160,17 @@ test('deviceByFCCID()', t => {
   t.is(devices.deviceByFCCID(find, 'ipad').length, 0);
   t.throws(function() { devices.deviceByFCCID(find, 'invalidType'); });
 
-  t.is(devices.deviceByFCCID(find.substr(0, 8)).length, 0);
-  //  t.is(devices.deviceByFCCID(find.substr(0, 8), null, { contains: true }).length, 48);
-  t.is(devices.deviceByFCCID(find.substr(0, 8), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByFCCID(find.substring(0, 8)).length, 0);
+  //  t.is(devices.deviceByFCCID(find.substring(0, 8), null, { contains: true }).length, 48);
+  t.is(devices.deviceByFCCID(find.substring(0, 8), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByFCCID(find.toLowerCase()).length, 0);
   t.is(devices.deviceByFCCID(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByFCCID(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByFCCID(find.substr(0, 8).toLowerCase()).length, 0);
-  t.is(devices.deviceByFCCID(find.substr(0, 8).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByFCCID(find.substr(0, 8).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  //  t.is(devices.deviceByFCCID(find.substr(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length, 48);
-  t.is(devices.deviceByFCCID(find.substr(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByFCCID(find.substring(0, 8).toLowerCase()).length, 0);
+  t.is(devices.deviceByFCCID(find.substring(0, 8).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByFCCID(find.substring(0, 8).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  //  t.is(devices.deviceByFCCID(find.substring(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length, 48);
+  t.is(devices.deviceByFCCID(find.substring(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByInternalName()', t => {
@@ -184,15 +184,15 @@ test('deviceByInternalName()', t => {
   t.is(devices.deviceByInternalName(find, 'ipad').length, 0);
   t.throws(function() { devices.deviceByInternalName(find, 'invalidType'); });
 
-  t.is(devices.deviceByInternalName(find.substr(0, 4)).length, 0);
-  t.is(devices.deviceByInternalName(find.substr(0, 4), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByInternalName(find.substring(0, 4)).length, 0);
+  t.is(devices.deviceByInternalName(find.substring(0, 4), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByInternalName(find.toLowerCase()).length, 0);
   t.is(devices.deviceByInternalName(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByInternalName(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByInternalName(find.substr(0, 4).toLowerCase()).length, 0);
-  t.is(devices.deviceByInternalName(find.substr(0, 4).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByInternalName(find.substr(0, 4).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  t.is(devices.deviceByInternalName(find.substr(0, 4).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByInternalName(find.substring(0, 4).toLowerCase()).length, 0);
+  t.is(devices.deviceByInternalName(find.substring(0, 4).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByInternalName(find.substring(0, 4).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  t.is(devices.deviceByInternalName(find.substring(0, 4).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByIdentifier()', t => {
@@ -206,17 +206,17 @@ test('deviceByIdentifier()', t => {
   t.is(devices.deviceByIdentifier(find, 'ipad').length, 0);
   t.throws(function() { devices.deviceByIdentifier(find, 'invalidType'); });
 
-  t.is(devices.deviceByIdentifier(find.substr(0, 8)).length, 0);
-  //  t.is(devices.deviceByIdentifier(find.substr(0, 8), null, { contains: true }).length, 56);
-  t.is(devices.deviceByIdentifier(find.substr(0, 8), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByIdentifier(find.substring(0, 8)).length, 0);
+  //  t.is(devices.deviceByIdentifier(find.substring(0, 8), null, { contains: true }).length, 56);
+  t.is(devices.deviceByIdentifier(find.substring(0, 8), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByIdentifier(find.toLowerCase()).length, 0);
   t.is(devices.deviceByIdentifier(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByIdentifier(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByIdentifier(find.substr(0, 8).toLowerCase()).length, 0);
-  t.is(devices.deviceByIdentifier(find.substr(0, 8).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByIdentifier(find.substr(0, 8).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  //  t.is(devices.deviceByIdentifier(find.substr(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length, 56);
-  t.is(devices.deviceByIdentifier(find.substr(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByIdentifier(find.substring(0, 8).toLowerCase()).length, 0);
+  t.is(devices.deviceByIdentifier(find.substring(0, 8).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByIdentifier(find.substring(0, 8).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  //  t.is(devices.deviceByIdentifier(find.substring(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length, 56);
+  t.is(devices.deviceByIdentifier(find.substring(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByColor()', t => {
@@ -230,15 +230,15 @@ test('deviceByColor()', t => {
   t.is(devices.deviceByColor(find, 'ipad').length > 0, false);
   t.throws(function() { devices.deviceByColor(find, 'invalidType'); });
 
-  t.is(devices.deviceByColor(find.substr(0, 8)).length, 0);
-  t.is(devices.deviceByColor(find.substr(0, 8), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByColor(find.substring(0, 8)).length, 0);
+  t.is(devices.deviceByColor(find.substring(0, 8), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByColor(find.toLowerCase()).length, 0);
   t.is(devices.deviceByColor(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByColor(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByColor(find.substr(0, 8).toLowerCase()).length, 0);
-  t.is(devices.deviceByColor(find.substr(0, 8).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByColor(find.substr(0, 8).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  t.is(devices.deviceByColor(find.substr(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByColor(find.substring(0, 8).toLowerCase()).length, 0);
+  t.is(devices.deviceByColor(find.substring(0, 8).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByColor(find.substring(0, 8).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  t.is(devices.deviceByColor(find.substring(0, 8).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByStorage()', t => {
@@ -252,15 +252,15 @@ test('deviceByStorage()', t => {
   t.is(devices.deviceByStorage(find, 'ipad').length > 0, true);
   t.throws(function() { devices.deviceByStorage(find, 'invalidType'); });
 
-  t.is(devices.deviceByStorage(find.substr(0, 4)).length, 0);
-  t.is(devices.deviceByStorage(find.substr(0, 4), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByStorage(find.substring(0, 4)).length, 0);
+  t.is(devices.deviceByStorage(find.substring(0, 4), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByStorage(find.toLowerCase()).length, 0);
   t.is(devices.deviceByStorage(find.toLowerCase(), null, { caseInsensitive: true }).length > 0, true);
   t.is(devices.deviceByStorage(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByStorage(find.substr(0, 4).toLowerCase()).length, 0);
-  t.is(devices.deviceByStorage(find.substr(0, 4).toLowerCase(), null, { contains: true }).length > 0, true);
-  t.is(devices.deviceByStorage(find.substr(0, 4).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  t.is(devices.deviceByStorage(find.substr(0, 4).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByStorage(find.substring(0, 4).toLowerCase()).length, 0);
+  t.is(devices.deviceByStorage(find.substring(0, 4).toLowerCase(), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByStorage(find.substring(0, 4).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  t.is(devices.deviceByStorage(find.substring(0, 4).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('deviceByModel()', t => {
@@ -274,15 +274,15 @@ test('deviceByModel()', t => {
   t.is(devices.deviceByModel(find, 'ipad').length, 0);
   t.throws(function() { devices.deviceByModel(find, 'invalidType'); });
 
-  t.is(devices.deviceByModel(find.substr(0, 3)).length, 0);
-  t.is(devices.deviceByModel(find.substr(0, 3), null, { contains: true }).length > 0, true);
+  t.is(devices.deviceByModel(find.substring(0, 3)).length, 0);
+  t.is(devices.deviceByModel(find.substring(0, 3), null, { contains: true }).length > 0, true);
   t.is(devices.deviceByModel(find.toLowerCase()).length, 0);
   t.is(devices.deviceByModel(find.toLowerCase(), null, { caseInsensitive: true }).length, 1);
   t.is(devices.deviceByModel(find.toLowerCase()).length, 0);
-  t.is(devices.deviceByModel(find.substr(0, 3).toLowerCase()).length, 0);
-  t.is(devices.deviceByModel(find.substr(0, 3).toLowerCase(), null, { contains: true }).length, 0);
-  t.is(devices.deviceByModel(find.substr(0, 3).toLowerCase(), null, { caseInsensitive: true }).length, 0);
-  t.is(devices.deviceByModel(find.substr(0, 3).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
+  t.is(devices.deviceByModel(find.substring(0, 3).toLowerCase()).length, 0);
+  t.is(devices.deviceByModel(find.substring(0, 3).toLowerCase(), null, { contains: true }).length, 0);
+  t.is(devices.deviceByModel(find.substring(0, 3).toLowerCase(), null, { caseInsensitive: true }).length, 0);
+  t.is(devices.deviceByModel(find.substring(0, 3).toLowerCase(), null, { contains: true, caseInsensitive: true }).length > 0, true);
 });
 
 test('generationByIdentifier()', t => {

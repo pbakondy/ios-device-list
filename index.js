@@ -32,7 +32,7 @@ const all = (() => {
   );
   total.forEach(v => {
     // Some devices don't have any models information defined, we still want them to be listed
-    if(v.Models.length === 0) {
+    if(!v.Models || v.Models.length === 0) {
       let item = createItem(v, null, null);
       l.push(item);
     } else {

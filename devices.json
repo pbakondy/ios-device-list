@@ -106,7 +106,11 @@
   {
     "name": "AirPods Pro (2nd generation)",
     "model": "AirPodsPro1,2",
-    "ANumber": [],
+    "ANumber": [
+      "A2699",
+      "A2698",
+      "A2700"
+    ],
     "FCCID": []
   },
   {
@@ -492,6 +496,60 @@
       "BCG-A2477",
       "BCG-A2478"
     ]
+  },
+  {
+    "name": "Apple Watch SE (2nd generation)",
+    "model": "Watch6,10",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch SE (2nd generation)",
+    "model": "Watch6,11",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch SE (2nd generation)",
+    "model": "Watch6,12",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch SE (2nd generation)",
+    "model": "Watch6,13",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "model": "Watch6,14",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "model": "Watch6,15",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "model": "Watch6,16",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "model": "Watch6,17",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "model": "Watch6,18",
+    "ANumber": [],
+    "FCCID": []
   },
   {
     "name": "HomePod",
