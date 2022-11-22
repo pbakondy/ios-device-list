@@ -30,33 +30,43 @@ const all = (() => {
     iphone.map(v => { v.Type = 'iphone'; return v; }),
     ipod_touch.map(v => { v.Type = 'ipod_touch'; return v; })
   );
-
   total.forEach(v => {
-    v.Models.forEach(m => {
-      m.Model.forEach(mid => {
-        let item = {
-          Type: v.Type,
-          Generation: v.Generation,
-          ANumber: v.ANumber,
-          Bootrom: v.Bootrom,
-          Variant: v.Variant,
-          FCCID: v.FCCID,
-          InternalName: v.InternalName,
-          Identifier: v.Identifier,
-          Color: m.Color,
-          Storage: m.Storage,
-          Model: mid
-        };
-        if (m.CaseMaterial) {
-          item.CaseMaterial = m.CaseMaterial;
-        }
-        l.push(item);
+    // Some devices don't have any models information defined, we still want them to be listed
+    if(v.Models.length === 0) {
+      let item = createItem(v, null, null);
+      l.push(item);
+    } else {
+      v.Models.forEach(m => {
+        m.Model.forEach(mid => {
+          let item = createItem(v,m, mid);
+          l.push(item);
+        });
       });
-    });
+    }
   });
 
   return l;
 })();
+
+function createItem(device, model, modelID) {
+  let item = {
+    Type: device.Type,
+    Generation: device.Generation,
+    ANumber: device.ANumber,
+    Bootrom: device.Bootrom,
+    Variant: device.Variant,
+    FCCID: device.FCCID,
+    InternalName: device.InternalName,
+    Identifier: device.Identifier,
+    Color: model ? model.Color : '',
+    Storage: model ? model.Storage : '',
+    Model: modelID ? modelID : ''
+  };
+  if (model && model.CaseMaterial) {
+    item.CaseMaterial = model.CaseMaterial;
+  }
+  return item;
+}
 
 function deviceTypes() {
   return 'airpods,apple_tv,apple_watch,homepod,ipad,ipad_air,ipad_pro,ipad_mini,iphone,ipod_touch'.split(',');
