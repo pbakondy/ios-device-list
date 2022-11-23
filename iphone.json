@@ -3958,5 +3958,410 @@
         "Model": [ "MLLN3", "MLL53", "MLHL3" ]
       }
     ]
+  },
+  {
+    "Generation": "iPhone SE (3rd generation)",
+    "ANumber": [ "A2595", "A2782", "A2783", "A2784", "A2785" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D49AP",
+    "Identifier": "iPhone14,6",
+    "Models": [
+      {
+        "Color": "Midnight",
+        "Storage": "64 GB",
+        "Model": [ "MMX53", "MMWV3", "MMXF3", "MMYC3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "128 GB",
+        "Model": [ "MMX83", "MMWY3", "MMXJ3", "MMYF3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "256 GB",
+        "Model": [ "MMXC3", "MMX23", "MMXM3", "MMYJ3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "64 GB",
+        "Model": [ "MMX63", "MMWW3", "MMXG3", "MMYD3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "128 GB",
+        "Model": [ "MMX93", "MMX03", "MMXK3", "MMYG3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MMXD3", "MMX33", "MMXN3", "MMYK3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "64 GB",
+        "Model": [ "MMX73", "MMWX3", "MMXH3", "MMYE3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "128 GB",
+        "Model": [ "MMXA3", "MMX13", "MMXL3", "MMYH3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "256 GB",
+        "Model": [ "MMXE3", "MMX43", "MMXP3", "MMYL3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 14",
+    "ANumber": [ "A2649", "A2881", "A2882", "A2883", "A2884"],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D27AP",
+    "Identifier": "iPhone14,7",
+    "Models": [
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MPVN3", "MPVH3", "MPVG3", "MPVJ3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MPWP3", "MPWM3", "MPWL3", "MPWN3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "512 GB",
+        "Model": [ "MPXN3", "MPXL3", "MPXK3", "MPXM3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "128 GB",
+        "Model": [ "MPUF3", "MPUA3", "MPU93", "MPUD3V" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "256 GB",
+        "Model": [ "MPVX3", "MPVV3", "MPVU3", "MPVW3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "512 GB",
+        "Model": [ "MPWW3", "MPWU3", "MPWT3", "MPWV3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "128 GB",
+        "Model": [ "MPUR3", "MPUN3", "MPUJ3", "MPUQ3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MPW43", "MPW23", "MPW13", "MPW33" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "512 GB",
+        "Model": [ "MPX33", "MPX13", "MPX03", "MPX23" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "128 GB",
+        "Model": [ "MPVA3", "MPV73", "MPV63", "MPV93" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "256 GB",
+        "Model": [ "MPWH3", "MPWF3", "MPWE3", "MPWG3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "512 GB",
+        "Model": [ "MPXG3", "MPXE3", "MPXD3", "MPXF3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "128 GB",
+        "Model": [ "MPV03", "MPUX3", "MPUW3", "MPUY3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MPWA3", "MPW83", "MPW73", "MPW93" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "512 GB",
+        "Model": [ "MPX93", "MPX73", "MPX63", "MPX83" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 14 Plus",
+    "ANumber": [ "A2632", "A2885", "A2886", "A2887", "A2888" ],
+    "Bootrom": "Bootrom 6338.0.0.200.19",
+    "FCCID": [],
+    "InternalName": "D28AP",
+    "Identifier": "iPhone14,8",
+    "Models": [
+      {
+        "Color": "Blue",
+        "Storage": "128 GB",
+        "Model": [ "MQ523", "MQ3W3", "MQ3A3", "MQ4H3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MQ583", "MQ423", "MQ3G3", "MQ4Q3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "512 GB",
+        "Model": [ "MQ5G3", "MQ493", "MQ3Q3", "MQ4W3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "128 GB",
+        "Model": [ "MQ4X3", "MQ3R3", "MQ353", "MQ4A3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "256 GB",
+        "Model": [ "MQ533", "MQ3X3", "MQ3C3", "MQ4J3" ]
+      },
+      {
+        "Color": "Midnight",
+        "Storage": "512 GB",
+        "Model": [ "MQ593", "MQ433", "MQ3H3", "MQ4R3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "128 GB",
+        "Model": [ "MQ4Y3", "MQ3T3", "MQ363", "MQ4D3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MQ553", "MQ3Y3", "MQ3D3", "MQ4L3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "512 GB",
+        "Model": [ "MQ5D3", "MQ443", "MQ3J3", "MQ4T3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "128 GB",
+        "Model": [ "MQ513", "MQ3V3", "MQ393", "MQ4F3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "256 GB",
+        "Model": [ "MQ573", "MQ413", "MQ3F3", "MQ4P3" ]
+      },
+      {
+        "Color": "PRODUCT(RED)",
+        "Storage": "512 GB",
+        "Model": [ "MQ5F3", "MQ473", "MQ3P3", "MQ4V3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "128 GB",
+        "Model": [ "MQ503", "MQ3U3", "MQ373", "MQ4E3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MQ563", "MQ403", "MQ3E3", "MQ4M3V" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "512 GB",
+        "Model": [ "MQ5E3", "MQ463", "MQ3K3", "MQ4U3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 14 Pro",
+    "ANumber": [ "A2650", "A2889", "A2890", "A2891", "A2892" ],
+    "Bootrom": "Bootrom 7195.0.0.300.25",
+    "FCCID": ["BCG-E8140A", "BCG-E8151A"],
+    "InternalName": "D73AP",
+    "Identifier": "iPhone15,2",
+    "Models": [
+      {
+        "Color": "Deep Purple",
+        "Storage": "128 GB",
+        "Model": [ "MQ0E3", "MQ0G3", "MQ0D3", "MQ0F3" ]
+      },
+      {
+        "Color": "Deep Purple",
+        "Storage": "256 GB",
+        "Model": [ "MQ1D3", "MQ1F3", "MQ1C3", "MQ1E3" ]
+      },
+      {
+        "Color": "Deep Purple",
+        "Storage": "512 GB",
+        "Model": [ "MQ273", "MQ293", "MQ263", "MQ283" ]
+      },
+      {
+        "Color": "Deep Purple",
+        "Storage": "1 TB",
+        "Model": [ "MQ303", "MQ323", "MQ2Y3", "MQ313" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MQ063", "MQ083", "MQ053", "MQ073" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MQ163", "MQ183", "MQ143", "MQ173" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MQ213", "MQ233", "MQ203", "MQ223" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "1 TB",
+        "Model": [ "MQ2T3", "MQ2V3", "MQ2R3", "MQ2U3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MQ003", "MQ023", "MPXY3", "MQ013" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MQ0X3", "MQ103", "MQ0W3", "MQ0Y3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MQ1U3", "MQ1W3", "MQ1R3", "MQ1V3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MQ2L3", "MQ2N3", "MQ2K3", "MQ2M3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "128 GB",
+        "Model": [ "MPXT3", "MPXV3", "MPXR3", "MPXU3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "256 GB",
+        "Model": [ "MQ0N3", "MQ0T3", "MQ0M3", "MQ0Q3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "512 GB",
+        "Model": [ "MQ1K3", "MQ1M3", "MQ1J3", "MQ1L3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "1 TB",
+        "Model": [ "MQ2E3", "MQ2G3", "MQ2D3", "MQ2F3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPhone 14 Pro Max",
+    "ANumber": [ "A2651", "A2893", "A2894", "A2895", "A2896" ],
+    "Bootrom": "Bootrom 7195.0.0.300.25",
+    "FCCID": [],
+    "InternalName": "D74AP",
+    "Identifier": "iPhone15,3",
+    "Models": [
+      {
+        "Color": "Deep Purple",
+        "Storage": "128 GB",
+        "Model": [ "MQ9T3", "MQ8R3", "MQ863", "MQ993" ]
+      },
+      {
+        "Color": "Deep Purple",
+        "Storage": "256 GB",
+        "Model": [ "MQ9X3", "MQ8W3", "MQ8A3", "MQ9E3" ]
+      },
+      {
+        "Color": "Deep Purple",
+        "Storage": "512 GB",
+        "Model": [ "MQAM3", "MQ913", "MQ8G3", "MQ9J3" ]
+      },
+      {
+        "Color": "Deep Purple",
+        "Storage": "1 TB",
+        "Model": [ "MQC53", "MQ953", "MQ8M3", "MQ9N3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "128 GB",
+        "Model": [ "MQ9R3", "MQ8Q3", "MQ853", "MQ983" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "256 GB",
+        "Model": [ "MQ9W3", "MQ8V3", "MQ893", "MQ9D3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "512 GB",
+        "Model": [ "MQAJ3", "MQ903", "MQ8F3", "MQ9H3" ]
+      },
+      {
+        "Color": "Gold",
+        "Storage": "1 TB",
+        "Model": [ "MQC43", "MQ943", "MQ8L3", "MQ9M3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": [ "MQ9Q3", "MQ8P3", "MQ843", "MQ973" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": [ "MQ9V3", "MQ8U3", "MQ883", "MQ9C3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": [ "MQAH3", "MQ8Y3", "MQ8E3", "MQ9G3" ]
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MQC33", "MQ933", "MQ8J3", "MQ9L3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "128 GB",
+        "Model": [ "MQ9P3", "MQ8N3", "MQ833", "MQ963" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "256 GB",
+        "Model": [ "MQ9U3", "MQ8T3", "MQ873", "MQ9A3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "512 GB",
+        "Model": [ "MQAF3", "MQ8X3", "MQ8D3", "MQ9F3" ]
+      },
+      {
+        "Color": "Space Black",
+        "Storage": "1 TB",
+        "Model": [ "MQC23", "MQ923", "MQ8H3", "MQ9K3" ]
+      }
+    ]
   }
 ]

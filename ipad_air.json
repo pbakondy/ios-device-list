@@ -488,5 +488,125 @@
         "Model": [ "MYH62", "MYJ62" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad Air (5th generation)",
+    "ANumber": [ "A2588" ],
+    "Bootrom": "Bootrom 5281.0.0.100.45",
+    "FCCID": [],
+    "InternalName": "J407AP",
+    "Identifier": "iPad13,16",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MM9C3" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MM9L3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "64 GB",
+        "Model": [ "MM9D3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MM9M3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MME23" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MME63" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MM9E3" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MM9N3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "64 GB",
+        "Model": [ "MM9F3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MM9P3" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Air (5th generation)",
+    "ANumber": [ "A2589", "A2591" ],
+    "Bootrom": "Bootrom 5281.0.0.100.45",
+    "FCCID": [],
+    "InternalName": "J408AP",
+    "Identifier": "iPad13,17",
+    "Models": [
+      {
+        "Color": "Space Gray",
+        "Storage": "64 GB",
+        "Model": [ "MM6R3", "MM753" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": [ "MM713", "MM7E3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "64 GB",
+        "Model": [ "MM6T3", "MM9M3" ]
+      },
+      {
+        "Color": "Pink",
+        "Storage": "256 GB",
+        "Model": [ "MM723", "MM7F3" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "64 GB",
+        "Model": [ "MME93", "MME23" ]
+      },
+      {
+        "Color": "Purple",
+        "Storage": "256 GB",
+        "Model": [ "MMED3", "MME63" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "64 GB",
+        "Model": [ "MM6U3", "MM773" ]
+      },
+      {
+        "Color": "Blue",
+        "Storage": "256 GB",
+        "Model": [ "MM733", "MM7G3" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "64 GB",
+        "Model": [ "MM6V3", "MM783" ]
+      },
+      {
+        "Color": "Starlight",
+        "Storage": "256 GB",
+        "Model": [ "MM743", "MM7H3" ]
+      }
+    ]
   }
 ]

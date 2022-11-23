@@ -1163,5 +1163,485 @@
         "Model": [ "MXF92", "MXG22" ]
       }
     ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J517AP",
+    "Identifier": "iPad13,4",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J517xAP",
+    "Identifier": "iPad13,5",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J518AP",
+    "Identifier": "iPad13,6",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (11-inch) (3rd generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J518xAP",
+    "Identifier": "iPad13,7",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J522AP",
+    "Identifier": "iPad13,8",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J522xAP",
+    "Identifier": "iPad13,9",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J523AP",
+    "Identifier": "iPad13,10",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
+  },
+  {
+    "Generation": "iPad Pro (12.9-inch) (5th generation)",
+    "ANumber": [],
+    "Bootrom": "Bootrom 4172.0.0.100.14",
+    "FCCID": [],
+    "InternalName": "J523xAP",
+    "Identifier": "iPad13,11",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Silver",
+        "Storage": "2 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "128 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "256 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "512 GB",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 T",
+        "Model": []
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "2 T",
+        "Model": []
+      }
+    ]
   }
 ]
