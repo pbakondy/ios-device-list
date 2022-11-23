@@ -645,6 +645,23 @@
     ]
   },
   {
+    "name": "iPad Air (5th generation)",
+    "model": "iPad13,16",
+    "ANumber": [
+      "A2588"
+    ],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Air (5th generation)",
+    "model": "iPad13,17",
+    "ANumber": [
+      "A2589",
+      "A2591"
+    ],
+    "FCCID": []
+  },
+  {
     "name": "iPad Pro (12.9-inch)",
     "model": "iPad6,7",
     "ANumber": "A1584",
@@ -831,6 +848,54 @@
       "BCGA2069",
       "BCGA2232"
     ]
+  },
+  {
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "model": "iPad13,4",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "model": "iPad13,5",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "model": "iPad13,6",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "model": "iPad13,7",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "model": "iPad13,8",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "model": "iPad13,9",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "model": "iPad13,10",
+    "ANumber": [],
+    "FCCID": []
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "model": "iPad13,11",
+    "ANumber": [],
+    "FCCID": []
   },
   {
     "name": "iPad mini",
@@ -1563,6 +1628,69 @@
       "A2644",
       "A2645",
       "A2643"
+    ],
+    "FCCID": []
+  },
+  {
+    "name": "iPhone SE (3rd generation)",
+    "model": "iPhone14,6",
+    "ANumber": [
+      "A2595",
+      "A2782",
+      "A2783",
+      "A2784",
+      "A2785"
+    ],
+    "FCCID": []
+  },
+  {
+    "name": "iPhone 14",
+    "model": "iPhone14,7",
+    "ANumber": [
+      "A2649",
+      "A2881",
+      "A2882",
+      "A2883",
+      "A2884"
+    ],
+    "FCCID": []
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "model": "iPhone14,8",
+    "ANumber": [
+      "A2632",
+      "A2885",
+      "A2886",
+      "A2887",
+      "A2888"
+    ],
+    "FCCID": []
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "model": "iPhone15,2",
+    "ANumber": [
+      "A2650",
+      "A2889",
+      "A2890",
+      "A2891",
+      "A2892"
+    ],
+    "FCCID": [
+      "BCG-E8140A",
+      "BCG-E8151A"
+    ]
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "model": "iPhone15,3",
+    "ANumber": [
+      "A2651",
+      "A2893",
+      "A2894",
+      "A2895",
+      "A2896"
     ],
     "FCCID": []
   },
