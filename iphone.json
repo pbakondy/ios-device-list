@@ -4448,5 +4448,135 @@
         "Model": [ "MQC23", "MQ923", "MQ8H3" ]
       }
     ]
-  }
+  },
+  {
+    "Generation": "iPhone 15 Pro",
+    "ANumber": "A3102",
+    "Bootrom": "",
+    "FCCID": "",
+    "InternalName": "",
+    "Identifier": "",
+    "Models": [
+      {
+        "Color": "Original Titanium",
+        "Storage": "128 GB",
+        "Model": [ "MTQ63CH" ]
+      },
+      {
+        "Color": "Blue Titanium",
+        "Storage": "128 GB",
+        "Model": [ "MTQ73CH" ]
+      },
+      {
+        "Color": "White Titanium",
+        "Storage": "128 GB",
+        "Model": [ "MTQ53CH" ]
+      },
+      {
+        "Color": "Black Titanium",
+        "Storage": "128 GB",
+        "Model": [ "MTQ43CH" ]
+      },
+      {
+        "Color": "Original Titanium",
+        "Storage": "256 GB",
+        "Model": [ "MTQA3CH" ]
+      },
+      {
+        "Color": "Blue Titanium",
+        "Storage": "256 GB",
+        "Model": [ "MTQC3CH" ]
+      },
+      {
+        "Color": "White Titanium",
+        "Storage": "256 GB",
+        "Model": [ "MTQ93CH" ]
+      },
+      {
+        "Color": "Black Titanium",
+        "Storage": "256 GB",
+        "Model": [ "MTQ83CH" ]
+      },
+      {
+        "Color": "Original Titanium",
+        "Storage": "512 GB",
+        "Model": [ "MTQF3CH" ]
+      },
+      {
+        "Color": "Blue Titanium",
+        "Storage": "512 GB",
+        "Model": [ "MTQG3CH" ]
+      },
+      {
+        "Color": "White Titanium",
+        "Storage": "512 GB",
+        "Model": [ "MTQE3CH" ]
+      },
+      {
+        "Color": "Black Titanium",
+        "Storage": "512 GB",
+        "Model": [ "MTQD3CH" ]
+      },
+      {
+        "Color": "Original Titanium",
+        "Storage": "1 TB",
+        "Model": [ "MTQK3CH" ]
+      },
+      {
+        "Color": "Blue Titanium",
+        "Storage": "1 TB",
+        "Model": [ "MTQL3CH" ]
+      },
+      {
+        "Color": "White Titanium",
+        "Storage": "1 TB",
+        "Model": [ "MTQJ3CH" ]
+      },
+      {
+        "Color": "Black Titanium",
+        "Storage": "1 TB",
+        "Model": [ "MTQH3CH" ]
+      }
+    ]
+  },
+  {
+      "Generation": "iPhone 15 Pro Max",
+      "ANumber": "A3106",
+      "Bootrom": "",
+      "FCCID": "",
+      "InternalName": "",
+      "Identifier": "",
+      "Models": [
+        {
+          "Color": "Original Titanium",
+          "Storage": "256 GB",
+          "Model": [ "MU2Q3CH" ]
+        },
+        {
+          "Color": "Blue Titanium",
+          "Storage": "256 GB",
+          "Model": [ "MU2R3CH" ]
+        },
+        {
+          "Color": "White Titanium",
+          "Storage": "256 GB",
+          "Model": [ "MU2P3CH" ]
+        },
+        {
+          "Color": "Black Titanium",
+          "Storage": "256 GB",
+          "Model": [ "MU2N3CH" ]
+        },
+        {
+          "Color": "Original Titanium",
+          "Storage": "512 GB",
+          "Model": [ "MU2V3CH" ]
+        },
+        {
+          "Color": "Blue Titanium",
+          "Storage": "512 GB",
+          "Model": [ "MU2W3CH" ]
+        }
+      ]
+    }
 ]
